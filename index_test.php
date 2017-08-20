@@ -130,7 +130,6 @@
         </div>
             <!-- The page -->
         <div id="page-wrapper">
-            <!-- <div class="header"> -->
             
             <div class="navbar navbar-default" role='navigation' style="margin-bottom:0px;" >
                 <div class="container-fluid">
@@ -159,9 +158,9 @@
                                         padding-left: 10px;
                                     "> 
                                 </a>
-                                <!-- <a href="/sinarmas-am.co.id/">
+                                <a href="/sinarmas-am.co.id/">
                                     <img class="sinarmas_logo" src="gallery/reksadana_logo.png" alt="Brand">
-                                </a> -->
+                                </a>
                             </div>
                         
                         </div>
@@ -171,7 +170,7 @@
                 </div>
                 
             </div>
-            <!-- </div> -->
+
 
             </div>
             <div class="content">
