@@ -689,7 +689,6 @@
                 "extensions": [
                     "fx-menu-zoom"
                 ],
-                "counters": true,
                 // configuration
                     offCanvas: {
                         pageSelector: "#page-wrapper"
@@ -708,7 +707,6 @@
                     {
                         "position": "bottom",
                         "content": [
-                            "<a class='fa fa-envelope' href='#/'></a>",
                             "<a class='fa fa-twitter' href='#/'></a>",
                             "<a class='fa fa-facebook' href='#/'></a>"
                         ]
