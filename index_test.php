@@ -346,7 +346,7 @@
                 </div>
 
                 <div class="section3">
-                    <div class="container-fluid real-time" style='padding-left:0px; padding-right:0px;background-color:#232323;height:auto;'>
+                    <div class="container-fluid real-time" style='padding-left:0px; padding-right:0px;padding-bottom:30px; background-color:#232323;height:auto;'>
                         <div class="row" style='padding-top:20px; padding-bottom:20px;'>
                             <div class="col-md-9 col-md-offset-1">
                                 <h1 style='color:white'><?php echo dgettext('sidebar', 'NAB Harian'); ?></h1>
