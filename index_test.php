@@ -32,7 +32,7 @@
     <body>
         <!-- MENU -->
         <div class="container">
-            <nav id="menu">
+            <nav id="menu" style="color:#ce000c;">
                 <ul>
                     <li><a href="index"><?php echo gettext('Beranda'); ?></a></li>
                     <li><a href="about-us"><?php echo gettext('Tentang Kami'); ?></a>
