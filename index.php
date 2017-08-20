@@ -22,11 +22,9 @@
         <!-- To ensure proper rendering and touch zooming -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="modules/css/main.min.css"> 
+        <?php include "header.php" ?>
         <link rel="stylesheet" href="modules/css/nav_test.css">
 
-         <!-- Include jQuery.mmenu .css files -->
-        <link rel="stylesheet" href="modules/mmenu/jquery.mmenu.all.css">
     </head>
 
     <body>
@@ -583,42 +581,9 @@
             <?php include 'footer.php' ?>
         </div>
         <?php include 'jsload.php' ?>
-        <!-- Include jQuery and the jQuery.mmenu .js files -->
-        <script src="modules/mmenu/jquery.mmenu.all.js"></script>
-        <!-- Fire the plugin onDocumentReady -->
-        <script>
-            jQuery(document).ready(function( $ ) {
-                $("#menu").mmenu({
-                "extensions": [
-                    "fx-menu-zoom"
-                ],
-                // configuration
-                    offCanvas: {
-                        pageSelector: "#page-wrapper"
-                    },
 
-                "navbars": [
-                    {
-                        "position": "top",
-                        "content": [
-                            "searchfield"
-                        ]
-                    },
-                    {
-                        "position": "top"
-                    },
-                    {
-                        "position": "bottom",
-                        "content": [
-                            "<a class='fa fa-twitter' href='#/'></a>",
-                            "<a class='fa fa-facebook' href='#/'></a>"
-                        ]
-                    }
-                ]
-                });
-            });
-        </script>
         <script>
+            // NEWS CAROUSEL
             var news_link = "http://trading.simasnet.com/ROL/prod_news.php";
             var news_detail = "http://trading.simasnet.com/ROL/prod_news_detail.php"; // POST news_id first!!
 
