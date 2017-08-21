@@ -2,3 +2,150 @@
 p.MsoNormalCxSpMiddle, p.MsoNormal {
      word-wrap: break-word; 
 }
+
+.section1 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: #ce000c; 
+    background-image: url('../../gallery/main-carousel.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+// For laptops --> like parallax
+@include media-query (tablet-retina) {
+    .section1 {
+        background-attachment: fixed;
+    }
+}
+
+// for the all carousels 
+.carousel-indicators {
+    bottom: -50px !important;
+}
+
+.carousel-control {
+    &.left, &.right {
+        background-image: none !important;
+    }
+    
+}
+// section 2
+.section2 {
+    .carousel-indicators{
+        li {
+            border-color: #c1c0c0;
+            background-color: #c1c0c0;
+            &.active {
+                background-color: black;
+            }
+
+        }
+
+    }
+}
+
+// section 3
+.section3 {
+    // the container
+    .container-fluid {
+        padding-left:0px; 
+        padding-right:0px;
+        padding-bottom:30px; 
+        background-color:#232323;
+        height:auto;
+
+        .row {
+            padding-top:20px; 
+            padding-bottom:20px;
+
+            h1, span {
+                color: white;
+            }
+
+            span {
+                font-style: italic;
+            }
+        }
+    }
+    // real time table
+    .real-time {
+        .table {
+            thead {
+                tr {
+                    th, td {
+                        padding: 0px;
+                    }
+                    &:nth-child(2) th {
+                        width: 75%;
+                        color:white;
+                    }
+                    th:only-child {
+                        background-color:#ce000c;
+                        color:white; 
+                        text-align:center; 
+                        border-bottom:0;
+                    }
+                }
+            }
+
+            tbody {
+                tr {
+                    &:first-child {
+                        color:white; 
+                        background-color:#555555;
+                    }
+
+                    &:nth-of-type(even){
+                        color:#639da1;
+                    }
+
+                    td {
+                        padding: 0px;
+                    }
+
+                }
+            }
+            th {
+                border: 0 !important;
+                a {
+                    color: #ffffff;
+                    &:hover {
+                        color: #555555;
+                    }
+                }
+            }
+
+            td {
+                border: 0 !important;
+            }
+
+        }
+        .interest-title {
+            padding-top:20px; 
+            padding-bottom:20px;
+        }
+        .interest-rate {
+            thead {
+                tr {
+                    background-color:#ce000c; 
+                    color:white
+                }
+            }
+
+            tbody {
+                tr {
+                    &:nth-of-type(even){
+                        color:#ffffff;
+                        background-color: #555555;
+                    }
+                    &:nth-of-type(odd) {
+                        color:#639da1;
+                        background-color: transparent;
+                    }
+                }
+
+            }
+        }
+    }
+}

@@ -247,11 +247,11 @@
                 </div>
 
                 <div class="section3">
-                    <div class="container-fluid real-time" style='padding-left:0px; padding-right:0px;padding-bottom:30px; background-color:#232323;height:auto;'>
-                        <div class="row" style='padding-top:20px; padding-bottom:20px;'>
+                    <div class="container-fluid real-time" >
+                        <div class="row">
                             <div class="col-md-9 col-md-offset-1">
-                                <h1 style='color:white'><?php echo dgettext('sidebar', 'NAB Harian'); ?></h1>
-                                <span style='color:white; font-style:italic' class='updated-date'><?php echo dgettext('sidebar', 'Update Terakhir: ') ?></span>
+                                <h1><?php echo dgettext('sidebar', 'NAB Harian'); ?></h1>
+                                <span class='updated-date'><?php echo dgettext('sidebar', 'Update Terakhir: ') ?></span>
                             </div>
                         </div>
 
@@ -556,9 +556,9 @@
                                     </tbody>
                                 </table>
 
-                                <div style='padding-top:20px; padding-bottom:20px;'>
-                                    <h1 style='color:white;'> <?php echo dgettext('sidebar', 'Suku Bunga'); ?> </h1>
-                                    <span class="update-date-sb" style="color:white; font-style:italic"><?php echo dgettext('sidebar', 'Update Terakhir: '); ?> </span>
+                                <div class="interest-title">
+                                    <h1> <?php echo dgettext('sidebar', 'Suku Bunga'); ?> </h1>
+                                    <span class="update-date-sb"><?php echo dgettext('sidebar', 'Update Terakhir: '); ?> </span>
                                 </div>
 
                                 <table class="table table-striped interest-rate">
