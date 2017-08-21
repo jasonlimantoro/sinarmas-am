@@ -591,7 +591,7 @@
                 "Simas Saham Maksima"
             ];
 
-            var prod_daily_nav_url = "http://trading.simasnet.com/ROL/prod_daily_nav.php";
+            var prod_daily_nav_url = "http://trading.simasnet.com/ROL/prod_daily_nav_structure.php";
             var prod_suku_bunga_url = "http://trading.simasnet.com/ROL/prod_suku_bunga.php";
 
             var request1 = $.getJSON(prod_daily_nav_url, function (arr_check) {

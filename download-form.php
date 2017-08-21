@@ -18,7 +18,7 @@
     <body>
         <!-- PRIMARY NAVIGATION -->
         <?php 
-            include("nav.php");
+            include("nav_structure.php");
         ?>
         <!--PRIMARY NAVIGATION ENDS HERE -->
 

@@ -5,7 +5,7 @@
     </head>
     <body>
         <?php
-            include("nav.php");
+            include("nav_structure.php");
             include("carousel.php")
         ?>
         <?php 
