@@ -14,22 +14,17 @@
 
             </div>
 
-
             <div class="col-md-5 col-xs-5">
                 <div class="logo-brand">
                     <a href="/sinarmas-am.co.id/">
-                        <img class="sinarmas_logo" src="gallery/logo-am.png" alt="Brand" style="
-                            width: 170px;
-                            padding-top: 5px;
-                            padding-left: 10px;
-                        "> 
+                        <img class="sinarmas_logo img-responsive" src="gallery/logo-am.png" alt="Brand"> 
                     </a>
                 </div>
             </div>
 
             <div class="col-md-5 col-xs-5">
                 <a href="/sinarmas-am.co.id/">
-                    <img class="sinarmas_logo" src="gallery/reksadana_logo.png" alt="Brand">
+                    <img class="reksadana_logo img-responsive" src="gallery/reksadana_logo.png" alt="Brand">
                 </a>
 
             </div>
