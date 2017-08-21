@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-08-01 17:15+0800\n"
+"PO-Revision-Date: 2017-08-02 11:19+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Edukasi"
+msgstr "Education"
+
+msgid "Strategi Alokasi Aset"
+msgstr "Strategy of Assets Allocation"
+
+msgid "NAB (Nilai Aktiva Bersih)"
+msgstr "NAV (Net Assets Value)"
+
+msgid "Manajer Investasi"
+msgstr "Investment Manager"
+
+msgid "Bank Kustodian"
+msgstr "Custodian Bank"
+
+msgid "Agen Penjual"
+msgstr "Selling Agent"
+
+msgid "Prospektus"
+msgstr "Prospectus"
+
+msgid "Unit Penyertaan"
+msgstr "Units"
+
+msgid "Reksa Dana"
+msgstr "Mutual Fund"
+
+msgid "Mengenal Reksa Dana"
+msgstr "Knowing Mutual Fund"
+
+msgid "Bentuk Hukum Reksa Dana"
+msgstr "Legal Forms of Mutual Fund"
+
+msgid "Karakteristik Reksa Dana"
+msgstr "Characteristics of Mutual Fund"
+
+msgid "Jenis-Jenis Reksa Dana"
+msgstr "Types of Mutual Fund"
+
+msgid "Keuntungan Berinvestasi pada Reksa Dana"
+msgstr "Benefits of Investing at Mutual Fund"
+
+msgid "Resiko Investasi Reksa Dana"
+msgstr "Risk of Mutual Fund Investment"
+
+# Strategi Alokasi Aset
+msgid "Strategi alokasi aset adalah salah satu strategi dalam investasi untuk memperoleh imbal hasil (return) yang optimal dengan mempertimbangkan tingkat resiko yang akan di dapat. Metode alokasi asset berpedoman pada pembentukan \"base policy mix\" atau komposisi dasar portofolio. Base policy mix ini merupakan kombinasi berbagai asset secara proposional berdasarkan tingkat imbal hasil yang diharapkan (expected return). Contohnya, jika saham secara historis memberikan imbal hasil sebesar 20% per tahun sedangkan obligasi memberikan imbal hasil 10% per tahun, maka portofolio dengan komposisi 50% saham dan 50% obligasi dapat diharapkan memberikan imbal hasil (expected return) per tahun sebesar 50% x 20% + 50% x 10% = 15%."
+msgstr "Strategy of assets allocation is one of strategies in investment to gain optimum return by considering the risk level that will be faced. Method of assets allocation refers to the formation of \"base policy mix\" or portfolio base composition. This base policy mix constitutes a combination of various assets proportional based on expected return rate. For example, if the share historically provides return of 20% per year while bonds provide return of 10% per year, then portfolio with the composition of 50% share and 50% bonds can be expected to provide return per year of 50% x 20% + 50% x 10% = 15%."
+
+# NAB
+msgid "NAB (Nilai Aktiva Bersih) adalah nilai pasar yang wajar dari suatu Efek dan kekayaan lain dari Reksa Dana dikurangi seluruh kewajibannya. Metode penghitungan Nilai Aktiva Bersih Reksa Dana dihitung dan diumumkan pada setiap Hari Bursa."
+msgstr "NAV (Net Assets Value) Is fair market value from a stock and the other assets from mutual fund deducted with all its obligations. Method of Net Assets Value calculation of Mutual Fund will be calculated and announced on every Exchange Day."
+
+# Manajer investasi
+msgid "Manajer Investasi adalah pihak yang kegiatan usahanya mengelola Portofolio Efek untuk para nasabah atau mengelola portofolio investasi kolektif untuk sekelompok nasabah, kecuali perusahaan asuransi, dana pensiun, dan bank yang melakukan sendiri kegiatan usahanya berdasarkan peraturan perundang-undangan yang berlaku."
+msgstr "Investment Manager is the party who the business activity is to manage Stock Portfolio for customers or to manage collective investment portfolio for a group of customers, except insurance company, pension fund, and the bank carrying out its business activity alone based on the prevailing statutory regulation."
+
+# Bank Kustodian
+msgid "Bank Kustodian adalah Pihak yang memberikan jasa penitipan kolektif dan harta lainnya yang berkaitan dengan Efek, seperti saham dan obligasi. Bank Kustodian juga melakukan peran administrasi seperti menagih hasil penjualan, menerima deviden, penyelesaian transaksi penjualan dan pembelian, serta menyajikan laporan atas seluruh aktifitas transaksi nasabahnya. Pihak yang dapat melaksanakan kegiatan usaha sebagai Kustodian adalah Perusahaan Efek, atau Bank Umum yang telah mendapat persetujuan dari Bapepam."
+msgstr "Custodian Bank is the Party providing a collective custody service and the other property relating to the Stock, such as stock and bonds. Custodian Bank also perform administrative role such as to collect selling proceed, to receive dividend, settlement of selling and purchase transaction, and presents a report on all transaction activities of the customers.The party carrying out business activity as Custodian is Security Company, or Commercial Bank which has obtained approval from Capital Market Supervisory Board (Bapepam)."
+
+# Agen Penjual
+msgid "Pihak yang berkompeten (mempunyai izin WAPERD) yang ditunjuk oleh Manajer Investasi untuk memasarkan reksa dana kepada investor."
+msgstr "The authorized party (possessing WAPERD license) appointed by Investment Manager to market mutual fund to investor."
+
+# Prospektus
+msgid "Adalah setiap pernyataan yang dicetak, yang digunakan untuk Penawaran Umum Reksa Dana dengan tujuan memberikan informasi kepada calon pemodal / pembeli Unit Penyertaan Reksa Dana, informasi berdasarkan peraturan BAPEPAM dan LK."
+msgstr "Prospectus Is every printed statement, used for Mutual Fund Public Offer with the purpose to give information to prospective investor/purchaser of Mutual Fund Participation Unit, information based on regulation of Capital Market Supervisory Board and Financial Institution."
+
+# Unit Penyertaan
+msgid "Unit Penyertaan adalah satuan ukuran yang menunjukkan bagian kepemilikan unit dalam portofolio investasi kolektif."
+msgstr "Units is a measuring unit showing part of unit ownership in collective investment portfolio."
+
+# Mengenal Reksa Dana
+msgid "Reksa dana merupakan salah satu alternatif investasi bagi masyarakat pemodal, khususnya pemodal kecil dan pemodal yang tidak memiliki banyak waktu untuk memantau investasinya. Reksa Dana dirancang sebagai sarana untuk menghimpun dana dari masyarakat yang memiliki modal, mempunyai keinginan untuk melakukan investasi, namun hanya memiliki waktu dan pengetahuan yang terbatas seputar pasar modal. Selain itu Reksa dana diharapkan dapat meningkatkan peran pemodal lokal untuk berinvestasi di pasar modal Indonesia. Menurut Undang-undang Pasar Modal nomor 8 Tahun 1995 pasal 1, ayat (27) :<br>“<strong>Reksa dana</strong> adalah wadah yang dipergunakan untuk menghimpun dana dari masyarakat pemodal untuk selanjutnya diinvestasikan dalam portofolio Efek oleh Manajer Investasi”. Dengan demikian, dana yang ada dalam Reksa Dana merupakan dana bersama para pemodal, sedangkan Manajer Investasi adalah pihak yang dipercaya untuk mengelola dana tersebut. Pada reksa dana, Manajer Investasi mengelola dana-dana yang ditempatkannya pada surat berharga dan merealisasikan keuntungan ataupun kerugian dan menerima dividen atau bunga yang dibukukannya ke dalam \"Nilai Aktiva Bersih\" (NAB) reksa dana tersebut. Kekayaan reksa dana yang dikelola oleh manajer investasi tersebut wajib untuk disimpan pada Bank Kustodian yang tidak terafiliasi dengan Manajer Investasi, dimana Bank Kustodian inilah yang akan bertindak sebagai tempat penitipan kolektif dan administrasi."
+msgstr "Mutual Fund is one of investment alternatives for investor community, especially small investor and investor who does not have much time to monitor its investment. Mutual Fund is designed as an instrument to accumulate fund from the community having capital, having an intention to make an investment, however he/she has a limited time and knowledge about capital market. Besides, Mutual Fund can be expected to improve the role of local investor to invest in Indonesian Capital Market.According to Law on Capital Market Number 8 Year 1995 article 1, paragraph (27) :<br>“<strong>Mutual fund</strong> is an instrument used to accumulate funds from investor community, then to be invested in Stock portfolio by Investment Manager”. Thus, the fund available in the Mutual Fund constitutes joint fund of investors, while Investment Manager is the party entrusted to manage the fund. At mutual fund, Investment Manager manage the funds placed in securities and make profit or losses and receive deviden or interest booked into \"Net Assets Value\" (NAV) of such mutual fund. Mutual Fund assets managed by Investment Manager shall be kept in Custodian Bank of which not affiliated with Investment Manager, where as a place of collective custody and administration Custodian Bank shall act."
+
+# Bentuk Hukum
+msgid "Berdasarkan Undang-undang Pasar Modal Nomor 8 Tahun 1995 pasal 18, ayat (1), bentuk hukum Reksa dana di Indonesia ada dua, yakni Reksa dana berbentuk Perseroan Terbatas dan Reksa dana berbentuk Kontrak Investasi Kolektif (KIK)."
+msgstr "Based on law on Capital Market Number 8 Year 1995 article 18, paragraph (1), there are two legal forms of Mutual Fund in Indonesia, namely Mutual fund in the form of Limited Liability Company and Mutual fund in the form of Collective Investment Contract (KIK)."
+
+msgid "Reksa Dana Berbentuk Perseroan"
+msgstr "Mutual Fund in the form of Limited Liability Company"
+
+msgid "Reksa Dana Perseroan Terbatas adalah Reksa Dana yang dibentuk dengan mendirikan Perseroan Terbatas. Investor Reksa Dana jenis ini juga merupakan pemegang saham Reksa Dana yang bersangkutan. Sampai dengan saat ini, Bapepam telah memberikan izin usaha Reksa Dana berbentuk Perseroan sebanyak 2, yaitu kepada"
+msgstr "Reksa Dana Perseroan Terbatas adalah Reksa Dana yang dibentuk dengan mendirikan Perseroan Terbatas. Investor Reksa Dana jenis ini juga merupakan pemegang saham Reksa Dana yang bersangkutan. Sampai dengan saat ini, Bapepam telah memberikan izin usaha Reksa Dana berbentuk Perseroan sebanyak 2, yaitu kepada<strong>No translation</strong>"
+
+msgid "tertutup"
+msgstr "closed"
+
+msgid "Kontrak Investasi Kolektif"
+msgstr "Collective Instrument Contract"
+
+msgid "Kontrak yang dibuat antara Manajer Investasi dan Bank Kustodian yang juga mengikat pemegang Unit Penyertaan sebagai Investor. Melalui kontrak ini Manajer Investasi diberi wewenang untuk mengelola portofolio efek dan Bank Kustodian diberi wewenang untuk melaksanakan penitipan dan administrasi investasi."
+msgstr "The contract made between Investment Manager and Custodian Bank which also binds participation Unit holder as Investor. With this contract Investment Manager is provided an authority to manage stock portfolio and Custodian Bank is provided an authority to carry out custody and administration of investment."
+
+# Karakteristik Reksa Dana
+msgid "Berdasarkan karakteristiknya maka reksa dana dapat digolongkan sebagai berikut:"
+msgstr "Based on its characteristic, then mutual fund can be grouped as follows:"
+
+msgid "Reksa Dana Terbuka"
+msgstr "Open Mutual Fund"
+
+msgid "Adalah reksa dana yang dapat dijual kembali kepada Perusahaan Manajer Investasi yang menerbitkannya tanpa melalui mekanisme perdagangan di Bursa efek. Harga jualnya biasanya sama dengan Nilai Aktiva Bersihnya. Sebagai informasi, sebagian besar reksa dana yang ada saat ini adalah merupakan reksa dana terbuka."
+msgstr "Is mutual fund that can be resold issuing Investment Manager Company without passing through trading mechanism at stock Exchange. The selling Price is usually the same with its Net Asset Value. As information, most part of mutual fund existing at this moment constitutes an open mutual fund."
+
+# KIK IDEM
+# Jenis-Jenis Reksa Dana
+msgid "Reksa dana yang melakukan investasi sekurang-kurangnya 80% dari dana yang dikelola dalam bentuk efek bersifat utang. Tujuannya adalah untuk menghasilkan tingkat pengembalian yang stabil."
+msgstr "Mutual fund carrying out an investment at least 80% of fund managed in the form of liability stock. The purpose is to gain a stable return level."
+
+msgid "Reksa dana yang melakukan investasi sekurang-kurangnya 80% dari dana yang dikelolanya dalam efek bersifat ekuitas."
+msgstr "Mutual fund carrying out an investment at least 80% of fund managed in the form of equity stock."
+
+msgid "Reksa dana yang dapat melakukan investasi pada efek bersifat utang, ekuitas dan pasar uang. Dengan mempunyai perbandingan target aset alokasi pada efek saham dan pendapatan tetap yang berbeda."
+msgstr "Mutual fund which can make an investment at liability stock, equity and money market. By possessing a comparison of target of allocation assets at stock securities and the different fixed income."
+
+msgid "Reksa dana yang investasinya pada efek bersifat hutang dengan jatuh tempo yang kurang dari satu tahun. Tujuannya adalah untuk menjaga likuiditas dan pemeliharaan modal."
+msgstr "Mutual  fund invested at liability stock with maturity less than one year. The purpose  is to maintain liquidity and capital."
+
+msgid "Reksa Dana Terproteksi, memiliki fitur khusus adanya proteksi (namun bukan jaminan) terhadap nilai pokok investasi awal. Reksa Dana terproteksi umumnya dikategorikan sebagai investasi resiko rendah hingga menengah dan umumnya digunakan untuk tujuan investasi jangka panjang. Dalam berinvestasi di reksa dana Terproteksi, umumnya investor harus berkomitmen untuk suatu jangka waktu investasi tertentu untuk mendapatkan manfaat proteksinya misalnya 2 atau 3 tahun tergantung dari portofolio produk yang bersangkutan."
+msgstr "Protected Mutual Fund, has a specific feature the existence of protection (but not a guarantee) toward basic value of initial investment. Protected Mutual Fund generally is categorized as low risk investment up to middle and generally is used for the purpose of long term period investment. In the investment at Protected mutual fund, generally investor must commitment for a certain investment period to gain benefit of its protection, for example 2 or 3 years depending on the relevant portfolio product."
+
+# Keuntungan Berinvestasi
+msgid "Dikelola oleh Manajer Investasi yang Profesional"
+msgstr "Managed by a Professional Investment Manager"
+
+msgid "Pengelolaan portofolio suatu Reksa dana dilaksanakan oleh Manajer Investasi yang memang mengkhususkan keahliannya dalam hal pengelolaan dana. Peran Manajer Investasi sangat penting mengingat Pemodal individu pada umumnya mempunyai keterbatasan waktu, sehingga tidak dapat melakukan riset secara langsung dalam menganalisa harga efek serta mengakses informasi ke pasar modal."
+msgstr "Portfolio management of a Mutual Fund is carried out by Investment Manager who indeed specifically performs its expertise in managing fund. The role of Investment Manager is very important considering that individual Investor generally has limited time, so that can not do research directly in analyzing stock price and to make access to capital market."
+
+msgid "Diversifikasi Investasi"
+msgstr "Investment Diversification"
+
+msgid "Diversifikasi atau penyebaran investasi yang terwujud dalam portofolio akan mengurangi resiko (tetapi tidak dapat menghilangkan), karena dana atau kekayaan Reksa dana diinvestasikan pada berbagai jenis efek sehingga resikonya pun juga tersebar. Dengan kata lain, resikonya tidak sebesar resiko bila seorang membeli satu atau dua jenis saham atau efek secara individu."
+msgstr "Diversification or distribution of investment in the form of portfolio will reduce the risk (but can not eliminate), because the fund or assets of mutual fund is invested in various kinds of stocks so that the risk is also distributed. In another word, the risk is not as big as the risk if a person purchases one or two kinds of stocks individually."
+
+msgid "Transparansi Informasi"
+msgstr "Information Transparency"
+
+msgid "Reksa dana wajib memberikan informasi atas perkembangan portofolionya secara berkelanjutan sehingga pemegang Unit Penyertaan dapat memantau pergerakan dari NAB Reksa Dana tersebut. Pengelola Reksa dana wajib mengumumkan Nilai Aktiva Bersih (NAB) nya setiap hari di surat kabar serta menerbitkan Fund Fact Sheet setiap bulannya serta prospektus secara teratur sehingga Investor dapat memonitor perkembangan investasinya secara rutin."
+msgstr "Mutual fund is obligated to provide information on the progress of its portfolio sustainable so that Participation Unit holder can monitor NAV of the said Mutual Fund. Management of Mutual Fund is obliged to announce its Net Assets Value (NAV) everyday in newspaper publishing Fund Fact Sheet echo month and prospectus regularly so that Investor can monitor its investment progress regularly."
+
+msgid "Likuiditas yang Tinggi"
+msgstr "High Liquidity"
+
+msgid "Investor dapat mencairkan kembali Unit Penyertaannya setiap saat sesuai ketetapan yang dibuat masing-masing Reksa Dana, sehingga Reksa Dana tersebut dapat dikatakan sangat liquid."
+msgstr "Investor can redisburse its Participation Unit any time in accordance with stipulation made by the respective Mutual Fund, so that such Mutual Fund can  be called very liquid."
+
+msgid "Biaya Rendah"
+msgstr "Low Cost"
+
+msgid "Karena reksa dana merupakan kumpulan dana dari banyak pemodal dan kemudian dikelola secara profesional, maka sejalan dengan besarnya kemampuan untuk melakukan investasi tersebut akan menghasilkan pula efisiensi biaya transaksi. <em><strong>Biaya transaksi akan menjadi lebih tinggi, jika Investor melakukan transaksi secara langsung di bursa.</strong></em>"
+msgstr "Since mutual fund constitutes collection of fund from many investors and then managed professionally, in turn, in line with the size of ability to invest will also provide efficiency of transaction cost.<em>Transaction cost will become higher, if Investor makes transaction directly at exchange</em>"
+
+msgid "Potensi Pertumbuhan Nilai Investasi"
+msgstr "Potential Growth of Investment Value"
+
+msgid "Reksa Dana adalah kumpulan dana dari pemodal yang dikelola secara terarah dan dapat dipertanggungjawabkan. Sehingga dengan akumulasi dana tersebut, Reksa Dana memiliki daya tawar (bargaining power) yang lebih baik dalam memperoleh instrumen investasi yang sulit jika dilakukan secara individual. Hal ini memberikan kesempatan yang sama kepada seluruh Pemegang Unit Penyertaan untuk memperoleh hasil investasi yang relatif baik sesuai tingkat resikonya."
+msgstr "Mutual Fund is accumulation of investors fund managed directedly and reliably. So that with such accumulated fund, Mutual Fund has a better bargaining power in gaining a difficult investment instrument if it is carried out individually. This matter gives the same opportunity to all Participation Unit Holder to obtain a relative good investment yield in accordance with its risk level."
+
+msgid "Kemudahan Bertransaksi"
+msgstr "Transaction Facility"
+
+msgid "Pemodal dapat melakukan investasi secara langsung di pasar modal/uang, tanpa melalui prosedur dan persyaratan yang rumit."
+msgstr "Investor can make investment directly in capital/money market, without passing through a complicated procedure and requirement."
+
+# Resiko Investasi
+msgid "Resiko Menurunnya NAB (Nilai Aktiva Bersih) Unit Penyertaan"
+msgstr "Risk of the Decrease of NAV (Net Assets Value) of Participation Unit"
+
+msgid "Penurunan ini disebabkan oleh harga pasar dari instrumen investasi yang dimasukkan dalam portofolio Reksa dana tersebut mengalami penurunan dibandingkan dari harga pembelian awal. Penyebab penurunan harga pasar portofolio investasi pada Reksa Dana bisa disebabkan oleh banyak hal, di antaranya sebagai akibat dari situasi politik dan ekonomi yang tidak menentu, dan masih banyak penyebab fundamental lainnya."
+msgstr "This decrease is due to market price of investment instrument put into such Mutual Fund portfolio experiencing a decrease compared to initial purchase price. The cause of investment portfolio market price decrease at Mutual Fund could be due to many causes, among others as the result of uncertainty political and economic situation, and there are still the other fundamental causes."
+
+msgid "Resiko Likuiditas"
+msgstr "Liquidity Risk"
+
+msgid "Potensi resiko likuiditas ini bisa saja terjadi pada suatu reksadana apabila pemegang Unit Penyertaan reksa dana pada salah satu Manajer Investasi tertentu ternyata melakukan penarikkan dana dalam jumlah yang besar pada hari dan waktu yang sama. Sehingga membuat Manajer Investasi harus melakukan pencairan portofolio reksa dana tersebut, dalam kondisi luar biasa (force majure) maka penjualan kembali dapat dihentikan untuk sementara sesuai dengan ketentuan dalam Kontrak Investasi kolektif dan peraturan BAPEPAM dan LK."
+msgstr "Potential of this liquidity may occur at a mutual fund if mutual fund Participation Unit holder at one of certain Investment Manager evident withdraw fund in great amount on the same day and time. So that it makes Investment Manager has to seek such mutual fund portfolio, in an extraordinary condition (force majure), then reselling can be stopped temporarily in accordance with provision in Collective Investment Contract and regulation of BAPEPAM and Financial Institution."
+
+msgid "Resiko Pasar"
+msgstr "Market Risk"
+
+msgid "Resiko Pasar adalah situasi ketika harga instrumen investasi mengalami kenaikan ataupun penurunan yang disebabkan oleh naik / turunnya kinerja pasar saham atau pasar obligasi. Keadaan pasar sedang mengalami kondisi bearish, yaitu harga - harga saham atau instrumen investasi lainnya mengalami penurunan harga. Sebailknya, pasar akan mengalami bullish, apabila harga saham / obligasi / pasar uang lainnya mengalami kenaikan harga. Resiko pasar yang terjadi secara tidak langsung akan mempengaruhi NAB (Nilai Aktiva Bersih) yang ada pada Unit Penyertaan Reksa Dana."
+msgstr "Market Risk is a situation when investment instrument price experiencing fluctuation due to fluctuation of stocks market or bonds market performance. Market condition experiences bearish, namely prices of share or the other investment instrument experiencing a decrease of price. On the contrary, market will experience bullish, if price of stocks/bonds/the other money market experince price increase. The occurenc of market risk will indirectly influence NAV (Net Assets Value) exisiting in Mutual Fund Participation Unit."
+
+msgid "Resiko Default"
+msgstr "Default Risk"
+
+msgid "Resiko Default terjadi jika pihak Manajer Investasi tersebut membeli obligasi milik emiten yang mengalami kesulitan keuangan padahal sebelumnya kinerja keuangan perusahaan tersebut masih baik-baik saja sehingga pihak emiten tersebut terpaksa tidak membayar kewajibannya. Resiko ini hendaknya dihindari dengan cara memilih Manajer Investasi yang menerapkan strategi pembelian portofolio investasi secara ketat."
+msgstr "Default Risk occurs if the Investment Manager party purchases issuer’s bonds experiencing a financial difficulty, as a mater of fact, previously the company’s financial performance was still good so that such issuer party is forced not to pay its obligation. This risk should be avoided by selecting Investment Manager who implements a tight strategy of investment portfolio purchase."
+
+msgid "Resiko perubahan politik, ekonomi dan peraturan perpajakan"
+msgstr "Risk of the change of politic, economic and taxation regulation"
+
+msgid "Perubahan kondisi politik, ekonomi dan peraturan perpajakan serta peraturan-peraturan lainnya khususnya pada pasar uang dan pasar modal nasional maupun internasional dapat mempengaruhi nilai NAB per unit yang dimiliki oleh Pemegang Unit Penyertaan Reksa Dana."
+msgstr "The change of politic, economic and taxation regulation as well as the other regulation especially at national and international money market and capital market can influence NAV value  per unit possessed by Mutual Fund Participation Unit Holder."
+
+msgid "Resiko fluktuasi nilai tukar dan tingkat suku bunga"
+msgstr "Fluctuation Risk of exchange rate and interest rate"
+
+msgid "Investasi yang dilakukan pada Reksa Dana dapat mengalami kenaikan atau penurunan nilai sebagai akibat dari fluktuasi pada nilai tukar antara Rupiah Indonesia dan mata uang asing; maupun suku bunga antara investasi Rupiah Indonesia dan non Rupiah juga dapat menyebabkan perubahan / fluktuasi nilai investasi pada potofolio yang diinvestasikan oleh Manajer Investasi, sehingga pada hasil akhirnya memberi perubahan pada nilai NAB."
+msgstr "Investment carried out at Mutual Fund can experience increase or decrees of value as the result of fluctuation at exchange rate value between Indonesian Rupiah and foreign currency; and interest rate between investment of Indonesian Rupiah and non Rupiah can also cause a change/fluctuation of investment value at portfolio invested by Investment Manager, so that at final result give the change to NAV value."

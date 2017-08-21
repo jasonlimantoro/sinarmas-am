@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-31 12:36+0800\n"
+"PO-Revision-Date: 2017-08-02 12:59+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# GENERAL TERMS
+msgid "Kalkulator"
+msgstr "Calculator"
+
+msgid "Jumlah Investasi"
+msgstr "Amount of Investment"
+
+msgid "Jangka Waktu Investasi"
+msgstr "Period of Investment"
+
+msgid "Coba Hitung"
+msgstr "Try Calculate"
+
+msgid "Hitung"
+msgstr "Calculate"
+
+msgid "Tahun"
+msgstr "Year(s)"
+
+# Panel Kalkulator
+msgid "Jenis Investasi"
+msgstr "Kind of Investment"
+
+msgid "Indikasi Hasil Investasi"
+msgstr "Indication of Investment Result"
+
+msgid "Simulasi Hasil Investasi"
+msgstr "Result of Investment Simulation"
+
+msgid "Tingkat indikasi hasil investasi di atas bukanlah jaminan hasil investasi yang akan Anda peroleh, tetapi hanya merupakan simulasi investasi, berdasarkan rata – rata kinerja produk tersebut."
+msgstr "Level of indication result investment above not guarantee your result investment, only investment simulation based on average product’s performance."
+
+# Kalkulator Masa depan
+msgid "Dapat menghitung hasil investasi masa depan"
+msgstr "Calculate Your Future Investment"
+
+msgid "<p>Simas Kalkulator dibuat untuk mensimulasikan Hasil Investasi Anda pada beberapa jenis Reksa Dana. Simulasi ini dapat memberikan gambaran kepada Anda mengenai hasil investasi dari sejumlah dana yang Anda investasikan.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 10 juta pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 5 tahun yang akan datang ?</p>"
+msgstr "<p>Simas Calculator’s made for simulate your Investment in any kind of mutual fund. This simulation can give you description about the result of your investment from you fund invested.</p><p>In Simas Calculator, you fill with your content of amount and period your investment that you want in available column.</p><p><strong>Investment Simulation :</strong> <br> If you start invest Rp 10 million at Equity Mutual Funds. How much the result your investment in next 5 years ?</p>"
+
+msgid "Setelah 5 Tahun dengan Anda berinvestasi sebesar Rp. 10,000,000.00 Anda akan mendapatkan hasil investasi sebesar <code>Rp 24,883,200.00</code>."
+msgstr "After 5 years with your beginning investment Rp 10,000,000.00 you will get the result <code>Rp 24,883,200.00</code>."
+
+# Kalkulator Aktual
+msgid "Investasi Aktual"
+msgstr "Actual Investment"
+
+msgid "Dapat Menghitung Nilai Investasi yang diperlukan untuk pencapaian suatu Target Investasi"
+msgstr "Calculate your investment to achieve your target investation"
+
+msgid "<p>Simulasi ini bertujuan untuk memberikan gambaran kepada Anda mengenai <strong>Nilai investasi</strong> yang diperlukan untuk mencapai <strong>Target Investasi</strong>yang Anda inginkan dalam jangka waktu tertentu.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan <strong>Target Dana Investasi</strong> dan <strong>Jangka Waktu Investasi</strong> yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin membeli sebuah rumah seharga Rp 2 Milyar, dan Anda berencana untuk membeli rumah tersebut dalam jangka waktu 8 tahun mendatang. Berapakah uang yang Anda harus investasikan dalam waktu 8 tahun yang akan datang ?</p>"
+msgstr "<p>This simulation to give you description about <strong>Value of Investment</strong> you need to achieve your <strong>Target Investment</strong> in certain period.</p><p>In Simas Calculator, you fill the Target Investment Funds in Certain Period you want in available column.</p><p><strong>Investment Simulation :</strong> <br> You want buy a house Rp 2 billion and your plan to buy that house with period nest 8 years. How much money you should invested in next 8 years ?</p>"
+
+msgid "Melihat dari Simas Kalkulator, untuk dapat membeli rumah seharga Rp 2 Milyar dalam waktu 8 tahun Anda perlu berinvestasi sebesar <code>Rp 465,136,078.72</code> pada Reksa Dana Saham."
+msgstr "From Simas Calculator, to buy a two-billion-rupiah house in the next 8 years, you need to invest <code>Rp 465,136,078.72</code> in Equity Mutual Funds."
+
+# Kalkulator Rutin
+msgid "Investasi Rutin"
+msgstr "Routine Investment"
+
+msgid "<p>Simulasi ini dapat memberikan gambaran kepada Anda mengenai <strong>Hasil investasi</strong> yang akan diperoleh dari investasi secara rutin yang Anda lakukan.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi Bulanan dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 500,000.00 setiap bulannya pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 15 tahun yang akan datang ?</p>"
+msgstr "<p>This simulation give you description about your <strong>Result Investment</strong> from your Routine Investment.</p><p>In Simas Calculator you fill with your content of investment per month and period your investment that you want in available column.</p><p><strong>Investment Simulation :</strong> <br> You start invested Rp 500,000.00 every mount in Stock Mutual Funds for next 15 years</p>"
+
+msgid "Setelah 15 Tahun dengan Anda berinvestasi sebesar Rp 500,000.00 setiap bulan Anda akan mendapatkan hasil investasi sebesar <code>Rp557,849,952.72</code>."
+msgstr "After 15 years with your invested Rp 500,000.00 every month you got <code>Rp 557,849,952.72</code>."
+
+# Kalkulator Berkala
+msgid "Investasi Berkala"
+msgstr "Periodic Investment"
+
+msgid "Dapat menghitung hasil investasi berkala Reksa Dana PT Sinarmas Asset Management"
+msgstr "Our calculator helps to quantify the financial benefits of investing through PT Sinarmas Asset Management mutual funds"
+
+msgid "<p>Simas Kalkulator  “Investasi Berkala” dibuat untuk mensimulasikan hasil investasi Anda pada reksa dana PT Sinarmas Asset Management. Simulasi ini dapat memberikan gambaran kepada Anda mengenai hasil investasi dari sejumlah dana yang Anda investasikan pada reksa dana PT Sinarmas Asset Management, dimana Simas Kalkulator “Investasi Berkala” langsung memperhitungkan Nilai Aktiva Bersih (NAB) pada reksa dana tersebut.</p><p>Pada Simas Kalkulator, Anda diminta untuk memilih produk yang Anda inginkan, nilai investasi setiap bulannya, periode investasi serta tanggal awal dan akhir investasi yang akan Anda simulasikan.</p><p><strong>Simulasi Investasi :</strong><br>Anda ingin melakukan investasi secara berkala pada reksa dana Simas Satu selama jangka waktu 2 tahun dengan jumlah investasi per bulan sebesar Rp 500.000,00. Berapakah hasil investasi Anda ?</p>"
+msgstr "<p>Simas Calculator “Periodic Investments” is designed to calculate the results of your investment in PT Sinarmas Asset Management mutual funds. These calculations are made available to you to determine the amount of investment funds that you plan to invest in PT Sinarmas Asset Management Mutual Funds, where it calculates the net asset value (NAV) of the mutual funds.</p><p>To calculate the value of periodic investments, choose the products that you are plan to invest, the contribution amount of investment on monthly basis, the investment period as well as at beginning and ending of the period.</p><p><strong>Investment Simulation :</strong><br>You plan to invest on a regular basis to Simas Satu Mutual Funds during a period of 2 years with the contribution amount of monthly investment is Rp 500,000.00. What is your total value of investment?</p>"
+
+msgid "Setelah 2 Tahun dengan Anda berinvestasi sebesar <span id=\"code3\">...</span> setiap bulannya, Anda akan mendapatkan hasil investasi sebesar <span id=\"code4\">...</span> dengan keuntungan sebesar <span id=\"code5\">...</span> menjadi <span id=\"code6\">...</span>."
+msgstr "After 2 years, you invest <span id=\"code3\">...</span> each month you will get a total value of your investment <span id=\"code4\">...</span> with a profit of <span id=\"code5\">...</span> to <span id=\"code6\">...</span>."
+
+msgid "Produk"
+msgstr "Product"
+
+msgid "Nilai Investasi / Bulan"
+msgstr "Monthly Investment Amount"
+
+msgid "Periode Investasi Setiap Tanggal"
+msgstr "Investment Period"
+
+msgid "Tanggal Awal Investasi"
+msgstr "Beginning Period"
+
+msgid "Tanggal Akhir Investasi"
+msgstr "Ending Period"
+
+msgid "Perincian"
+msgstr "Breakdown"
+
+msgid "Hasil"
+msgstr "Result"
+
+msgid "NAB Awal"
+msgstr "Start NAV"
+
+msgid "NAB Akhir"
+msgstr "Last NAV"
+
+msgid "Unit Penyertaan"
+msgstr "Units"
+
+msgid "Nilai Investasi Akhir"
+msgstr "Total Value of Investment"
+
+msgid "Jumlah Pokok Investasi"
+msgstr "Principal Value of Investment"
+
+msgid "Keuntungan"
+msgstr "Profit"
+
+msgid "Kerugian"
+msgstr "Loss"

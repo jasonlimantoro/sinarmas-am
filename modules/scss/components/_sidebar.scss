@@ -1,0 +1,23 @@
+.row.action a {
+    color: #FFF;
+    text-decoration: none;
+    font-family: HelveticaNeue-CondensedBold;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 15px;
+    &:hover {
+        text-decoration: underline;
+        color: #FF0;
+    }
+}
+
+.kelola {
+    padding-top: 35px;
+    padding-bottom: 15px;
+}
+
+// RATING STAR
+.rating {
+    color: $red-heading;
+    font-size: 12px;
+}

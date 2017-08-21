@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-25 16:51+0700\n"
+"PO-Revision-Date: 2017-07-31 16:36+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Dewan Komisaris"
+msgstr "Board of Commissioners"
+
+# DODY
+msgid "Komisaris Utama"
+msgstr "President Commissioner"
+
+msgid "Doddy Susanto Lulusan Fakultas Ilmu Sosial Politik, Universitas Katolik Parahyangan, Bandung, tahun 1984. Memiliki pengalaman  bekerja pada BANKAP (1984 - 1986), Bank Internasional Indonesia (1986 - 1999) terakhir menjabat sebagai Consumer Banking Director. Kemudian sebagai Chief Operating Officer pada PT  Asuransi Jiwa Eka Life (1999 - 2000). Saat ini menduduki posisi sebagai Direktur Utama pada PT Sinar Mas Multifinance sejak tahun 2000 dan  saat ini beliau menjabat sebagai Komisaris Utama pada PT Sinarmas Asset Management sejak April 2012."
+msgstr "Doddy Susanto Graduated from Faculty of Political Sciences, Catholic University of Parahyangan, Bandung, in 1984. He has an experience working at BANKAP (1984 - 1986), Bank International Indonesia (1986 - 1999) lastly served as Consumer Banking Director. Then, as Chief Operating Officer at PT Asuransi Jiwa Eka Life (1999 - 2000). At present, he serve as President Director of PT Sinar Mas Multifinance since 2000 and this moment he serves as President Commissioner of PT Sinarmas Asset Management since April 2012."
+
+# HOWEN
+msgid "Komisaris"
+msgstr "Commissioner"
+
+msgid "Howen Widjaja meraih gelar Master of Business Administration dari St. John’s University, 8000 Utopia Parkway, Queens, New York pada tahun 2007. Memiliki pengalaman bekerja pada Perusahaan ACE Insurance sebagai Global Research &amp; Development Intern di tahun 2006, pada tahun 2007 bekerja pada Merrill Lynch sebagai Market Risk Management, pada tahun  2008 bekerja pada PT Asuransi Sinar Mas dengan jabatan sebagai Human Capital &amp; Asset Management Director. Sejak tahun 2009 bekerja pada PT Sinar Mas Multiartha Tbk  sebagai Direktur, dan pada tahun 2010 – saat ini beliau menjabat sebagai Komisaris PT Sinar Mas Multiartha Tbk . Dan saat ini beliau menjabat sebagai Komisaris PT Sinarmas Asset Management sejak April 2012."
+msgstr "Howen Widjaja gained Master of Business Administration degree from St. John’s University, Queens, New York in 2007. He worked at ACE Insurance Company as Global Research & Development Intern in 2006, and in 2007 worked at Merrill Lynch as Market Risk Management, in 2008 worked at PT Asuransi Sinar Mas as Human Capital & Asset Management Director. Since 2009 worked at PT Sinar Mas Multiartha Tbk as Director, and in 2010 – this moment serves as Commissioner of PT Sinar Mas Multiartha Tbk . And currently serves as Commissioner of PT Sinarmas Asset Management since April 2012."
+
+# Board of Directors
+msgid "Dewan Direksi"
+msgstr "Board of Directors"
+
+# Hermawan
+msgid "Direktur Utama"
+msgstr "President Director"
+
+msgid "Hermawan Hosein meraih gelar Bachelor of Mathematical and Computer Sciences dari University of  Western Australia - Perth, Western Australia. Memiliki pengalaman bekerja pada PT Information For Competitive Advantage sebagai Software Engineer sejak tahun 1995 – 1996, pada PT  Askomindo Dinamika sebagai System Support Manager dari tahun 1996 – 1997, PT Bank Internasional Indonesia pada tahun 1998-1999 sebagai Kepala Bagian Electronic Banking, Sejak tahun 2000 - 2001 bekerja pada PT Sinarmas Multiartha dengan posisi terakhir sebagai General Manager. Pada tahun 2002 - 2003 menjabat sebagai General Manager PT Sinarmas Sekuritas, terakhir beliau menjabat sebagai Direktur PT Sinarmas Sekuritas pada tahun&nbsp; 2003 – April 2012. Saat ini beliau menjabat sebagai Direktur Utama PT Sinarmas Asset Management sejak April 2012, dan telah memiliki izin sebagai Manajer Investasi dari Bapepam dengan no. KEP-05/PM/WMI/2003, dan berlisensi sebagai Wakil Penjamin Emisi Efek dengan KEP-33/BL/WPEE/2010."
+msgstr "Hermawan Hosein gained Bachelor degree of Mathematical and Computer Sciences from University of Western Australia - Perth, Western Australia. He has an experience working at PT Information For Competitive Advantage as Software Engineer since year 1995 – 1996, at PT Askomindo Dinamika as System Support Manager from 1996 – 1997, PT Bank Internasional Indonesia in 1998-1999 as Head of Electronic Banking Department, since 2000 - 2001 worked at PT Sinarmas Multiartha with the last position as General Manager. In 2002 - 2003 he served as General Manager of PT Sinarmas Sekuritas, lastly he served as Director of PT Sinarmas Sekuritas in 2003 – April 2012. This moment he serves as President Director of PT Sinarmas Asset Management since April 2012, and has hold a license as Investment Manager from Bapepam under no. KEP-05/PM/WMI/2003, and having license as Underwriter Representative under number KEP-33/BL/WPEE/2010."
+
+# Alex
+msgid "Direktur"
+msgstr "Director"
+
+msgid "Alex Setyawan WK meraih gelar Bachelor of Science Industrial System and Engineering dari Ohio State University, Columbus, Ohio, USA. Memiliki pengalaman bekerja pada PT Bank Internasional Indonesia Tbk. selama 4 tahun, khususnya pada Divisi Corporate Banking. Pada tahun 2000 – 2001 bekerja pada PT Sinarmas Sekuritas sebagai Asisten Manager Corporate, tahun 2001 – 2012 menjabat sebagai Fund Manager pada PT Sinarmas Sekuritas dan saat ini beliau menjabat sebagai Direktur PT Sinarmas Asset Management sejak April 2012. Beliau telah banyak mengikuti berbagai seminar dan pelatihan di bidang keuangan dan pasar modal, dan telah mendapatkan izin sebagai Wakil Manajer Investasi dari BAPEPAM dengan no. KEP-119/PM/WMI/2005."
+msgstr "Alex Setyawan WK gained Bachelor degree of Science Industrial System and Engineering from Ohio State University, Columbus, Ohio, USA. He has an experience worked at PT Bank Internasional Indonesia Tbk. For 4 years, especially at Corporate Banking Division. In 2000 – 2001 worked at PT Sinarmas Sekuritas as Assistant to Corporate Manager, year 2001 – 2012 serves as Fund Manager at PT Sinarmas Sekuritas and at this moment he serves as Director of PT Sinarmas Asset Management since April 2012. He has joined  at various seminars and trainings in the field of finance and capital market, and he has obtained a license as Representative of Investment Manager from BAPEPAM under no. KEP-119/PM/WMI/2005."
+
+msgid "Jamial Salim meraih gelar sarjana dari Binus University, Jakarta, Indonesia. Memiliki pengalaman kerja selama 5 tahun pada PT Bank Internasional Indonesia Tbk., khususnya pada Divisi Information Technology. Pada tahun 2000 – 2004 beliau bergabung dengan PT Sinarmas Sekuritas di divisi Internal Control, di tahun 2004 – 2012 beliau menjabat sebagai Associate Director PT Sinarmas Sekuritas, Sejak tahun 2012 Beliau menjabat sebagai Direktur PT Sinarmas Asset Management, beliau telah banyak mengikuti berbagai seminar dan pelatihan di bidang keuangan dan pasar modal. dan telah mendapatkan izin sebagai Wakil Perantara Pedagang Efek dengan No. KEP-284/BL/WPPE/2010 dan Wakil Manajer Investasi dari BAPEPAM dan LK dengan Surat Keputusan Ketua BAPEPAM No. KEP-66/BL/WMI/2012."
+msgstr "Jamial Salim graduated from Binus University, Jakarta Indonesia. He has an experience worked of 5 years at PT Bank International Indonesia Tbk, especially at the Information Technology Division. In 2000 – 2004 he worked at PT Sinarmas Sekuritas at the Internal Control Division, in 2004 – 2012 he serves as Associate Director PT Sinarmas Sekuritas. This moment he serves as Director of PT Sinarmas Asset Management, he has attended various seminars and trainings in finance and capital markets. He has obtained license as Brokerage – Dealer from Indonesia Capital Markets under number No.KEP-284/BL/WPPE/2010 and he has hold a license as Investment Management from BAPEPAM under KEP-66/BL/WMI/2012."

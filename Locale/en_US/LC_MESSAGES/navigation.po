@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-25 09:00+0700\n"
+"PO-Revision-Date: 2017-08-02 02:10+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# NAVIGATION MENUS
+msgid "Beranda"
+msgstr "Home"
+
+# About Us
+msgid "Tentang Kami"
+msgstr "About Us"
+
+msgid "Visi dan Misi"
+msgstr "Vision and Mission"
+
+msgid "Penghargaan"
+msgstr "Awards"
+
+msgid "Manajemen"
+msgstr "Management"
+
+# Product
+msgid "Produk"
+msgstr "Product"
+
+msgid "Reksa Dana Pasar Uang"
+msgstr "Money Market Mutual Fund"
+
+msgid "Reksa Dana Pendapatan Tetap"
+msgstr "Fixed Income Mutual Fund"
+
+msgid "Reksa Dana Campuran"
+msgstr "Balanced Mutual Fund"
+
+msgid "Reksa Dana Saham"
+msgstr "Equity Mutual Fund"
+
+msgid "Reksa Dana Terproteksi"
+msgstr "Protected Mutual Fund"
+
+# Research
+msgid "Riset"
+msgstr "Research"
+
+# Calculator
+msgid "Simas Kalkulator"
+msgstr "Simas Calculator"
+
+msgid "Investasi Masa Depan"
+msgstr "Future Investment"
+
+msgid "Investasi Aktual"
+msgstr "Actual Investment"
+
+msgid "Investasi Rutin"
+msgstr "Routine Investment"
+
+msgid "Investasi Berkala (SIP)"
+msgstr "Periodic Investment (SIP)"
+
+# Download
+msgid "Unduh"
+msgstr "Download"
+
+msgid "Formulir"
+msgstr "Form"
+
+msgid "Prospektus"
+msgstr "Prospectus"
+
+# Education
+msgid "Edukasi"
+msgstr "Education"
+
+# FAQ IGNORED
+# Contact Us
+msgid "Hubungi Kami"
+msgstr "Contact Us"
+
+msgid "Bahasa"
+msgstr "Language"
+
+msgid "en_US"
+msgstr "id_ID"
+
+msgid "us"
+msgstr "id"
+
+# other product type
+msgid "Reksa Dana Campuran Syariah"
+msgstr "Sharia Balanced Mutual Fund"
+
+msgid "Reksa Dana Saham Syariah"
+msgstr "Sharia Equity Mutual Fund"
+
+# Type of Investment
+msgid "Reksa Dana Tetap"
+msgstr "Fixed Mutual Funds"
+
+msgid "Reksa Dana Uang"
+msgstr "Money Mutual Funds"

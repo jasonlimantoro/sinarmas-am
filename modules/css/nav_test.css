@@ -1,0 +1,122 @@
+
+/* .header a {
+    color: #ce000c !important;
+}
+
+.header a span {
+    font-size: 32px;
+
+}
+
+.header .navbar-default {
+    margin-bottom: 0px;
+}
+
+.header div.container {
+    margin-left: 0px;
+    padding-top: 5px;
+} */
+
+.section1 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: #ce000c; 
+    background-image: url('../../gallery/main-carousel.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* for laptops */
+@media only screen 
+    and (min-device-width: 1200px) 
+    and (max-device-width: 1600px) 
+    and (-webkit-min-device-pixel-ratio: 2) 
+    and (min-resolution: 192dpi) { 
+        .section1 {
+            background-attachment: fixed;
+        }
+}
+
+.carousel-indicators {
+    bottom: -50px !important;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none !important;
+}
+
+@media only screen 
+    and (min-device-width: 375px) 
+    and (max-device-width: 667px) 
+    and (-webkit-min-device-pixel-ratio: 2) 
+    and (orientation: portrait) { 
+        .carousel-caption h3 p.MsoNormal {
+            font-size: 20px;
+            font-weight: lighter !important;
+        }
+
+
+}
+
+.section2 .carousel-indicators > li {
+    border-color: #c1c0c0;
+    background-color: #c1c0c0;
+}
+.section2 .carousel-indicators > li.active {
+    background-color: black;
+}
+
+
+
+/* TABLE Real time */
+
+.real-time .table thead tr:nth-child(2) th{
+    width: 75%;
+    color:white;
+}
+
+.real-time .table>thead>tr>th:only-child {
+    background-color:#ce000c;color:white; text-align:center; border-bottom:0;
+}
+
+/* .real-time .table>thead>tr::nth-child(2){
+    color:white
+} */
+.real-time .table th a {
+    color: #ffffff;
+}
+.real-time .table th a:hover {
+    color: #555555;
+}
+.real-time .table tbody tr:first-child {
+    color:white; background-color:#555555;
+}
+
+.real-time .table tbody tr:nth-of-type(even) {
+    color:#639da1;
+}
+
+.real-time .table th,
+.real-time .table td {
+    border: 0 !important;
+}
+
+.real-time .table>thead>tr>th, 
+.real-time .table>thead>tr>td,
+.real-time .table>tbody>tr>td {
+    padding: 0px;
+}
+
+.real-time .interest-rate thead > tr {
+    background-color:#ce000c; color:white
+}
+
+.real-time .interest-rate tbody > tr:nth-of-type(odd) {
+    color:#639da1;
+    background-color: transparent;
+}
+
+.real-time .interest-rate tbody > tr:nth-of-type(even) {
+    color:#ffffff;
+    background-color: #555555;
+}

@@ -1,0 +1,22 @@
+// Panel Kantor Cabang
+#accordion{
+    .panel-title {
+        color: $red-heading;
+    }
+}
+
+// EMBED MAPS FOR LAPTOPS
+@include media-query (tablet-retina) {
+    .map iframe {
+          width: 600px;
+          height: 450px;
+    }
+
+}
+@include media-query (ipad, both) {
+    .map iframe {
+        width: 600px;
+        height: 450px;
+    }
+}
+

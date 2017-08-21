@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-08-02 12:19+0800\n"
+"PO-Revision-Date: 2017-08-02 12:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Tentang Kami"
+msgstr "About Us"
+
+msgid "PT Sinarmas Asset Management merupakan anak perusahaan dari PT Sinarmas Sekuritas, sebagai salah satu perusahaan sekuritas terkemuka dan berpengalaman di bidang pasar modal Indonesia lebih dari 23 tahun. PT Sinarmas Asset Management berdiri sejak tanggal 9 April 2012 dengan izin Bapepam-LK No. KEP-03/BL/MI/2012 dimana PT Sinarmas Asset Management fokus pada pengelolaan aset yang profesional dan pruden serta memberikan pelayanan yang terbaik kepada nasabahnya."
+msgstr "PT Sinarmas Asset Management, is a subsidiary company of PT Sinarmas Sekuritas, one of leading security company and having experience in the field of Indonesian capital market more than 23 years. PT Sinarmas Asset Management was established since 9 April 2012 with license of Capital Market Supervisory Board and Financial Institution (Bapepam-LK) No. KEP-03/BL/MI/2012 constituting a splitting of Asset Management division previously in PT. Sinarmas Sekuritas. PT Sinarmas Asset Management focuses at professional and prudent asset management and provides the best service to its customers."
+
+msgid "PT Sinarmas Asset Management menyediakan berbagai layanan produk investasi  seperti Reksa Dana Saham, Campuran, Pendapatan Tetap dan Pasar Uang  dan juga produk Discretionary Fund Eksklusif."
+msgstr "PT. Sinarmas Asset Management provides various investment product services such as Mutual Fund  of Stock, Mix, Fixed Income and Money Market and also product  of Exclusive Fund Discretionary."
+
+msgid "Bidang Usaha"
+msgstr "Business Sector"
+
+msgid "Reksa Dana"
+msgstr "Mutual Fund"
+
+msgid "Kontrak Pengelolaan Dana"
+msgstr "Fund Management Contract"
+
+msgid "Dewan Komisaris"
+msgstr "Board of Commissioners"
+
+msgid "Dewan Direksi"
+msgstr "Board of Directors"

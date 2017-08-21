@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-29 23:55+0800\n"
+"PO-Revision-Date: 2017-07-30 00:18+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# Investment Policy
+msgid "<p>Simas Syariah Berkembang bertujuan untuk mencapai nilai investasi yang optimal dalam jangka panjang melalui peningkatan nilai modal, serta mengurangi risiko investasi dengan mengalokasikan kekayaan Simas Syariah Berkembang ke dalam berbagai jenis portofolio investasi yang terdiri dari Efek Syariah bersifat ekuitas, Efek Syariah bersifat utang, dan/atau Instrumen Pasar Uang Syariah dan / atau Efek Beragun Aset Syariah sesuai dengan peraturan perundang – undangan yang berlaku dan mengikuti dengan Prinsip-prinsip Syariah di Pasar Modal.</p><p>Simas Syariah Berkembang akan melakukan investasi dengan komposisi portofolio investasi minimum 2% (dua persen) dan maksimum 79% (tujuh puluh Sembilan persen) dari Nilai Aktiva Bersih pada Efek bersifat Ekuitas yang termasuk dalam Daftar Efek Syariah yang diterbitkan oleh korporasi yang dijual dalam Penawaran Umum dan / atau diperdagangkan di Bursa Efek Indonesia; minimum 2% (dua persen) dan maksimum 79% (tujun puluh sembilan persen) dari Nilai Aktiva Bersih pada Surat Berharga Syariah Negara dan/atau Sukuk yang diterbitkan oleh korporasi yang dijual dalam Penawaran Umum dan/atau diperdagangkan di Bursa Efek Indonesia; dan minimum 2% (dua persen) dan maksimum 79% (tujuh puluh sembilan persen) dari Nilai Aktiva Bersih pada Efek Beragunan Aset Syariah dan / atau instrument pasar uang syariah dalam negeri yang mempunyai jatuh tempo kurang dari 1 (satu) tahun dan/atau deposito syariah; yang sesuai dengan prinsip-prinsip Syariah di Pasar Modal dan peraturan perundang-undangan yang berlaku.</p>"
+msgstr "<p>Simas Syariah Berkembang aim to achieve an optimum income within the long term by increasing the capital value, and lessen investment risk by allocating wealth Simas Syariah Berkembang into the various types of securities consisting of sharia equity securities, sharia debt securities and or sharia Asset-Backed Securities and or Sharia Money Market Instruments in accordance with statutory regulation prevailing in Indonesian and follow the principles of Sharia in capital market.</p><p>Simas Syariah Berkembang will be placing investment fund minimum 2% (two percent) and maximum 79% (seventy nine percent) from Net Asset Value at Equity Stock included in the List of Sharia Securities issued by the corporation which has been sold in a Public Offering and or Listed at the Stock Exchange, and minimum 2% (two percent) and maximum 79% (seventy nine percent) from Net Asset Value at Sharia Liability Stock/ Sukuk issued by the Government of the Republic of Indonesia and or the corporation which has been sold in a Public Offering and or listed at the Stock Exchange, and minimum 2% (two percent) and maximum 79% (seventy nine percent) from Net Asset Value at Sharia Asset Backed Securities and or Sharia Money Market Instrument in the home country having a maturity less than 1 (one) year, and or Sharia Deposit in accordance with the principles of Sharia in capital market and statutory regulation prevailing in Indonesia.</p>"
+
+# Investor Profile
+msgid "Investor yang ingin memperoleh nilai investasi yang optimal dalam jangka panjang melalui peningkatan nilai modal serta mengurangi risiko investasi."
+msgstr "Investor who wishes to have fund growth level of which optimum in long term period with increasing the capital value and lessen investment risk."
+
+# Portfolio Composition
+msgid "Efek Syariah Bersifat Utang Syariah, Efek Beragunan Aset Syariah, Instrumen Pasar Uang dan/atau deposito Syariah"
+msgstr "Sharia Liability Securities, Sharia Asset Backed Securities, Sharia Money Market Instrument and or Sharia Deposit"
+
+# Subscription Time Limit
+msgid "<p>Sampai dengan pukul 13.00 WIB akan diproses dengan NAB pada akhir hari bursa yang sama.</p><p>Bila diatas pukul 13.00 WIB akan diproses dengan NAB pada akhir hari bursa berikutnya.</p>"
+msgstr "<p>Up to 13.00 WIB will be processed with NAV at the end of the same exchange day.</p><p>When after 13.00 WIB will be processed with NAV at the end of the following exchange day.</p>"

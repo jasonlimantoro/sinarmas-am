@@ -1,0 +1,23 @@
+code {
+    color: $red-heading;
+}
+
+h5 {
+    font: bold 15px Arial;
+    color: $red-heading;
+    padding: 8px 0;
+    margin: 8px 0;
+
+}
+
+h3, h1, h2, h4 {
+    color: $red-heading;
+    // font-family: Arial;
+}
+
+
+.fa {
+    font-size: 24px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

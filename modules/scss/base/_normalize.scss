@@ -1,0 +1,10 @@
+// REMOVING ARROWS FOR INPUT TYPE NUMBER
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+// To normalize bootstrap .navbar-fixed-top
+// body {
+//     padding-top: 70px;
+// }

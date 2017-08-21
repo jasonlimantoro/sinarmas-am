@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-25 13:23+0700\n"
+"PO-Revision-Date: 2017-07-31 16:36+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Visi"
+msgstr "Vision"
+
+msgid "Misi"
+msgstr "Mission"
+
+msgid "Visi dan Misi"
+msgstr "Vision and Mission"
+
+# First Paragraph
+msgid "PT Sinarmas Asset Management selalu berinovasi dan mengembangkan produk – produk investasi yang ada guna memberikan hasil yang optimal kepada nasabah, serta dapat disesuaikan dengan kebutuhan nasabah dan calon nasabah baik nasabah individu maupun nasabah korporasi, lembaga keuangan, asuransi dan dana pensiun."
+msgstr "PT Sinarmas Asset Management always makes innovation and develops the existing investment products to provide optimum yield to customers, and can be adjusted to the need of customers and prospective customers, either individual customer or corporate customer, financial institution, insurance and pension fund."
+
+# Second Paragraph
+msgid "PT Sinarmas Asset Management selalu berusaha untuk menjadi partner yang baik bagi nasabah dan calon nasabahnya dalam berinvestasi dengan terus meningkatkan kualitas dan jangkauan pelayanan melalui seluruh kantor cabang yang ada."
+msgstr "PT Sinarmas Asset Management always tries to become good partner for its customers and prospective customers in making an investment by keep increasing quality and service coverage through all the existing branch offices."
+
+# Mission 1
+msgid "Memberikan kepercayaan dan kenyamanan bagi nasabah dengan menggunakan sumber daya manusia yang handal dan professional."
+msgstr "Provide the trust and comfort to customers by utilizing reliable and professional human resource."
+
+# Mission 2
+msgid "Menyediakan beragam produk investasi yang menguntungkan bagi para nasabah dan investor."
+msgstr "Provide various profitable investment products to customers and investors."
+
+# Mission 3
+msgid "Meningkatkan teknologi informasi dan komunikasi untuk mendukung pelayanan kepada nasabah."
+msgstr "Improve information and communication technology to support the service to customers."
+
+# Mission 4
+msgid "Melakukan kerjasama dengan mitra usaha dan aliansi bisnis didalam maupun luar negeri."
+msgstr "Establish cooperation with business partner and business aliens in the country or abroad."

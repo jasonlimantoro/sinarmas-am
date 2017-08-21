@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-25 17:08+0700\n"
+"PO-Revision-Date: 2017-07-31 12:21+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "TIPE"
+msgstr "TYPE"
+
+msgid "RESIKO"
+msgstr "RISK"
+
+msgid "Rendah"
+msgstr "Low"
+
+msgid "Sedang"
+msgstr "Medium"
+
+msgid "Rendah - Sedang"
+msgstr "Low - Medium"
+
+msgid "Sedang - Rendah"
+msgstr "Medium - Low"
+
+msgid "Tinggi"
+msgstr "High"
+
+msgid "KINERJA"
+msgstr "PERFORMANCE"
+
+msgid "Kinerja Sejak Peluncuran"
+msgstr "Performance Since Launching"
+
+msgid "Kinerja Year to Date"
+msgstr "Year to Date"
+
+msgid "Kinerja 1 Bulan"
+msgstr "1 Month Performance"
+
+msgid "Kinerja 3 Bulan"
+msgstr "3 Months Performance"
+
+msgid "Kinerja 6 Bulan"
+msgstr "6 Months Performance"
+
+msgid "Kinerja 1 Tahun"
+msgstr "1 Year Performance"
+
+msgid "NAB"
+msgstr "NAV"
+
+msgid "Tanggal"
+msgstr "Date"
+
+msgid "Bulan"
+msgstr "Month"
+
+msgid "Tahun"
+msgstr "Year"
+
+msgid "Sampai"
+msgstr "Until"
+
+msgid "Januari"
+msgstr "January"
+
+msgid "Februari"
+msgstr "February"
+
+msgid "Maret"
+msgstr "March"
+
+msgid "Mei"
+msgstr "May"
+
+msgid "Juni"
+msgstr "June"
+
+msgid "Juli"
+msgstr "July"
+
+msgid "Agustus"
+msgstr "August"
+
+msgid "Oktober"
+msgstr "October"
+
+msgid "Desember"
+msgstr "December"
+
+msgid "KEBIJAKAN INVESTASI"
+msgstr "INVESTMENT POLICY"
+
+msgid "TUJUAN INVESTASI"
+msgstr "INVESTMENT OBJECTIVES"
+
+# a-k
+msgid "Profil Investor"
+msgstr "Investor Profile"
+
+msgid "Investasi Minimum awal"
+msgstr "Initial Minimum Investment"
+
+msgid "Investasi Selanjutnya"
+msgstr "Subsequent Investment"
+
+msgid "Minimum Penjualan Kembali"
+msgstr "Minimum Redemption"
+
+msgid "Biaya Pembelian Unit"
+msgstr "Subscription Fee"
+
+msgid "Biaya Penjualan Kembali"
+msgstr "Redemption Fee"
+
+msgid "Biaya Pengalihan"
+msgstr "Switching Fee"
+
+msgid "Biaya Manajer Investasi"
+msgstr "Investment Manager Fee"
+
+msgid "Biaya Bank Kustodian"
+msgstr "Custodian Bank Fee"
+
+msgid "Batas Minimum Kepemilikan"
+msgstr "Ownership Minimum Limit"
+
+msgid "Komposisi Portfolio"
+msgstr "Portfolio Composition"
+
+msgid "Konfirmasi dan Hasil Penjualan Kembali"
+msgstr "Confirmation and Redemption Yield"
+
+# other header
+msgid "Batas Waktu Pembelian"
+msgstr "Subscription Time Limit"
+
+msgid "Batas Waktu Penjualan Kembali"
+msgstr "Redemption Time Limit"
+
+msgid "Pembayaran Ditujukan"
+msgstr "Payment Instruction"
+
+# Table
+msgid "JENIS EFEK"
+msgstr "TYPE OF SECURITIES"
+
+msgid "Efek Hutang"
+msgstr "Liability Stock"
+
+msgid "Efek Syariah Bersifat Ekuitas"
+msgstr "Sharia Equity Securities"
+
+msgid "Instrumen Pasar Uang"
+msgstr "Money Market Instrument"
+
+msgid "Efek Beragun Aset"
+msgstr "Collateral Stock"
+
+msgid "Pendapatan Tetap"
+msgstr "Fixed Income"
+
+msgid "Efek Ekuitas"
+msgstr "Equity Stock"
+
+msgid "Efek Bersifat Utang, Efek Beragun Aset, Instrumen Pasar Uang dan/atau Deposito"
+msgstr "Liability Stock, Collateral Stock, Money Market Instrument and or Deposit"
+
+msgid "Efek Bersifat Utang Syariah, Efek Beragunan Aset Syariah, Instrumen Pasar Uang dan/atau Deposito Syariah"
+msgstr "Liability Securities, Asset Backed Securities, Money Market Instrument and/or Deposit"
+
+msgid "Cabang"
+msgstr "Branch"
+
+msgid "Atas Nama"
+msgstr "Acc. Name"
+
+msgid "No. Rekening"
+msgstr "No. Account"
+
+# Price
+msgid "seratus ribu rupiah"
+msgstr "one hundred thousand rupiahs"
+
+msgid "dua ratus ribu rupiah"
+msgstr "two hundred thousand rupiahs"
+
+msgid "lima ratus ribu rupiah"
+msgstr "five hundred thousand rupiahs"
+
+msgid "satu juta rupiah"
+msgstr "one million rupiahs"
+
+msgid "sepuluh juta rupiah"
+msgstr "ten million rupiahs"
+
+msgid "lima juta rupiah"
+msgstr "five million rupiahs"
+
+msgid "dua puluh lima juta rupiah"
+msgstr "twenty five million rupiahs"
+
+msgid "lima puluh juta rupiah"
+msgstr "fifty million rupiahs"
+
+msgid "seratus juta rupiah"
+msgstr "one hundred million rupiahs"
+
+msgid "lima ratus juta rupiah"
+msgstr "five hundred million rupiahs"
+
+# other Terms
+msgid "Maksimum"
+msgstr "Maximum"
+
+msgid "Maksimum sebesar"
+msgstr "Maximum of"
+
+msgid "Konfirmasi dan Hasil Penjualan Kembali :"
+msgstr "Confirmation and the Result of Reselling :"
+
+msgid "Transfer / Giro / Pemindahbukuan tidak lebih dari 7 (tujuh) Hari Bursa."
+msgstr "Transfer / Giro / Transfer not later than 7 (seven) Exchange Day Yield."
+
+msgid "Transfer / Pemindahbukuan tidak lebih dari 7 (tujuh) Hari Bursa."
+msgstr "Transfer not later than 7 (seven) Exchange Day."
+
+msgid "<p>Sampai dengan pukul 13.00 WIB akan diproses dengan NAB pada akhir hari bursa yang sama.</p><p>Bila diatas pukul 13.00 WIB akan diproses dengan NAB pada akhir hari bursa berikutnya.</p>"
+msgstr "<p>Up to 13.00 WIB will be processed with NAV at the end of the same exchange day.</p><p>When after 13.00 WIB will be processed with NAV at the end of the following exchange day.</p>"
+
+msgid "<p>Sampai dengan pukul 12.00 WIB akan diproses dengan NAB pada akhir hari bursa yang sama.</p><p>Bila diatas pukul 12.00 WIB akan diproses dengan NAB pada akhir hari bursa berikutnya.</p>"
+msgstr "<p>Up  to 12.00 WIB will be processed with NAV at the end of the same exchange day.</p><p>When  after 12.00 WIB will be processed with NAV at the end of the following exchange  day.</p>"
+
+# Simas Terproteksi
+msgid "bertujuan untuk memberikan proteksi sebesar 100% (seratus persen) terhadap Pokok Investasi atas Unit Penyertaan yang akan dicapai secara keseluruhan pada Tanggal Pelunasan Akhir dan memberikan potensi tambahan hasil investasi pada Tanggal Pembagian Hasil Investasi melalui investasi pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah dijual dalam Penawaran Umum dan/atau diperdagangkan di Bursa Efek Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang terdaftar di OJK dan masuk dalam kategori layak investasi (investment grade) dan Instrumen Pasar Uang dalam negeri dan/atau deposito, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia."
+msgstr "aims to provide protection of 100% (one hundred percent) of the Principal Investments in Units to be achieved overall in Date Redemption End and provides additional potential return on investment at the date of Sharing Investment through investment in debt securities issued by the Government Republic of Indonesia and / or corporations incorporated in Indonesia which have been sold in a public offering and / or traded on the Indonesia Stock Exchange that have been rated by a rating agency securities listed on the OJK and included in the investment grade (investment grade) and Money Market Instruments in the country and / or deposits, in accordance with the legislation in force in Indonesia."
+
+msgid "akan berinvestasi sampai dengan Tanggal Pelunasan Akhir dengan komposisi portofolio investasi"
+msgstr "will invest up to the Redemption Date End with the composition of investment portfolios"
+
+msgid "Minimum 80% (delapan puluh persen) dan maksimum 99% (Sembilan puluh Sembilan persen) dari Nilai Aktiva Bersih pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/ atau korporasi berbadan hukum Indonesia yang telah dijual dalam Penawaran Umum dan/atau diperdagangkan di Bursa Efek Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang telah terdaftar di OJK dan masuk dalam kategori layak investasi (investment grade)."
+msgstr "A minimum of 80% (eighty percent) and a maximum of 99% (Ninety-nine percent) of the Net Asset Value in debt securities issued by the Government of the Republic of Indonesia and / or traded on the Indonesia Stock Exchange that have been rated by a rating agency Securities OJK registered and included in the investment grade (investment grade)."
+
+msgid "Minimum 1% (satu persen) dan maksimum 20% (dua puluh persen) dari Nilai Aktiva Bersih pada Instrumen Pasar Uang dalam negeri dan/atau deposito; sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia."
+msgstr "A minimum of 1% (one percent) and a maximum of 20% (twenty percent) of the Net Asset Value in Money Market Instruments within the country and / or deposits; in accordance with the legislation force in Indonesia."
+
+msgid "Tanggal Peluncuran"
+msgstr "Launch Date"
+
+msgid "Manajer Investasi"
+msgstr "Investment Management"
+
+msgid "Bank Kustodian"
+msgstr "Custodian Bank"
+
+# SIMAS GEMILANG
+# SG 2
+msgid "bertujuan untuk memberikan proteksi sebesar 100% (seratus persen) terhadap Pokok Investasi atas Unit Penyertaan pada Tanggal Jatuh Tempo dan memberikan potensi tambahan hasil invetasi pada Tanggal Pembagian Hasil Investasi melalui investasi pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah dijual dalam Penawaran Umum dan/atau diperdagangkan di Bursa Efek Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang terdaftar di Otoritas Jasa Keuangan dan masuk dalam kategori layak investasi (investment grade) dan instrumen pasar uang dalam negeri dan/atau deposito, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia."
+msgstr "aims to provide protection of 100% (one hundred percent) of the Principal Investments in Units on the Maturity Date and provide additional potential return on investment at the date of Sharing Investment through investment in debt securities issued by the Government of the Republic of Indonesia and / or corporation incorporated in Indonesia which have been sold in a public offering and / or traded on the Indonesia Stock Exchange that have been rated by a rating agency securities listed on the OJK and included in the investment grade (investment grade) and Money Market Instruments within the country, cash and / or deposit, in accordance with the legislation in force in Indonesia."
+
+msgid "Minimum 80% (delapan puluh persen) dan maksimum 98% (Sembilan puluh delapan persen) dari Nilai Aktiva Bersih pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah dijual dalam Penawaran Umum dan/atau diperdagangkan di Bursa Efek Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang telah terdaftar di OJK dan masuk dalam kategori layak investasi (investment grade)."
+msgstr "A Minimum 80% (eighty percent) and a maximum of 98% (Ninety-eight per cent) of the Net Asset Value in debt securities issued by the Government of the Republic of Indonesia and / or corporations incorporated in Indonesia which have been sold in a public offering and / or traded Indonesia Stock Exchange that have been rated by a rating agency securities registered in the OJK and included in the investment grade (investment grade)."
+
+msgid "Minimum 2% (dua persen) dan maksimum 20% (dua puluh persen) dari Nilai Aktiva Bersih pada Instrumen Pasar Uang dalam negeri, kas dan/atau deposito sesuai dengan peraturan perundang – undangan yang berlaku di Indonesia."
+msgstr "A Minimum of 2% (two percent) and a maximum of 20% (twenty percent) of the Net Asset Value in Money Market Instruments within the country, cash and / or deposits; in accordance with the legislation force in Indonesia."
+
+msgid "Obligasi"
+msgstr "Bonds of"
+
+msgid "oleh"
+msgstr "by"
+
+# SG 3
+msgid "bertujuan untuk memberikan proteksi sebesar 100% (seratus persen) terhadap Pokok Investasi atas Unit Penyertaan yang akan dicapai secara keseluruhan pada Tanggal Pelunasan Akhir dan memberikan potensi tambahan hasil investasi pada Tanggal Pembagian Hasil Investasi melalui investasi pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah dijual dalam Penawaran Umum dan/atau diperdagangkan di Bursa Efek Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang terdaftar di Otoritas Jasa Keuangan dan masuk dalam kategori layak investasi (investment grade) dan instrumen pasar uang dalam negeri dan/atau deposito, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia."
+msgstr "aims to provide protection of 100% (one hundred percent) of the Principal Investments in Units on the Maturity Date and provide additional potential return on investment at the date of Sharing Investment through investment in debt securities issued by the Government of the Republic of Indonesia and / or corporation incorporated in Indonesia which have been sold in a public offering and / or traded on the Indonesia Stock Exchange that have been rated by a rating agency securities listed on the OJK and included in the investment grade (investment grade) and Money Market Instruments within the country, cash and / or deposit, in accordance with the legislation in force in Indonesia."
+
+msgid "Minimum 80% (delapan puluh persen) dan maksimum 99% (Sembilan puluh sembilan persen) dari Nilai Aktiva Bersih pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah dijual dalam Penawaran Umum dan/atau diperdagangkan di Bursa Efek Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang telah terdaftar di OJK dan masuk dalam kategori layak investasi (investment grade)."
+msgstr "A Minimum 80% (eighty percent) and a maximum of 99% (Ninety-eight per cent) of the Net Asset Value in debt securities issued by the Government of the Republic of Indonesia and / or corporations incorporated in Indonesia which have been sold in a public offering and / or traded Indonesia Stock Exchange that have been rated by a rating agency securities registered in the OJK and included in the investment grade (investment grade)."
+
+msgid "Minimum 1% (satu persen) dan maksimum 20% (dua puluh persen) dari Nilai Aktiva Bersih pada Instrumen Pasar Uang dalam negeri, kas dan/atau deposito sesuai dengan peraturan perundang – undangan yang berlaku di Indonesia."
+msgstr "A Minimum of 1% (one percent) and a maximum of 20% (twenty percent) of the Net Asset Value in Money Market Instruments within the country, cash and / or deposits; in accordance with the legislation force in Indonesia."
+
+# SG 4
+msgid "bertujuan untuk memberikan proteksi sebesar 100% (seratus persen) terhadap Pokok Investasi atas Unit Penyertaan yang akan dicapai secara keseluruhan pada Tanggal Pelunasan Akhir dan memberikan potensi tambahan hasil investasi pada Tanggal Pembagian Hasil Investasi melalui investasi pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang terdaftar di Otoritas Jasa Keuangan dan masuk dalam kategori layak investasi (investment grade) dan Instrumen Pasar Uang dalam negeri dan/atau deposito, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia."
+msgstr "aims to provide protection of 100% (one hundred percent) of the Principal Investments in Units on the Maturity Date and provide additional potential return on investment at the date of Sharing Investment through investment in debt securities issued by the Government of the Republic of Indonesia and / or corporation incorporated in Indonesia which have been sold in a public offering and / or traded on the Indonesia Stock Exchange that have been rated by a rating agency securities listed on the OJK and included in the investment grade (investment grade) and Money Market Instruments within the country, cash and / or deposit, in accordance with the legislation in force in Indonesia."
+
+# SG 5
+msgid "bertujuan untuk memberikan proteksi sebesar 100% (seratus persen) terhadap Pokok Investasi atas Unit Penyertaan pada Tanggal Jatuh Tempo dan memberikan potensi tambahan hasil investasi pada Tanggal Pembagian Hasil Investasi melalui investasi pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah dijual dalam Penawaran Umum dan/atau diperdagangkan di Bursa Efek Indonesia yang telah diperingkat oleh perusahaan pemerintah Efek yang terdaftar di OJK dan masuk dalam kategori layak investasi (investment grade) dan instrumen pasar uang dalam negeri dan/atau deposito, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia."
+msgstr "aims to provide protection of 100% (one hundred percent) of the Principal Investments in Units on the Maturity Date and provide additional potential return on investment at the date of Sharing Investment through investment in debt securities issued by the Government of the Republic of Indonesia and/or corporation incorporated in Indonesia which have been sold in a public offering and/or traded on the Indonesia Stock Exchange that have been rated by a rating agency securities listed on the OJK and included in the investment grade and Money Market Instruments within the country, cash and/or deposit, in accordance with the legislation in force in Indonesia."
+
+msgid "Minimum 80% (delapan puluh persen) dan maksimum 99% (sembilan puluh sembilan persen) dari Nilai Aktiva Bersih pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang telah terdaftar di OJK  dan masuk dalam kategori layak investasi (investment grade)."
+msgstr "A Minimum of 80% (eighty percent) and a maximum of 99% (Ninety-nine per cent) of the Net Asset Value in debt securities issued by the Government of the Republic of Indonesia and / or corporations incorporated in Indonesia which have been sold in a public offering and / or traded Indonesia Stock Exchange that have been rated by a rating agency securities registered in the OJK and included in the investment grade (investment grade)."
+
+msgid "Minimum 1% (satu persen) dan maksimum 20% (dua puluh persen) dari Nilai Aktiva Bersih pada instrumen pasar uang dalam negeri dan/atau deposito, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia."
+msgstr "A Minimum of 1% (one percent) and a maximum of 20% (twenty percent) of the Net Asset Value in Money Market Instruments within the country, cash and / or deposits; in accordance with the legislation force in Indonesia."
+
+# SG 6
+msgid "bertujuan untuk memberikan proteksi sebesar 100% (seratus persen) terhadap Pokok Investasi atas Unit Penyertaan yang akan dicapai secara keseluruhan pada Tanggal Pelunasan Akhir dan memberikan potensi tambahan hasil investasi pada tanggal dilakukannya pembagian Hasil Investasi melalui investasi pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang terdaftar di OJK dan masuk dalam kategori layak investasi (investment grade) dan instrumen pasar uang dalam negeri dan/atau deposito, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia."
+msgstr "aims to provide protection of 100% (one hundred percent) of the Principal Investments in Units on the Maturity Date and provide additional potential return on investment at the date of Sharing Investment through investment in debt securities issued by the Government of the Republic of Indonesia and/or corporation incorporated in Indonesia which have been sold in a public offering and/or traded on the Indonesia Stock Exchange that have been rated by a rating agency securities listed on the OJK and included in the investment grade and Money Market Instruments within the country, cash and/or deposit, in accordance with the legislation in force in Indonesia."
+
+msgid "Minimum 80% (delapan puluh persen) dan maksimum 98% (sembilan puluh delapan persen) dari Nilai Aktiva Bersih pada Efek Bersifat Utang yang diterbitkan oleh Pemerintah Republik Indonesia dan/atau korporasi berbadan hukum Indonesia yang telah diperingkat oleh perusahaan pemeringkat Efek yang telah terdaftar di OJK  dan masuk dalam kategori layak investasi (investment grade)."
+msgstr "A Minimum of 80% (eighty percent) and a maximum of 98% (Ninety-eight per cent) of the Net Asset Value in debt securities issued by the Government of the Republic of Indonesia and / or corporations incorporated in Indonesia which have been sold in a public offering and / or traded Indonesia Stock Exchange that have been rated by a rating agency securities registered in the OJK and included in the investment grade (investment grade)."
+
+msgid "Minimum 2% (dua persen) dan maksimum 20% (dua puluh persen) dari Nilai Aktiva Bersih pada instrumen pasar uang dalam negeri dan/atau deposito, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia."
+msgstr "A Minimum of 2% (two percent) and a maximum of 20% (twenty percent) of the Net Asset Value in Money Market Instruments within the country, cash and / or deposits; In accordance with the legislation force in Indonesia."

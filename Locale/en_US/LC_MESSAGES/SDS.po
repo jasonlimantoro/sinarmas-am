@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-30 22:27+0800\n"
+"PO-Revision-Date: 2017-07-30 23:43+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Portofolio Simas Danamas Saham akan dikelola secara aktif guna mendapatkan pendapatan yang optimal dalam jangka panjang melalui penempatan dana investasi minimum 80% dan maksimum 98% pada Efek bersifat Ekuitas yang telah dijual dalam Penawaran Umum dan atau dicatatkan di Bursa Efek baik di dalam maupun di luar negeri, serta minimum 2% dan maksimum 20% pada Instrumen Pasar Uang, Efek bersifat Utang dan atau Efek Beragun Aset yang telah dijual dalam Penawaran Umum dan atau dicatatkan di Bursa Efek baik di dalam maupun di luar negeri, sesuai peraturan perundang-undangan yang berlaku. Semua investasi portofolio Efek tersebut dapat dalam denominasi Rupiah maupun mata uang asing."
+msgstr "Portfolio Simas Danamas Saham will be managed actively to gain a optimum income within the long term period by placing investment fund minimum 80%(eighty percent) and maximum 98% (ninety eight percent) at Equity Stock which has been sold in a Public Offer and or listed at the Stock Exchange, either in the home country and abroad, and minimum 2% and maximum 20% at Money Market Instrument, Liability Stock and or Collateral Stock which has been sold in Public Offer and or listed at the Stock Exchange, either  in the home country and abroad, in accordance with statutory regulation prevailing in Indonesia. All investment of securities portfolio can be in Rupiah denomination and in the other foreign currency."
+
+msgid "Investor yang ingin mempunyai tingkat pertumbuhan dana yang optimal dalam jangka panjang dengan diversifikasi serta fleksibilitas investasi yang cukup tinggi dalam pengelolaan portofolio efek investasinya."
+msgstr "Investor who want to have an optimal level of growth funds in the long term with diversification and flexibility of investment is quite high in the management of a portofolio of stock investments."
+
+# Investment Manager Fee
+msgid "untuk Nilai Aktiva Bersih"
+msgstr "for Net Asset Value"
+
+msgid "kurang dari dan sebesar"
+msgstr "less than or equal to"
+
+msgid "lebih dari"
+msgstr "more than"
+
+msgid "sampai dengan"
+msgstr "up to"

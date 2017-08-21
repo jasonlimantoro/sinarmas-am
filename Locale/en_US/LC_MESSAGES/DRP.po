@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-25 17:08+0700\n"
+"PO-Revision-Date: 2017-07-25 18:15+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# PRODUCT INFO
+# INVESTMENT POLICY
+msgid "Portofolio Danamas Rupiah Plus akan dikelola secara aktif guna mendapatkan pendapatan yang optimal dengan diversifikasi portofolio melalui investasi 100% (seratus persen) pada instrumen pasar uang dan/atau efek hutang yang mempunyai jatuh tempo kurang dari 1 (satu) tahun yang diterbitkan sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia, termasuk Obligasi Pemerintah Republik Indonesia, Obligasi Pemerintah Daerah (\"Municipal Bonds\"), serta Efek bersifat utang lainnya termasuk Sertifikat Bank Indonesia (SBI) dan instrumen pasar uang lainnya sesuai dengan peraturan perundang-undangan yang berlaku. Semua investasi portofolio efek tersebut di atas dapat dalam denominasi Rupiah maupun mata uang asing. Khusus untuk Obligasi Pemerintah Republik Indonesia, komposisi investasinya dapat mencapai 100% (seratus persen) dengan tetap memperhatikan peraturan perundang-undangan yang berlaku."
+msgstr "Portfolio Danamas Rupiah Plus will be managed actively in order to obtain the optimal income through investments in a diversified portfolio of 100% (one hundred percent) in money market instrument and or liability stock  that have a maturity of less than 1 (one) year in accordance with statutory regulation prevailing in Indonesia, including Bonds of the Government of the Republic of Indonesia, Municipal Bonds, and the other liability Stock including Bank Indonesia Certificates and the other money market instrument in accordance with the legislation in force. All investment of securities portfolio mentioned above can be in Rupiah denomination and in the other foreign currency. Especially for Bonds of the Government of the Republic of Indonesia, composition of investment can reach 100% (one hundred percent) by always observing the prevailing statutory regulation."
+
+# Investor Profile
+msgid "Investor yang mempunyai kelebihan kas dalam jangka pendek dan menginginkan tingkat pengembalian investasi yang optimal serta fleksibilitas dalam likuiditas."
+msgstr "Investors who have surplus cash in the sort term and want the optimal return on investment with flexibility in liquidity."
+
+# Portfolio composition
+msgid "Instrumen Pasar Uang"
+msgstr "Money Market Instruments"
+
+msgid "Efek Hutang Jatuh Tempo < 1 thn"
+msgstr "Maturity Liability Stock < 1 year"
+
+# Confirmation and Redemption Yield
+msgid "Transfer / Giro / Pemindahbukuan tidak lebih dari 7 (tujuh) Hari Bursa."
+msgstr "Transfer / Giro / Transfer not later than 7 (seven) Exchange Day Yield."
+
+# Subscription Time Limit
+msgid "Sampai dengan pukul 12.00 WIB akan diproses dengan NAB pada akhir hari bursa yang sama."
+msgstr "Up  to 12.00 WIB will be processed with NAV at the end of the same exchange day."
+
+msgid "Bila diatas pukul 12.00 WIB akan diproses dengan NAB pada akhir hari bursa berikutnya."
+msgstr "When after 12.00 WIB will be processed with NAV at the end of the following exchange day."
+
+# Redemption Time Limit
+msgid "Sampai dengan pukul 12.00 WIB akan diproses dengan NAB pada akhir hari bursa yang sama. Bila diatas pukul 12.00 WIB akan diproses dengan NAB pada akhir hari bursa berikutnya."
+msgstr "Up to 12.00 WIB will be processed with NAV at the end of the same exchange day. When after 12.00 WIB will be processed with NAV at the end of the following  exchange day."
+
+msgid "Konfirmasi dan Hasil Penjualan Kembali : Transfer / Giro / Pemindahbukuan tidak lebih dari 7 (tujuh) hari bursa."
+msgstr "Confirmation  and the Result of Reselling: Transfer / Giro / Transfer not later than 7 (seven) exchange days."
+

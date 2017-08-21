@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-26 00:05+0700\n"
+"PO-Revision-Date: 2017-07-28 19:41+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# Investment Policy
+msgid "Portofolio Danamas Mantap Plus akan dikelola secara aktif guna mendapatkan pendapatan yang optimal dalam jangka menengah dan panjang melalui penempatan dana investasi minimum 80% (delapan puluh persen) dan maksimum 98% (sembilan puluh delapan persen) pada Efek bersifat utang yang diterbitkan oleh perusahaan-perusahaan berbadan hukum Indonesia dan atau Obligasi Pemerintah Republik Indonesia, Obligasi Pemerintah Daerah (\"Municipal Bonds\") dan atau Efek bersifat utang lainnya, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia, serta minimum 2% (dua persen) dan maksimum 20% (dua puluh persen) pada Instrumen Pasar Uang yang mempunyai jatuh tempo kurang dari 1 (satu) tahun, Efek ekuitas dan atau Efek Beragun Aset yang diterbitkan sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia. Khusus untuk Obligasi Pemerintah Republik Indonesia, maka komposisi investasinya dapat mencapai 100% (seratus persen) dengan tetap memperhatikan perundang-undangan yang berlaku."
+msgstr "Portofolio Danamas Mantap Plus will be managed actively to gain a stable and optimum income within the middle and long term period by placing investment fund minimum 80% (eighty percent) and maximum 98% (ninety eight percent) at liability stock issued by the companies of the Indonesian legal bodies and or Bonds of the Government of the Republic of Indonesia, Municipal Bonds and or the other liability stock, in accordance with statutory regulation prevailing in Indonesia, and minimum 2% (two percent) and maximum 20% (twenty percent) at Money Market Instrument having maturity less than 1 (one) year, Equity Stock and or Collateral Stock issued in accordance with the legislation in force in Indonesia. Especially for Bonds of the Government of the Republic of Indonesia, composition of investment can reach 100% (one hundred percent) by always observing the prevailing statutory regulation."
+
+# Investment Profile
+msgid "Investor yang ingin mempunyai tingkat pertumbuhan dana yang relatif stabil dan optimal dalam jangka menengah dan panjang dengan tingkat resiko yang relatif rendah."
+msgstr "Investor who wishes to have fund growth level of which relative stable and optimum in middle and long term period with relative low risk level."
+
+# Subscription Time Limit
+msgid "Sampai dengan pukul 12.00 WIB akan diproses dengan NAB pada akhir hari bursa yang sama. Bila diatas pukul 12.00 WIB akan diproses dengan NAB pada akhir hari  bursa berikutnya."
+msgstr "Up to 12.00 WIB will be processed with NAV at the end of the same exchange day. When after 12.00 WIB will be processed with NAV at the end of the following exchange day."
+
+# Redemption Time Limit
+msgid "Sampai dengan pukul 12.00 WIB akan diproses dengan NAB pada akhir hari  bursa yang sama. Bila diatas pukul 12.00 WIB akan diproses dengan NAB pada  akhir hari bursa berikutnya."
+msgstr "Up to 12.00 WIB will be processed with NAV at the end of the same exchange day. When after 12.00 WIB will be processed with NAV at the end of the following exchange day."
+
+msgid "Konfirmasi dan Hasil Penjualan Kembali : Transfer / Giro /  Pemindahbukuan tidak lebih dari 7 (tujuh) hari bursa."
+msgstr "Confirmation and the Result of Reselling: Transfer / Giro / Transfer not later than 7 (seven) exchange day."
+
+# others
+msgid "Instrumen Pasar Uang, Efek Ekuitas dan/atau Efek Beragun Aset"
+msgstr "Money Market Instrument, Collateral Stock or Equity Stock and all its derivatives"

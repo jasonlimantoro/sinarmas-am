@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-08-02 09:37+0800\n"
+"PO-Revision-Date: 2017-08-02 09:48+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Apa itu Kelola?"
+msgstr "What is Kelola?"
+
+msgid "Kelola adalah Aplikasi digital untuk berinvestasi reksa dana tanpa perantara, dimana saja dan kapan saja. Melalui aplikasi ini, kami bercita - cita untuk memajukan literasi keuangan Indonesia sehingga setiap orang memiliki kesempatan untuk meningkatkan standar hidup melalui investasi yang mudah."
+msgstr "Kelola is a digital apps where you can invest your money in mutual funds without mediator, anywhere and anytime. Through this application, we purporse to advance financial literacy in Indonesia so that everyone can have the opportunity to improve the standard of living through easy investment."
+
+msgid "Keuntungan Berinvestasi Reksa Dana Melalui Kelola"
+msgstr "Benefit of investing Mutual Fund in Kelola"
+
+msgid "Mulai dari"
+msgstr "Starting from"
+
+msgid "Gratis buat akun investasi"
+msgstr "Opening an account for free"
+
+msgid "Pantau investasi setiap hari"
+msgstr "Daily monitoring fund"
+
+msgid "Tanpa komitmen jangka waktu"
+msgstr "Without a time commitment"
+
+msgid "Produk pilihan resiko rendah"
+msgstr "Low risk investment product"
+
+msgid "Produk terdaftar di OJK"
+msgstr "Products are listed in OJK"
+
+msgid "Untuk informasi lebih lanjut dapat dilihat di <a href=\"http://www.kelolaapp.com\" target=\"_blank\">www.kelolaapp.com</a>"
+msgstr "For more information visit <a href=\"http://www.kelolaapp.com\" target=\"_blank\">www.kelolaapp.com</a>"

@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-29 09:02+0800\n"
+"PO-Revision-Date: 2017-07-29 09:40+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# Investment Policy
+msgid "<p>Simas Danamas Instrumen Negara bertujuan untuk memperoleh tingkat pendapatan yang stabil dan optimal dalam jangka pendek dan menengah dengan tetap mempertahankan nilai modal investasi serta menjaga kestabilan likuiditas dengan diversifikasi investasi pada instrument – instrument investasi yang diterbitkan oleh Negara Republik Indonesia.</p><p>Portofolio Simas Danamas Instrumen Negara akan diinvestasikan minimum 80% dan maksimum 100% pada Efek bersifat Utang Negara Republik Indonesia termasuk Surat Utang Negara (SUN), Obligasi Rekapitalisasi dan Obligasi Republik Indonesia (ORI) serta minimum 0% dan maksimum 20% pada Instrumen Pasar Uang yang mempunyai jatuh tempo kurang dari 1 (satu) tahun termasuk Sertifikat Bank Indoensia (SBI), Surat Perbendaharaan Negara (SPN), sesuai peraturan perundang – undangan yang berlaku.</p>"
+msgstr "<p>Simas Danamas Instrumen Negara aims to obtain a stable income levels and optimal in the short to medium term while maintaining capital value of investments and maintain stable liquidity by diversifying investment instruments - investment instruments issued by the Republic of Indonesia.</p><p>Portofolio Simas Danamas Instrumen Negara will be invested minimum 80% (eighty percent) and a maximum 100% (one hundred percent) in securities of Government of the Republic of Indonesia including Government Securities (SUN), recapitalization bonds and bonds of the Republic of Indonesia (ORI) and minimum 0% (zero percent) and maximum 20% (twenty percent) in Money Market Instruments which has a maturity of less than 1 (one) year, including Bank of Indonesia Certificates (SBI), Treasury Bills (T-Bills), with statutory regulation prevailing in Indonesia.</p>"
+
+# Investment Profile
+msgid "Investor menginginkan tingkat pengembalian investasi yang stabil dan optimal, fleksibilitas dalam likuiditas serta mempunyai tingkat risiko relatif rendah (risiko Pemerintah)."
+msgstr "Investor who want a return on investment that is stable and optimum, flexibility in liquidity with relative low risk level."
+
+# Subscription Time Limit
+msgid "<p>Sampai dengan pukul 13.00 WIB akan diproses dengan NAB  pada akhir hari bursa yang sama.</p><p>Bila diatas pukul 13.00 WIB akan diproses dengan NAB  pada akhir hari bursa berikutnya.</p>"
+msgstr "<p>Up to 13.00 WIB will be processed with NAV at the end of the same exchange day.</p><p>When after 13.00 WIB will be processed with NAV at the end of the following exchange day.</p>"
+
+# Redemption Time Limit
+msgid "<p>Sampai dengan pukul 13.00 WIB akan diproses dengan NAB  pada akhir hari bursa yang sama. Bila diatas pukul 13.00 WIB akan diproses  dengan NAB pada akhir hari bursa berikutnya</p><p>Konfirmasi dan Hasil Penjualan Kembali : Transfer /  Giro / Pemindahbukuan tidak lebih dari 7 (tujuh) hari bursa.</p>"
+msgstr "<p>Up to 13.00 WIB will be processed with NAV at the end of the same exchange day. When after 13.00 WIB will be processed with NAV at the end of the following exchange day.</p><p>Confirmation and the Result of Reselling: Transfer / Giro / Transfer not later than 7 (seven) exchange days.</p>"

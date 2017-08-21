@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-08-01 22:02+0800\n"
+"PO-Revision-Date: 2017-08-02 01:03+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Apa yang dimaksud dengan Reksa Dana?"
+msgstr "What is Mutual Fund?"
+
+msgid "Reksa Dana adalah wadah untuk menghimpun dana dari masyarakat pemodal yang selanjutnya diinvestasikan kembali ke dalam portofolio efek oleh Manajer Investasi."
+msgstr "Mutual Fund is a means to accumulate fund from investor community of which then to be reinvested into security portfolio by Investment Manager."
+
+msgid "Bagaimana prosedur pembelian unit Reksa Dana?"
+msgstr "What is the procedure for purchasing Mutual Fund units?"
+
+msgid "Mengisi formulir pembukaan rekening (untuk nasabah baru)"
+msgstr "Complete account opening form (for new customer)"
+
+msgid "Mengisi dan menandatangani formulir pembelian unit penyertaan Reksa Dana"
+msgstr "Complete and sign unit subscription form of mutual fund"
+
+msgid "Mengisi dan menandatangani formulir profil pemodal"
+msgstr "Complete and sign investor profile form"
+
+msgid "Melampirkan fotokopi kartu identitas terbaru dan NPWP"
+msgstr "Enclose photo copy of the latest Id Card and NPWP"
+
+msgid "Menyertakan bukti setor / transfer"
+msgstr "Submit deposit / transfer receipt"
+
+msgid "Mengirimkan formulir pembelian unit penyertaan yang telah diisi lengkap ke Manajer Investasi sebelum pukul 12.00 WIB"
+msgstr "Send unit subscription form which has been completed to Investment Manager before 12.00 WIB"
+
+msgid "Kelengkapan formulir tersebut dapat di fax ke <strong>021-392 5539 / 021-392 7177 </strong>  atau kirim ke cabang terdekat, formulir pembelian dapat juga di email ke <a href=\"mailto:cs@sinarmas-am.co.id\">cs@sinarmas-am.co.id</a> dengan subjek <strong> Pembelian Reksa Dana </strong>"
+msgstr "The completed form can be faxed to <strong>021-392 5539/021-392 7177</strong> or may be sent to the nearest branch office, the unit subscription form can also be emailed to <a href=\"mailto:cs@sinarmas-am.co.id\">cs@sinarmas-am.co.id</a> on the subject <strong>Pembelian Reksa Dana</strong>"
+
+msgid "Bagaimana prosedur penjualan unit Reksa Dana?"
+msgstr "What is the procedure for selling Mutual Fund units?"
+
+msgid "Mengisi dan menandatangani formulir penjualan unit penyertaan Reksa Dana"
+msgstr "Complete and sign unit redemption form of Mutual Fund"
+
+msgid "Mengirimkan formulir penjualan unit penyertaan yang telah diisi lengkap ke Manajer Investasi sebelum pukul 12.00 WIB"
+msgstr "Send unit redemption form which has been completed to Investment Manager before 12.00 WIB"
+
+msgid "Kelengkapan formulir tersebut dapat di fax ke <strong>021-392 5539 / 021-392 7177 </strong> atau kirim ke cabang terdekat, formulir pembelian dapat juga di email ke <a href=\"mailto:cs@sinarmas-am.co.id\">cs@sinarmas-am.co.id</a> dengan subjek <strong> Penjualan Reksa Dana </strong>"
+msgstr "The completed form can be faxed to <strong>021-392 5539/021-392 7177</strong> or may be sent to the nearest branch office, the unit subscription form can also be emailed to <a href=\"mailto:cs@sinarmas-am.co.id\">cs@sinarmas-am.co.id</a> on the subject <strong>Penjualan Reksa Dana</strong>"
+
+msgid "Reksa Dana apa saja yang ditawarkan oleh PT Sinarmas Asset Management?"
+msgstr "What kinds of Mutual Fund offered by PT Sinarmas Asset Management?"
+
+msgid "Berapa lama proses penjualan unit Reksa Dana (redemption) hingga dana diterima oleh Nasabah?"
+msgstr "How long is process of redemption until the fund being received by customer?"
+
+msgid "Untuk dana < Rp. 100.000.000,- T+2, jika formulir penjualan diterima sebelum jam 12.00 WIB."
+msgstr "For the fund < Rp. 100.000.000,- T+2, if the redemption form received before 12.00 WIB."
+
+msgid "Untuk dana ≥ Rp. 100.000.000,- T+1, jika formulir penjualan diterima sebelum jam 12.00 WIB."
+msgstr "For the fund ≥ Rp. 100.000.000,- T+1, if the redemption form received before 12.00 WIB."
+
+msgid "Bagaimana jika pada saat penjualan unit Reksa Dana, nomor rekening tujuan (rekening nasabah) sudah tidak aktif lagi?"
+msgstr "What happens if during the Redemption of Mutual Fund, the account Number of destination (customer account) is not active anymore?"
+
+msgid "Nasabah harus melakukan perubahan rekening terlebih dahulu dengan mengisi formulir perubahan rekening kemudian menyerahkan formulir asli yang telah di isi dan di tanda tangani diatas materai, copy buku tabungan terbaru, beserta fotocopy identitas nasabah terbaru.<br><strong><em>*Penjualan unit Reksa Dana baru akan diproses setelah proses perubahan rekening selesai.</em></strong>"
+msgstr "Customer shall make account changing first by completing account change form, then shall submit the original form which has been completed and shall be signed above stam-duty, photo copy of the latest saving book, along with the latest Customer Identity.<br><strong><em>*Mutual fund unit selling will just be processed after the account change has been completed</em></strong>"
+
+msgid "Apakah dapat membuat pembukaan rekening Reksa Dana di PT Sinarmas Asset Management atas nama gabungan?"
+msgstr "Can we open Mutual Fund account at PT Sinarmas Asset Management on behalf of joint name? What is the requirement?"
+
+msgid "Pembukaan rekening Reksa Dana sudah tidak bisa menggunakan nama gabungan \"AND\" dan \"OR\" tetapi masih bisa menggunakan SA (<em>Sub Account</em>). Sebagai persyaratannya nasabah harus melampirkan fotocopy akte kelahiran anak (dengan catatan anak tersebut masih berusia &lt; 17 tahun)."
+msgstr "Mutual fund account opening can not use \"AND\" and \"OR\" joint name but still can use SA (<em>Sub Account</em>).As requirement, the customer must enclose photo copy of the children birth certificate (with the note that such children at the age below &lt; 17 years)."
+
+msgid "Apakah jika dibutuhkan, dana di Reksa Dana saya dapat ditransfer ke rekening bank atas nama orang lain?"
+msgstr "When needed, can my Mutual Fund be transferred to bank account in the name of other person?"
+
+msgid "Tidak dapat, setiap penjualan unit Reksa Dana hanya bisa ditransfer pada rekening yang telah terdaftar pada saat pembukaan rekening dan dengan atas nama pemilik Reksa Dana tersebut."
+msgstr "You cannot. Every mutual fund unit selling can only be transferred to the account which has been registered when account opening and in the name of the owner of such mutual fund."
+
+msgid "Apakah rekening Reksa Dana saya dapat dipindahnamakan?"
+msgstr "Can my Mutual Fund account be transferred to other name?"
+
+msgid "Rekening Reksa Dana tidak dapat dipindah namakan secara langsung. Sebagai solusi dana dapat dicairkan terlebih dahulu ke rekening nasabah yang bersangkutan, lalu ditransfer ke rekening Reksa Dana PT Sinarmas Asset Management kembali dengan berita nama penerima."
+msgstr "Mutual fund account can not be transferred to other name directly. As a solution the fund can be disbursed first to the relevant customer’s account, then to be transferred mutual fund account of PT. Sinarmas Asset Management again with the message of recipient name."
+
+msgid "Apakah dapat memindahkan dana dari rekening Reksa Dana yang satu ke Reksa Dana yang lain tetapi masih produk?"
+msgstr "Can we transfer fund from one of Mutual Fund account to the other Mutual Fund account of the product of PT Sinarmas Asset Management (in the name of the same customer)?"
+
+msgid "Hal ini dapat dilakukan dengan cara mengisi formulir penjualan Reksa Dana pada produk yang lama dengan mencantumkan nomor rekening pencairan ke nomor rekening produk baru, kemudian satu hari kerja setelah tanggal transaksi penjualan nasabah wajib menyerahkan formulir pembelian produk yang baru dengan menuliskan keterangan bahwa dana tersebut diperoleh dari hasil penjualan produk yang lama pada hari sebelumnya."
+msgstr "This matter can be carried out by completing mutual fund selling form at old product by stating disbursement account number to new product account number, then one working day after the date of selling transaction, the customer is obligated to submit that new product purchasing form by writing information that the fund was obtained from selling proceed of old product from the previous day."
+
+msgid "Apakah hasil investasi Reksa Dana dikenakan pajak?"
+msgstr "Is Mutual Fund investment taxable?"
+
+msgid "Tidak, karena pajak untuk Reksa Dana telah dipotong pada portofolio asset / perhitungan NAB. Hal ini sesuai dengan peraturan perpajakan No.16 tahun 2009, sehingga Nasabah Reksa Dana tidak dibebankan pajak lagi."
+msgstr "No, because the tax for mutual fund has been deducted to assets portfolio/NAV calculation. This matter is in accordance with taxation regulation No.16 year 2009, so that mutual fund customer is not subjected to tax anymore."
+
+msgid "Apakah bukti kepemilikan Reksa Dana di PT Sinarmas Asset Management?"
+msgstr "What is Mutual Fund ownership evidence at PT Sinarmas Asset Management?"
+
+msgid "Konfirmasi Pembelian Reksa Dana"
+msgstr "Confirmation of Mutual Fund Purchase"
+
+msgid "Laporan Akun (Laporan Bulanan)"
+msgstr "Account Report (Monthly Report)"
+
+msgid "Jika sebelumnya sudah pernah membeli Reksa Dana di tahun 2004, tapi sudah lama tidak aktif, apakah rekening Reksa Dana masih bisa digunakan?"
+msgstr "If we had previously purchased Mutual Fund in 2004 and it has not been active for a long time, can the account still be used?"
+
+msgid "Masih bisa di pergunakan, nasabah dapat menghubungi Customer Service : <strong>021-392 5550</strong> atau email : <a href=\"mailto:cs@sinarmas-am.co.id\">cs@sinarmas-am.co.id</a> untuk mendapatkan keterangan lebih lanjut."
+msgstr "Yes. The customer can contact Customer Service : <strong>021-392 5550</strong> or email : <strong><a href=\"mailto:cs@sinarmas-am.co.id\">cs@sinarmas-am.co.id</a></strong> for further information."
+
+msgid "Siapakah yang ditunjuk untuk menjadi Bank Kustodian dari PT Sinarmas Asset Management?"
+msgstr "Who is Appointed to become custodian bank from PT Sinarmas Asset Management?"
+
+msgid "Pihak yang di tunjuk sebagai Bank Kustodian adalah Bank CIMB Niaga (untuk semua produk Reksa Dana Sinarmas Asset Management yang berdenominasi Rupiah) dan Bank International Indonesia (untuk produk Reksa Dana yang berdenominasi USD/Dollar)."
+msgstr "The party appointed as Custodian Bank is Bank CIMB Niaga (for all Mutual Fund products of Sinarmas Asset Management denominated in Rupiah) and Bank International Indonesia (for Mutual Fund products denominated in USD/Dollar)."
+
+msgid "Apa kiat dan strategi dalam berinvestasi di Reksa Dana?"
+msgstr "What are tips and strategies for investing in Mutual Fund?"
+
+msgid "Sebaiknya investor menentukan terlebih dahulu jenis Reksa Dana yang sesuai dengan karakteristik investor dan menyesuaikan jangka waktu Reksa Dana yang sesuai dengan profil keuangan investor serta menentukan tingkat risiko yang akan di terima dengan target tingkat yield yang akan di hasilkan dari Reksa Dana tersebut, apakah sesuai antara risiko dengan tingkat yield yang akan diperoleh. Setelah itu investor dapat memilih jenis Reksa Dana apa yang sesuai dengan karakteristik dan profil keuangan investor tersebut."
+msgstr "Investor should first determine type of Mutual Fund which is in accordance with charracteristic of investor and adjust to Mutual Fund period which is in accordance with financial profile of investor and determine the risk level that will be faced by target yield level that will be obtained from the said Mutual Fund, is it in accord between the risk and yield level that will be faced. After that, investor can choose the kinds of Mutual Fund which is in accordance with characteristic and financial profile of investor."
+
+msgid "Kelebihan berinvestasi pada <strong>Reksa Dana Pasar Uang</strong> dikarenakan kemudahan yang diberikan oleh reksa dana ini, dimana nasabah dapat melakukan pembelian dan penjualan Unit Penyertaan setiap saat. Sebagai contoh nasabah melakukan pembelian Unit Penyertaan pada hari ini, pada keesokan harinya nasabah sudah diperkenankan untuk melakukan penjualan atas Unit Penyertaan mereka."
+msgstr "Benefit to invest in <strong>Money Market Mutual Fund</strong> is due to facility by this mutual fund, where the customer can make a purchase and selling Participation Unit any time. As an example, customer make purchase Participation Unit on this day, on the subsequence day customer has been allowed to carry out selling on their Participation Unit."
+
+msgid "Hal ini dapat dilakukan karena Portofolio Reksa Dana Pasar Uang dikelola secara aktif dengan diversifikasi investasi, yakni 100% pada instrumen Pasar Uang dan atau Efek Hutang yang mempunyai jatuh tempo kurang dari 1 tahun yang diterbitkan sesuai dengan peraturan perundang – undangan yang berlaku di Indonesia, termasuk Sertifikat Bank Indonesia dan instrumen Pasar Uang lainnya yang dikeluarkan oleh Pemerintah Indonesia."
+msgstr "It can be made because Portfolio of Money Market Mutual Fund is managed actively by applying diversification of investment, namely 100% at Money Market instrument and or Liability stock maturity less than 1 year issued in accordance with statutory regulation prevailing in Indonesia, including Certificate of Bank Indonesia and the other Money Market instrument issued by Government of Indonesia."
+
+msgid "Kelebihan berinvestasi pada <strong>Reksa Dana Campuran</strong> dikarenakan flexibilitas atas instrumen yang dapat digunakan oleh Manajer Investasi sebagai portofolio asetnya. Sebagai contoh dalam keadaan yang kurang menguntungkan Reksa Dana jenis ini dapat memilih instrumen pasar uang (setara cash) yang boleh dikatakan <em>zero risk / country risk</em> sebagai portofolio asetnya. Dan apabila situasi sudah mendukung atau membaik Reksa Dana ini bisa segera mengubah portofolio asetnya untuk dapat mengambil kesempatan di pasar obligasi maupun pasar saham untuk mendongkrak kinerjanya."
+msgstr "The benefit of investment in <strong>Mix Mutual Fund</strong> is due to flexibility of  instrument which can be used by Investment Manager as its portfolio assets. As  an example, in less profitable Mutual Fund of this type can choose Money Market  instrument (equal to cash) that may be called <em>zero risk</em> / <em>country risk</em> as&nbsp;its porfolio  assets. And if the situation has supported or become better this  mutual fund can immendiately change its portfolio assets in order to be able to  take an opportunity at bonds market as well as stock market to lift its  performance."
+
+msgid "Kelebihan berinvestasi pada <strong>Reksa Dana Pendapatan Tetap</strong> dikarenakan pertumbuhan yang stabil, dimana instrumen yang dapat digunakan oleh Manajer Investasi sebagai portofolio asetnya. Sebagai contoh dalam keadaan yang kurang menguntungkan pada pasar saham Reksa Dana jenis ini tidak mendapatkan dampak yang signifikan terhadap volatilitas pasar saham dikarenakan Reksa Dana Pendapatan Tetap menjadikan Obligasi sebagai portofolio asetnya. Selain itu Reksa Dana jenis ini dapat melakukan pembelian pada pasar uang untuk memaksimalkan kinerjanya."
+msgstr "Benefit of investment on <strong>Fixed Income Mutual Fund</strong> is due to the stable growth, in which instrument that can be used by Investment Manager as its portfolio assets. As an example, in  the less profitable condition at stock market of this kinds of Mutual Fund does not get a significant impact toward volatility of stock market is due to Fixed Income Mutual Fund makes Bonds as its portfolio assets. Besides, this type of Mutual Fund can make a purchase at money market to maximize its performance."
+
+msgid "Kelebihan berinvestasi pada <strong>Reksa Dana Saham</strong> adalah yield yang cukup menarik seiring dengan pergerakan Indeks Harga Saham Gabungan (IHSG) yang mengalami kenaikan dimana Manajer Investasi dapat memilih instrumen saham yang sesuai dengan kondisi market yang sedang memberikan keuntungan sebagai portofolio pada Reksa Dana tersebut guna memberikan hasil yang maksimal kepada pemegang Unit Penyertaannya."
+msgstr "The benefit of investment at <strong>Stock Mutual Fund</strong> is the actracted yield in  line with fluctuation of Joint Stock Price Index (IHSG) experiencing an  increase where Investment Manager can choose stock instrument suitable to  market condition providing a profit as portfolio at such Mutual Fund to give  maximum yield to its Participation Unit holder."
+
+msgid "Oleh karena itu pilihlah Reksa Dana yang telah memiliki track record yang baik dan telah terbukti integritasnya (minimal 3 tahun)."
+msgstr "Therefore, choose Mutual Fund which has possessed good track record and  has proven its integrity (minimum 3 years)."
+
+msgid "Apa saja biaya-biaya yang dikenakan jika Nasabah membeli Reksa Dana?"
+msgstr "What kinds of costs will be imposed when customer purchase Mutual Fund?"
+
+msgid "Biaya Pembelian"
+msgstr "Purchasing Cost (Subscription Fee)"
+
+msgid "Biaya yang dikenakan kepada Nasabah pada saat melakukan pembelian Reksa Dana."
+msgstr "The charge imposed to Customer when making a purchase for Mutual Fund."
+
+msgid "Biaya Penjualan"
+msgstr "Selling Cost (Redemption Fee)"
+
+msgid "Biaya Pengalihan"
+msgstr "Switching Fee"
+
+msgid "Biaya yang dikenakan kepada Nasabah pada saat melakukan pengalihan dari Reksa Dana satu ke Reksa Dana lain yang dikelola oleh Manajer Investasi yang sama."
+msgstr "The cost imposed to Customer when carrying out the transfer from one Mutual Fund to  the other Mutual Fund managed by the same Investment Manager."
+
+msgid "Biaya Transfer"
+msgstr "Transfer Cost"
+
+msgid "Biaya yang dikenakan oleh bank saat Nasabah melakukan transfer dari rekening Nasabah ke rekening reksa dana atau sebaliknya."
+msgstr "The  cost imposed by the bank when Customer performing the transfer from Customer  account to mutual fund account or the reverse."
+
+msgid "Apa yang dimaksud dengan Laporan Bulanan Kepemilikan Unit Penyertaan (bisa juga disebut sebagai Laporan Akun)?"
+msgstr "What is meant by Monthly Report of Participation Unit Ownership (also known as Account Report)?"
+
+msgid "adalah Laporan Bulanan yang menunjukkan jumlah Unit Penyertaan yang dimiliki oleh Pemegang Unit Penyertaan beserta NAB/unit dan berlaku sebagai bukti kepemilikan Reksa Dana. Laporan Bulanan Kepemilikan Unit Penyertaan akan dikirimkan oleh Bank Kustodian, nasabah juga akan menerima Fund Factsheet yang dilampirkan pada Laporan Bulanan Reksa Dana tersebut."
+msgstr "It is a Monthly Report of indicating the amount of Participation Unit belong to participation Unit Holder along with NAV / unit and shall apply as ownership evidence as Mutual Fund. Monthly Report of Participation Unit Ownership will be sent by Custodian Bank, customer will also receive Fund Fact sheet attached to Monthly Report of such Mutual Fund."
+
+msgid "Apa yang dimaksud dengan Formulir Pembelian Unit Penyertaan?"
+msgstr "What is meant by Participation Unit Purchase Form?"
+
+msgid "adalah formulir asli yang dipakai oleh calon pembeli untuk membeli Unit Penyertaan yang diisi, di tanda tangani dan diajukan oleh calon pembeli kepada Manajer Investasi."
+msgstr "It is an original form used by prospective purchaser to purchase completed Participation Unit, signed and submitted by respective purchaser to Investment Manager."
+
+msgid "Apa yang dimaksud dengan Formulir Penjualan Kembali Unit Penyertaan?"
+msgstr "What is meant by Participation Unit Reselling Form?"
+
+msgid "adalah formulir yang berisi data mengenai penjualan Unit Penyertaan Reksa Dana oleh Pemegang Unit Penyertaan, sebagai persyaratan untuk menjual Unit Penyertaan Reksa Dana kepada Manajer Investasi."
+msgstr "It is a completed form of data concerning Mutual Fund Participation Unit selling, as requirement to sell Mutual Fund Participation Unit to Investment Manager."
+
+msgid "Apakah jika membeli Reksa Dana secara langsung pada kantor pusat maupun melalui kantor cabang akan memperoleh perlakuan yang sama dengan membeli Reksa Dana melalui bank agen penjual?"
+msgstr "When we purchase mutual fund directly at head office and through branch office will we get the same treatment with purchase of mutual fund through the bank of selling agent?"
+
+msgid "Pembelian melalui bank yang telah menjadi agen penjual akan memperoleh perlakuan yang sama dengan membeli langsung pada kantor pusat maupun kantor cabang, baik biaya pembelian (subscription fee) dan biaya penjualan (redemption fee) maupun dalam hal akses informasi atas produk dan kinerja produk."
+msgstr "Purchase through the bank which has become selling agent will get the same treatment with purchase directly at head office or branch office, either purchasing cost (subscription fee) and selling cost (redemption fee) or in case of information acces on the product and product performance."
+
+msgid "Bagaimana cara memilih Manajer Investasi yang baik?"
+msgstr "How to choose a good investment manager?"
+
+msgid "Penilaian didasarkan pada"
+msgstr "Assesment is based upon"
+
+msgid "Kepercayaan / Reputasi"
+msgstr "Trust / Reputation"
+
+msgid "Nasabah dapat melihat sebuah perusahaan dari reputasi, nama baik dan Group yang ada di belakangnya."
+msgstr "Customer can see a company from reputation and the group beyond it."
+
+msgid "Pengalaman"
+msgstr "Experience"
+
+msgid "Ini mencakup lama waktu keberadaan perusahaan Manajer Investasi dalam mengelola Reksa Dana. Kinerja jangka pendek tidak dapat dijadikan gambaran untuk kinerja masa mendatang."
+msgstr "It covers the existence period of the Investment Manager company in managing Mutual Fund. Short term performance can not give picture for the future performance."
+
+msgid "Jumlah dana kelolaan yang dikelola oleh Manajer Investasi"
+msgstr "The amount of management fund managed by Investment Manager"
+
+msgid "Mencari sumber informasi yang terpercaya dan akurat terhadap total dana kelolaan yang dimiliki oleh Manajer Investasi."
+msgstr "Seeking reliable and accurate information toward total managing fund belong to Investment Manager."
+
+msgid "Stabilitas dari kinerja masa lalu"
+msgstr "Stability from the past performance"
+
+msgid "Melakukan pengamatan dan analisa terhadap kinerja reksa dana yang dikelola Manajer Investasi sejak peluncuran perdana."
+msgstr "Conducting observation and analysis toward mutual fund performance managed by Investment Manager as from the initial launching."
+
+# OTHER terms
+msgid "mata uang"
+msgstr "currency"

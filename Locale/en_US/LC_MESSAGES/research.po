@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-31 12:29+0800\n"
+"PO-Revision-Date: 2017-07-31 12:33+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Riset"
+msgstr "Research"
+
+msgid "Riset Harian"
+msgstr "Daily Research"
+
+msgid "Perdagangan"
+msgstr "Trading View"
+
+msgid "Pilihan Hari Ini"
+msgstr "Picks of the Day"

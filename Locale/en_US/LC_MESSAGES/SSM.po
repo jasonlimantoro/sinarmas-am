@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-31 00:21+0800\n"
+"PO-Revision-Date: 2017-07-31 00:24+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# Investment Profile
+msgid "<p>Simas Saham Maksima bertujuan untuk memperoleh pendapatan yang optimal dalam jangka waktu panjang dengan tingkat fleksibilitas investasi yang cukup tinggi dengan berinvestasi pada Efek bersifat Ekuitas serta mengurangi risiko dengan berinvetasi pada berbagai jenis invetasi portofolio investasi yang terdiri dari Efek bersifat Utang dan/atau Efek Beragunan Aset serta instrument pasar uang dan/atau deposito sesuai peraturan perundang-undangan yang berlaku.</p><p>Simas Saham Maksima akan melakukan invetasi dengan komposisi portofolio invetasi minimum 80% (delapan puluh persen) dan maksimum 100% (seratus persen) dari Nilai Aktiva Bersih pada Efek bersifat Ekuitas yang diterbitkan oleh korporasi yang telah dijual dalam Penawaran Umum dan atau dicatatkan di Bursa Efek Indonesia; dan minimum 0% (nol persen) dan maksimum 20% (dua puluh persen) dari Nilai Aktiva Bersih pada Efek bersifat Utang dan/atau Efek Beragunan Aset serta instrument pasar uang dalam negeri yang mempunyai jatuh tempo kurang dari 1 (satu) tahun dan/atau deposito; sesuai peraturan perundang-undangan yang berlaku di Indonesia.</p>"
+msgstr "<p>Simas Saham Maksima aim to achieve optimum income within the long term with a level high enough investment flexibility and reduce risk by allocating into the various types of securities consisting of Equity Securities, Asset Backed Securities and or Money Market Instruments in accordance with statutory regulation prevailing in Indonesian and follow the principles of capital market.</p><p>Portfolio of Simas Saham Maksima will be actively managed to obtain optimum within the long term period by placing investment fund minimum 80% (eighty percent) and maximum 100% (one hundred percent) at Equity Stock included in the list of Securities issued by the corporation which has been sold in a Public Offering and or listed at the Stock Exchange, and minimum 0% (zero percent) and maximum 20% (twenty percent) at Liability Stock issued by the Government of the Republic of Indonesian and or the corporation which has been sold in a Public Offering and or listed at the Stock Exchange, Asset Backed Securities, Money Market Instrument in the home country having a maturity less than 1 (one) year, and or Deposit in accordance with the principles of capital market and statutory regulation prevailing in Indonesia.</p>"
+
+# Investment Profile
+msgid "Investor yang ingin mempunyai tingkat pertumbuhan dana yang optimal dalam jangka waktu panjang."
+msgstr "Investor who wishes to have fund growth level of which optimum in long term period."

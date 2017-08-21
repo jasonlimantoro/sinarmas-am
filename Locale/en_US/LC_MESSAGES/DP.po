@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-29 09:48+0800\n"
+"PO-Revision-Date: 2017-07-29 22:15+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# INVESTMENT POLICY
+msgid "Portofolio Danamas Pasti akan dikelola secara aktif guna mendapatkan pendapatan yang stabil dan optimal dalam jangka menengah dan panjang melalui penempatan dana investasi umum 80% (delapan puluh persen) dan maksimum 100% (seratus persen) pada Efek bersifat utang yang diterbitkan oleh perusahaan-perusahaan berbadan hukum Indonesia termasuk Obligasi Pemerintah Republik Indonesia, Obligasi Pemerintah Daerah (\"Municipal Bonds\") dan Efek bersifat utang lainnya sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia serta minimum 0% (nol persen) dan maksimum 20% (dua puluh persen) pada Instrumen Pasar Uang yang mempunyai jatuh tempo kurang dari 1 (satu) tahun. Khusus untuk Obligasi Pemerintah Republik Indonesia, termasuk Obligasi Pemerintah Republik Indonesia yang dilengkapi dengan REPO (Repurchase Agreement), maka komposisi investasinya dapat mencapai 100% (seratus persen) dengan tetap memperhatikan peraturan perundang-undangan yang berlaku."
+msgstr "Portfolio Danamas Pasti will be managed actively to gain a stable and optimum income within the middle and long term period by placing investment fund minimum 80% (eighty percent) and maximum 100% (a hundred percent) at liability stock issued by the companies of the Indonesian legal bodies including of the Government of the Republic of Indonesia, Municipal Bonds and the other liability stock, in accordance with statutory regulation prevailing in Indonesian, and minimum 0% (zero percent) and maximum 20% (twenty percent) at Money Market Instrument having maturity less than 1 (one) year. Especially for Bonds of the Government of the Republic of Indonesia, include Bonds of the Government of the Republic of Indonesia are equipped with REPO (Repurchase Agreement), accordingly investment composition can reach 100% (a hundred percent) with statutory regulation prevailing in Indonesian."
+
+# Investment Profile
+msgid "Investor yang ingin memperoleh pendapatan yang stabil dan optimal dalam jangka menengah dan panjang dengan tingkat risiko yang relatif rendah."
+msgstr "Investor who wishes to have fund growth level of which relative stable and optimum in middle and long term period with relative low risk level."
+
+# Subscription Time Limit
+msgid "<p>Sampai dengan pukul 13.00 WIB akan diproses dengan NAB pada akhir hari bursa yang sama.</p><p>Bila diatas pukul 13.00 WIB akan diproses dengan NAB pada akhir hari bursa berikutnya.</p>"
+msgstr "<p>Up to 13.00 WIB will be processed with NAV at the end of the same exchange day.</p><p>When after 13.00 WIB will be processed with NAV at the end of the following exchange day.</p>"

@@ -1,0 +1,39 @@
+// ARBITRARY TABLES
+td {
+    vertical-align: top;
+    line-height: 20px;
+}
+
+// Performance table (in Products)
+.performance-table {
+    font-size: 12px;
+    a {
+        color: $red-heading;
+        &:hover {
+            color: black;
+        }
+    }
+}
+
+// PORTFOLIO TABLE
+.portfolio-table {
+    border-color: black;
+    font-size: 12px;
+    tbody {
+        tr:first-child {
+            background-color: $table-heading;
+            color: white;
+        }
+        tr {
+            background-color: $table-data;
+        }
+    }
+}
+
+// Payment Instruction
+.payment-instruction-table {
+    tbody {
+        color: black;
+        
+    }
+}

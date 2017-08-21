@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-31 15:58+0800\n"
+"PO-Revision-Date: 2017-07-31 16:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# General
+msgid "Lihat"
+msgstr "View"
+
+msgid "Unduh"
+msgstr "Download"
+
+# Forms
+msgid "Unduh Formulir"
+msgstr "Download Forms"
+
+msgid "Formulir Pembelian"
+msgstr "Subscription Form"
+
+msgid "Formulir Penjualan"
+msgstr "Redemption Form"
+
+msgid "Formulir Profil Pemodal"
+msgstr "Investor Profile Form"
+
+msgid "Formulir Pembukaan Rekening Individu"
+msgstr "Individidual Account Opening Form"
+
+msgid "Formulir Pembukaan Rekening Institusi"
+msgstr "Institution Account Opening Form"
+
+msgid "Formulir Pengalihan"
+msgstr "Switching Form"
+
+msgid "Formulir Perubahan/Penambahan Rekening Individu"
+msgstr "Personal Account Ammendment/Additional Form"
+
+msgid "Formulir Perubahan/Penambahan Rekening Perusahaan"
+msgstr "Company Account Ammendment/Additional Form"
+
+msgid "Formulir Investasi Berkala"
+msgstr "Instalment Form"
+
+msgid "Surat Pembatalan Pendebetan Bank Sinarmas"
+msgstr "Sinarmas Bank Cancellation Auto Debit Form"
+
+msgid "Surat Kuasa Pendebetan Rekening Bank Sinarmas"
+msgstr "Sinarmas Bank Auto Debit Form"
+
+msgid "Surat Kuasa Pencabutan Kuasa Bank BII"
+msgstr "BII Bank Cancellation Auto Debit Form"
+
+msgid "Surat Kuasa Pendebetan Rekening Bank BII"
+msgstr "BII Bank Auto Debit Form"
+
+msgid "Surat Kuasa Pencabutan Pendebetan Rekening Bank BCA"
+msgstr "BCA Bank Cancellation Auto Debit Form"
+
+msgid "Surat Kuasa Pendebetan Rekening Bank BCA"
+msgstr "BCA Bank Auto Debit Form"
+
+msgid "Formulir Perubahan Data Nasabah"
+msgstr "Client Data Changes Form"
+
+msgid "Surat Kuasa Pencabutan Pendebetan Rekening Bank Mandiri"
+msgstr "Mandiri Bank Cancellation Auto Debit Form"
+
+msgid "Surat Kuasa Pendebetan Rekening Bank Mandiri"
+msgstr "Mandiri Bank Auto Debit Form"
+
+msgid "Surat Kuasa Pendebetan Rekening Bank Danamon"
+msgstr "Danamon Bank Auto Debit Form"
+
+# Prospectus
+msgid "Prospektus"
+msgstr "Prospectus"
+
+msgid "Kinerja"
+msgstr "Performance"

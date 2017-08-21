@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-25 18:24+0700\n"
+"PO-Revision-Date: 2017-07-25 23:45+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Portofolio Danamas Stabil akan dikelola secara aktif guna mendapatkan pendapatan yang stabil dan optimal dalam jangka menengah dan panjang melalui penempatan dana investasi minimum 80% (delapan puluh persen) dan maksimum 100% (seratus persen) pada Efek bersifat utang yang diterbitkan oleh perusahaan - perusahaan berbadan hukum Indonesia termasuk Obligasi Pemerintah Republik Indonesia, Obligasi Pemerintah Daerah (\"Municipal Bonds\") dan Efek bersifat utang lainnya, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia, serta minimum 0% (nol persen) dan maksimum 20% (dua puluh persen) pada Instrumen Pasar Uang yang mempunyai jatuh tempo kurang dari 1 (satu) tahun, Efek Beragun Aset yang telah dijual dalam Penawaran Umum dan atau Efek Ekuitas beserta semua turunannya yang telah dijual dalam Penawaran Umum dan atau dicatatkan di Bursa Efek baik di dalam maupun di luar negeri. Semua investasi portofolio efek tersebut diatas dapat dalam denominasi Rupiah maupun mata uang asing lainnya. Khusus untuk Obligasi Pemerintah Republik Indonesia, komposisi investasinya dapat mencapai 100% (seratus persen) dengan tetap memperhatikan peraturan perundang-undangan yang berlaku. Danamas Stabil dapat mengadakan perjanjian pembelian kembali (REPO) sehubungan dengan penyelesaian transaksi Efek-efek tersebut di atas, perjanjian pembelian kembali tersebut (REPO) dapat dalam denominasi Rupiah maupun mata uang asing."
+msgstr "Portfolio Danamas Stabil will be managed actively to gain a stable and optimum income within the middle and long term period by placing investment fund minimum 80% (eighty percent) and maximum 100% (one hundred percent) at liability Stock issued by the companies of the Indonesian legal bodies including Bonds of the Government of the Republic of Indonesia, Municipal Bonds and the other liability Stock, in accordance with statutory regulation prevailing in Indonesia, and minimum 0% (zero percent) and maximum 20% (twenty percent) at Money Market Instrument having maturity less than 1 (one) year, Collateral Stock which has been sold in Public Offer and or Equity Stock and all its derivative which has been sold in Public Offer and or listed at the Stock Exchange, either in the home country and abroad. All investment of securities portfolio mentioned above can be in Rupiah denomination and in the other foreign currency. Especially for Bonds of the Government of the Republic of Indonesia, composition of investment can reach 100% (one hundred percent) by always observing the prevailing statutory regulation. Danamas Stabil can make repurchase agreement (REPO) in connection with the settlement of Securities transaction mentioned above, the said repurchase agreement (REPO) can be in Rupiah denomination and in foreign currency."
+
+# Investor Profile
+msgid "Investor yang ingin mempunyai tingkat pertumbuhan dana yang relatif stabil dan optimal dalam jangka menengah dan panjang dengan tingkat resiko yang relatif rendah."
+msgstr "Investor who wishes to have fund growth level of which relative stable and optimum in middle and long term period with relative low risk level."
+
+# Portfolio composition
+msgid "Efek Hutang"
+msgstr "Liability Stock"
+
+msgid "Instrumen Pasar Uang, Efek Beragun Aset ataupun Efek Ekuitas beserta semua turunannya"
+msgstr "Money Market Instrument, Collateral Stock or Equity Stock along with its derivatives"
+
+# Confirmation and Redemption Yield
+msgid "Transfer / Giro / Pemindahbukuan tidak lebih dari 7 (tujuh) Hari Bursa."
+msgstr "Transfer / Giro / Transfer not later than 7 (seven) Exchange Day."
+
+# Subscription Time Limit
+msgid "Sampai dengan pukul 13.00 WIB akan diproses dengan NAB pada akhir hari bursa yang sama. Bila diatas pukul 13.00 WIB akan diproses dengan NAB pada akhir hari bursa berikutnya."
+msgstr "Up to 13.00 WIB will be processed with NAV at the end of the same exchange day. When after 13.00 WIB will be processed with NAV at the end of the following exchange day."
+
+# Redemption Time Limit
+msgid "Konfirmasi dan Hasil Penjualan Kembali : Transfer / Giro / Pemindahbukuan tidak lebih dari 7 (tujuh) hari bursa."
+msgstr "Confirmation and the Result of Reselling: Transfer / Giro / Transfer not later than 7 (seven) exchange days."

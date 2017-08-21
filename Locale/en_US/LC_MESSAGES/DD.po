@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-29 00:26+0800\n"
+"PO-Revision-Date: 2017-07-29 00:45+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+# Investment Policy
+msgid "Portofolio Danamas Dollar akan dikelola secara aktif guna mendapatkan pendapatan yang optimal dalam jangka menengah dan panjang melalui penempatan dana investasi minimum 80% (delapan puluh persen) dan maksimum 100% (seratus persen) pada Efek bersifat Hutang serta minimum 0% (nol persen) dan maksimum 20% (dua puluh persen) pada Instrumen Pasar Uang yang mempunyai jatuh tempo kurang dari 1 (satu) tahun, dalam denominasi Dollar Amerika Serikat maupun mata uang asing lainnya."
+msgstr "Portfolio Danamas Dollar will be managed actively to gain a stable and optimum income within the middle and long term period by placing investment fund minimum 80% (eighty percent) and maximum 100% (one hundred percent) at liability stock, and minimum 0% (zero percent) and maximum 20% (twenty percent) at Money Market Instrument having maturity less than 1 (one) year, denominated in U.S. Dollar and in the other foreign currency."
+
+# Investor profile
+msgid "Investor yang ingin mempunya tingkat pertumbuhan dana yang optimal serta mempunyai fleksibilitas tinggi terhadap perubahan nilai tukar mata uang asing."
+msgstr "Investor who wishes to have an optimal growth rate of funds and have high flexibility to changes in foreign currency exchange rate."
+
+# Redemption Fee
+msgid "Maksimum 1,00% dari Nilai Penjualan Kembali, untuk penjualan kembali kurang dari 2 tahun. 0,00% apabila Penjualan Kembali dilakukan setelah 2 tahun."
+msgstr "Maximum 1,00% of  Redemption, for redemption less than 2 years. Redemption of 0,00% when performed after 2 years."
+
+# Portfolio Composition
+msgid "Instrumen Pasar Uang, Efek Beragun Aset ataupun Efek Ekuitas ataupun semua turunannya"
+msgstr "Money Market Instrument, Collateral Stock or Equity Stock along with its derivatives"
+
+# Subscription Time Limit
+msgid "Sampai dengan pukul 12.00 WIB akan diproses dengan NAB  pada akhir hari bursa yang sama. Bila diatas pukul 12.00 WIB akan diproses dengan NAB  pada akhir hari bursa berikutnya."
+msgstr "Up to 12.00 WIB will be processed with NAV at the end of the same exchange day. When after 12.00 WIB will be processed with NAV at the end of the following exchange day."
+
+# Redemption Time Limit
+msgid "Sampai dengan pukul 12.00 WIB akan diproses dengan NAB pada akhir hari bursa yang sama. Bila diatas pukul 12.00 WIB akan diproses  dengan NAB pada akhir hari bursa berikutnya."
+msgstr "Up to 12.00 WIB will be processed with NAV at the end of the same exchange day.  When after 12.00 WIB will be processed with NAV at the end of the following  exchange day."
+
+msgid "Konfirmasi dan Hasil Penjualan Kembali : Transfer /  Giro / Pemindahbukuan tidak lebih dari 7 (tujuh) hari bursa."
+msgstr "Confirmation  and the Result of Reselling: Transfer / Giro / Transfer not later than 7  (seven) exchange days."
+
+
