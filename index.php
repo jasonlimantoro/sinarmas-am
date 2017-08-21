@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php 
     include ("Locale/setup.php");
     putenv("LANG=$lang");
@@ -17,13 +16,10 @@
     textdomain($domain[0]); // default domain
 
 ?>
+<!DOCTYPE html>
 <html lang='id'>
     <head>
-        <!-- To ensure proper rendering and touch zooming -->
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <?php include "header.php" ?>
-
     </head>
 
     <body>
