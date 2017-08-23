@@ -26,7 +26,7 @@
         ?>
 
         <div id="page-wrapper">
-            <?php include "nav_display.php" ?>
+            <?php include "nav_display.php"; ?>
             <div class="content">
                 <div class="container">
                     <div class="row">
