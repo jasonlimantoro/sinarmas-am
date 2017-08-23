@@ -4,9 +4,7 @@
         <?php include "header.php"; ?>
     </head>
     <body>
-        <?php
-            include "nav_structure.php";
-        ?>
+        <?php include "nav_structure.php"; ?>
         <?php 
             // putenv("LANG=$lang");
             // setlocale(LC_ALL, $lang);
@@ -51,7 +49,6 @@
             <?php include "footer.php"; ?>
         </div>
 
-        
 
     <?php include "jsload.php"; ?>
     </body>
