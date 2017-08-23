@@ -266,10 +266,10 @@
                 </div>
             
             </div>
-            <?php include("footer.php") ?>
+            <?php include "footer.php"; ?>
         </div>
 
 
-    <?php include("jsload.php"); ?>
+    <?php include "jsload.php"; ?>
     </body>
 </html>

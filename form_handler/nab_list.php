@@ -157,7 +157,7 @@
         </div>
         <br>
         <br>
-    <!-- To load jQuery and Javascript -->
+    
     <!-- jQuery library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <!-- Latest compiled JavaScript -->

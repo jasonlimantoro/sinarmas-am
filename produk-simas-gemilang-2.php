@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php include("header.php") ?>
+        <?php include "header.php"; ?>
     </head>
     <body>
-        <!-- PRIMARY NAVIGATION -->
+        
         <?php 
-            include("nav_structure.php");
+            include "nav_structure.php";
         ?>
-        <!--PRIMARY NAVIGATION ENDS HERE -->
+        
 
-        <!-- CAROUSEL STARTS HERE -->
+        
         <?php
             include("carousel.php");
         ?>
-        <!-- CAROUSEL ENDS HERE -->
+        
         <?php 
             $domain = array (
                 'product_general',
@@ -28,8 +28,8 @@
 
             textdomain($domain[0]); // default domain
         ?>
-        <!-- START CONTENT -->
-        <!-- SOCIAL MEDIA ICONS FLOATING -->
+        
+        
         <?php 
             include("social_float.php");
         ?>
@@ -133,13 +133,13 @@
                 <!-- SIDEBAR ENDS HERE -->
             </div>
         </div>
-        <!-- CONTENT ENDS HERE -->
+        
 
-        <!-- FOOTER STARTS HERE -->
-        <?php include("footer.php") ?>
-        <!-- FOOTER ENDS HERE -->
+        
+        <?php include "footer.php"; ?>
+        
     
-    <!-- To load jQuery and Javascript -->
-    <?php include("jsload.php"); ?>
+    
+    <?php include "jsload.php"; ?>
     </body>
 </html>

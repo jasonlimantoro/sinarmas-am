@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php include("header.php") ?>
+        <?php include "header.php"; ?>
     </head>
     <body>
         <?php
-            include("nav_structure.php");
+            include "nav_structure.php";
             include("carousel.php");
         ?>
         <div class="container">
@@ -158,11 +158,11 @@
                 <!-- SIDEBAR ENDS HERE -->
             </div>
         </div>
-        <!-- FOOTER STARTS HERE -->
+        
         <?php 
             include("footer.php");
         ?>
-        <!-- FOOTER ENDS HERE -->
+        
 
     <?php
         include("jsload.php");

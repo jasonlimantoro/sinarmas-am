@@ -60,8 +60,8 @@
         <?php include "footer.php"; ?>
 
     
-    <!-- To load jQuery and Javascript -->
-    <?php include("jsload.php"); ?>
+    
+    <?php include "jsload.php"; ?>
     <script>
         $(document).ready(function(){
             $(".award_year").on("click", function(event){
