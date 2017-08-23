@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php include("header.php") ?>
+        <?php include "header.php"; ?>
     </head>
     <body>
         <?php include "nav_structure.php"; ?>
