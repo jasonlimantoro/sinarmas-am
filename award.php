@@ -57,7 +57,7 @@
             </div>
         </div>
 
-        <?php include("footer.php"); ?>
+        <?php include "footer.php"; ?>
 
     
     <!-- To load jQuery and Javascript -->

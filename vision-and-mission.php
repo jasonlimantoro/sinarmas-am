@@ -53,7 +53,7 @@
 
         
 
-    <?php include("jsload.php");?>
+    <?php include "jsload.php"; ?>
     </body>
 
 

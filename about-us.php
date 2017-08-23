@@ -13,14 +13,14 @@
 <!DOCTYPE html>
 <html lang="id">
     <head>
-        <?php include("header.php") ?>
+        <?php include "header.php"; ?>
     </head>
     <body>
         <?php include "nav_structure.php"; ?>
         
         <div id="page-wrapper">
 
-            <?php include "nav_display.php" ?>
+            <?php include "nav_display.php"; ?>
 
             <div class="content">
                 <div class="container">
@@ -53,9 +53,7 @@
                 </div>
             </div>
 
-            <?php 
-                include("footer.php");
-            ?>
+            <?php include "footer.php"; ?>
 
 
         </div>

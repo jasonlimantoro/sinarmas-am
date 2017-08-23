@@ -19,15 +19,15 @@
 <!DOCTYPE html>
 <html lang='id'>
     <head>
-        <?php include "header.php" ?>
+        <?php include "header.php"; ?>
     </head>
 
     <body>
-        <?php include "nav_structure.php" ?>
+        <?php include "nav_structure.php"; ?>
          <!-- The page -->
         <div id="page-wrapper">
             
-            <?php include "nav_display.php" ?>
+            <?php include "nav_display.php"; ?>
 
             <div class="content">
                 <div class='section1'>
@@ -533,9 +533,9 @@
                     </div>
                 </div>
             </div>
-            <?php include 'footer.php' ?>
+            <?php include "footer.php"; ?>
         </div>
-        <?php include 'jsload.php' ?>
+        <?php include "jsload.php"; ?>
 
         <script>
             // NEWS CAROUSEL
