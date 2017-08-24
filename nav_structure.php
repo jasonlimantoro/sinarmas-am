@@ -80,8 +80,8 @@
             </li>
             <li><a href="#"><?php echo gettext('Unduh'); ?></a>
                 <ul>
-                    <li><a href="formulir"><?php echo gettext('Formulir'); ?></a></li>
-                    <li><a href="prospektus"><?php echo gettext('Prospektus'); ?></a></li>
+                    <li><a href="download-form"><?php echo gettext('Formulir'); ?></a></li>
+                    <li><a href="download-prospectus"><?php echo gettext('Prospektus'); ?></a></li>
                 </ul>
             </li>
             <li><a href="education"><?php echo gettext('Edukasi'); ?></a></li>
