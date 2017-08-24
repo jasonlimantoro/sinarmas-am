@@ -5,22 +5,8 @@
     </head>
     <body>
         
-        <?php 
-            include "nav_structure.php";
-        ?>
-        
+        <?php include "nav_structure.php"; ?>
 
-        
-        <?php
-            include("carousel.php");
-        ?>
-        
-
-        
-        
-        <?php 
-            include("social_float.php");
-        ?>
         <?php 
             $domain = array (
                 'calculator',
@@ -35,52 +21,48 @@
             textdomain($domain[0]); // default domain
         ?>
 
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-xs-12" style="text-align:justify;">
-                    <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo dgettext('navigation', 'Investasi Masa Depan'); ?></h2>
-                    <h4 style="color:#900;"><strong><?php echo gettext('Dapat menghitung hasil investasi masa depan'); ?></strong></h4>
-                    <?php echo gettext('<p>Simas Kalkulator dibuat untuk mensimulasikan Hasil Investasi Anda pada beberapa jenis Reksa Dana. Simulasi ini dapat memberikan gambaran kepada Anda mengenai hasil investasi dari sejumlah dana yang Anda investasikan.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 10 juta pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 5 tahun yang akan datang ?</p>'); ?>
+        <div id="page-wrapper">
+            <?php include "nav_display.php"; ?>
+            <div class="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-xs-12" style="text-align:justify;">
+                            <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo dgettext('navigation', 'Investasi Masa Depan'); ?></h2>
+                            <h4 style="color:#900;"><strong><?php echo gettext('Dapat menghitung hasil investasi masa depan'); ?></strong></h4>
+                            <?php echo gettext('<p>Simas Kalkulator dibuat untuk mensimulasikan Hasil Investasi Anda pada beberapa jenis Reksa Dana. Simulasi ini dapat memberikan gambaran kepada Anda mengenai hasil investasi dari sejumlah dana yang Anda investasikan.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 10 juta pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 5 tahun yang akan datang ?</p>'); ?>
 
-                    <form class="form-inline">
-                        <div class="form-group">
-                            <label class="sr-only" for="field_invest_ro"> <?php echo gettext('Jumlah Investasi'); ?> </label>
-                            <div class="input-group">
-                                <div class="input-group-addon">Rp</div>
-                                <input class="form-control" id="field_invest_ro" value="10,000,000" disabled>
-                                <div class="input-group-addon">.00</div>
-                            </div>
+                            <form class="form-inline">
+                                <div class="form-group">
+                                    <label class="sr-only" for="field_invest_ro"> <?php echo gettext('Jumlah Investasi'); ?> </label>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">Rp</div>
+                                        <input class="form-control" id="field_invest_ro" value="10,000,000" disabled>
+                                        <div class="input-group-addon">.00</div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="sr-only" for="field_jangka_ro"> <?php echo gettext('Jangka Waktu Investasi'); ?> </label>
+                                    <div class="input-group">
+                                        <input class="form-control" id="field_jangka_ro" value="5" disabled>
+                                        <div class="input-group-addon"><?php echo gettext('Tahun'); ?></div>
+                                    </div>
+                                </div>
+                                <button class="btn btn-primary" onclick="count_try();" type="button"><?php echo gettext('Coba Hitung'); ?> </button>
+                            </form>
+                            <p><?php echo gettext('Setelah 5 Tahun dengan Anda berinvestasi sebesar Rp. 10,000,000.00 Anda akan mendapatkan hasil investasi sebesar <code>Rp 24,883,200.00</code>.'); ?></p>
+
+                            <!-- PANEL KALKULATOR STARTS HERE  -->
+                            <?php include('panel_kalkulator.php') ?>
+                            <!-- PANEL KALKULATOR ENDS HERE  -->
+
                         </div>
-                        <div class="form-group">
-                            <label class="sr-only" for="field_jangka_ro"> <?php echo gettext('Jangka Waktu Investasi'); ?> </label>
-                            <div class="input-group">
-                                <input class="form-control" id="field_jangka_ro" value="5" disabled>
-                                <div class="input-group-addon"><?php echo gettext('Tahun'); ?></div>
-                            </div>
-                        </div>
-                        <button class="btn btn-primary" onclick="count_try();" type="button"><?php echo gettext('Coba Hitung'); ?> </button>
-                    </form>
-                    <p><?php echo gettext('Setelah 5 Tahun dengan Anda berinvestasi sebesar Rp. 10,000,000.00 Anda akan mendapatkan hasil investasi sebesar <code>Rp 24,883,200.00</code>.'); ?></p>
-
-                    <!-- PANEL KALKULATOR STARTS HERE  -->
-                    <?php include('panel_kalkulator.php') ?>
-                    <!-- PANEL KALKULATOR ENDS HERE  -->
-
+                    </div>
                 </div>
-                <!-- SIDEBAR STARTS HERE -->
-                <?php 
-                    include("sidebar.php"); 
-                ?>
-                <!-- SIDEBAR ENDS HERE -->
+            
             </div>
+            <?php include "footer.php"; ?>
         </div>
-        
 
-        
-        <?php include "footer.php"; ?>
-        
-    
-    
     <?php include "jsload.php"; ?>
     <script>
         function addCommas(nStr)

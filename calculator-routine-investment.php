@@ -5,21 +5,8 @@
     </head>
     <body>
         
-        <?php 
-            include "nav_structure.php";
-        ?>
-        
+        <?php include "nav_structure.php"; ?>
 
-        
-        <?php
-            include("carousel.php");
-        ?>
-        
-        
-        
-        <?php 
-            include("social_float.php");
-        ?>
         <?php 
             $domain = array (
                 'calculator',
@@ -34,64 +21,61 @@
             textdomain($domain[0]); // default domain
         ?>
 
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-xs-12" style="text-align:justify;">
-                    <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Rutin'); ?></h2>
-                    <?php echo gettext('<p>Simulasi ini dapat memberikan gambaran kepada Anda mengenai <strong>Hasil investasi</strong> yang akan diperoleh dari investasi secara rutin yang Anda lakukan.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi Bulanan dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 500,000.00 setiap bulannya pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 15 tahun yang akan datang ?</p>'); ?>
-                    <form class="form-inline">
-                        <div class="form-group">
-                            <label class="sr-only" for="field_invest_ro"> <?php echo gettext('Jumlah Investasi'); ?> </label>
-                            <div class="input-group">
-                                <div class="input-group-addon">Rp</div>
-                                <input class="form-control" id="field_invest_ro" value="500,000" disabled>
-                                <div class="input-group-addon">.00</div>
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <label class="sr-only" for="field_jangka_ro"> <?php echo gettext('Jangka Waktu Investasi'); ?> </label>
-                            <div class="input-group">
-                                <input class="form-control" id="field_jangka_ro" value="15" disabled>
-                                <div class="input-group-addon"><?php echo gettext('Tahun'); ?></div>
-                            </div>
-                        </div>
-                        <button class="btn btn-primary" onclick="count_try();" type="button"><?php echo gettext('Coba Hitung'); ?> </button>
-                    </form>
-                    <!-- <div>
-                    <table width="50%" border="0">
-                        <tbody><tr align="left">
-                        <td width="40%"><?php echo gettext('Jumlah Investasi'); ?> Bulanan</td>
-                        <td width="5%">:</td>
-                        <td width="55%">Rp 500,000.00</td>
-                        </tr>
-                        <tr align="left">
-                        <td><?php echo gettext('Jangka Waktu Investasi'); ?></td>
-                        <td>:</td>
-                        <td>15 Tahun</td>
-                        </tr>
-                    </tbody>
-                    </table>
-                    </div> -->
-                    <p><?php echo gettext('Setelah 15 Tahun dengan Anda berinvestasi sebesar Rp 500,000.00 setiap bulan Anda akan mendapatkan hasil investasi sebesar <code>Rp557,849,952.72</code>.'); ?></p>
-                    <!-- PANEL KALKULATOR STARTS HERE  -->
-                    <?php include('panel_kalkulator.php') ?>
-                    <!-- PANEL KALKULATOR ENDS HERE  -->
+        <div id="page-wrapper">
+            <?php include "nav_display.php"; ?> 
+            <div class="content">
+            
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-xs-12" style="text-align:justify;">
+                            <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Rutin'); ?></h2>
+                            <?php echo gettext('<p>Simulasi ini dapat memberikan gambaran kepada Anda mengenai <strong>Hasil investasi</strong> yang akan diperoleh dari investasi secara rutin yang Anda lakukan.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi Bulanan dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 500,000.00 setiap bulannya pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 15 tahun yang akan datang ?</p>'); ?>
+                            <form class="form-inline">
+                                <div class="form-group">
+                                    <label class="sr-only" for="field_invest_ro"> <?php echo gettext('Jumlah Investasi'); ?> </label>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">Rp</div>
+                                        <input class="form-control" id="field_invest_ro" value="500,000" disabled>
+                                        <div class="input-group-addon">.00</div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="sr-only" for="field_jangka_ro"> <?php echo gettext('Jangka Waktu Investasi'); ?> </label>
+                                    <div class="input-group">
+                                        <input class="form-control" id="field_jangka_ro" value="15" disabled>
+                                        <div class="input-group-addon"><?php echo gettext('Tahun'); ?></div>
+                                    </div>
+                                </div>
+                                <button class="btn btn-primary" onclick="count_try();" type="button"><?php echo gettext('Coba Hitung'); ?> </button>
+                            </form>
+                            <!-- <div>
+                            <table width="50%" border="0">
+                                <tbody><tr align="left">
+                                <td width="40%"><?php echo gettext('Jumlah Investasi'); ?> Bulanan</td>
+                                <td width="5%">:</td>
+                                <td width="55%">Rp 500,000.00</td>
+                                </tr>
+                                <tr align="left">
+                                <td><?php echo gettext('Jangka Waktu Investasi'); ?></td>
+                                <td>:</td>
+                                <td>15 Tahun</td>
+                                </tr>
+                            </tbody>
+                            </table>
+                            </div> -->
+                            <p><?php echo gettext('Setelah 15 Tahun dengan Anda berinvestasi sebesar Rp 500,000.00 setiap bulan Anda akan mendapatkan hasil investasi sebesar <code>Rp557,849,952.72</code>.'); ?></p>
+                            <!-- PANEL KALKULATOR STARTS HERE  -->
+                            <?php include('panel_kalkulator.php') ?>
+                            <!-- PANEL KALKULATOR ENDS HERE  -->
 
+                        </div>
+                    </div>
                 </div>
-                <!-- SIDEBAR STARTS HERE -->
-                <?php 
-                    include("sidebar.php"); 
-                ?>
-                <!-- SIDEBAR ENDS HERE -->
+            
             </div>
+            <?php include "footer.php"; ?>
         </div>
-        
 
-        
-        <?php include "footer.php"; ?>
-        
-    
-    
     <?php include "jsload.php"; ?>
     <script>
         function addCommas(nStr)

@@ -5,21 +5,8 @@
     </head>
     <body>
         
-        <?php 
-            include "nav_structure.php";
-        ?>
-        
+        <?php include "nav_structure.php"; ?>
 
-        
-        <?php
-            include("carousel.php");
-        ?>
-        
-        
-        
-        <?php 
-            include("social_float.php");
-        ?>
         <?php 
             $domain = array (
                 'calculator',
@@ -34,52 +21,49 @@
             textdomain($domain[0]); // default domain
         ?>
 
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-xs-12" style="text-align:justify;">
-                    <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Aktual'); ?></h2>
-                    <h4 style="color:#900;"><strong><?php echo gettext('Dapat Menghitung Nilai Investasi yang diperlukan untuk pencapaian suatu Target Investasi'); ?></strong></h4>
+        <div id="page-wrapper">
+            <?php include "nav_display.php"; ?> 
+            <div class="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-xs-12" style="text-align:justify;">
+                            <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Aktual'); ?></h2>
+                            <h4 style="color:#900;"><strong><?php echo gettext('Dapat Menghitung Nilai Investasi yang diperlukan untuk pencapaian suatu Target Investasi'); ?></strong></h4>
 
-                    <?php echo gettext('<p>Simulasi ini bertujuan untuk memberikan gambaran kepada Anda mengenai <strong>Nilai investasi</strong> yang diperlukan untuk mencapai <strong>Target Investasi</strong>yang Anda inginkan dalam jangka waktu tertentu.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan <strong>Target Dana Investasi</strong> dan <strong>Jangka Waktu Investasi</strong> yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin membeli sebuah rumah seharga Rp 2 Milyar, dan Anda berencana untuk membeli rumah tersebut dalam jangka waktu 8 tahun mendatang. Berapakah uang yang Anda harus investasikan dalam waktu 8 tahun yang akan datang ?</p>'); ?>
-                    
-                    <form class="form-inline">
-                            <div class="form-group">
-                                <label class="sr-only" for="field_invest_ro"> <?php echo gettext('Jumlah Investasi'); ?> </label>
-                                <div class="input-group">
-                                    <div class="input-group-addon">Rp</div>
-                                    <input class="form-control" id="field_invest_ro" value="2,000,000,000" disabled>
-                                    <div class="input-group-addon">.00</div>
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="sr-only" for="field_jangka_ro"> <?php echo gettext('Jangka Waktu Investasi'); ?> </label>
-                                <div class="input-group">
-                                    <input class="form-control" id="field_jangka_ro" value="8" disabled>
-                                    <div class="input-group-addon"><?php echo gettext('Tahun'); ?></div>
-                                </div>
-                            </div>
-                            <button class="btn btn-primary" onclick="count_try();" type="button"><?php echo gettext('Coba Hitung'); ?> </button>
-                    </form>
-                    
-                    <p><?php echo gettext('Melihat dari Simas Kalkulator, untuk dapat membeli rumah seharga Rp 2 Milyar dalam waktu 8 tahun Anda perlu berinvestasi sebesar <code>Rp 465,136,078.72</code> pada Reksa Dana Saham.'); ?></p>
-                    <!-- PANEL KALKULATOR STARTS HERE  -->
-                    <?php include('panel_kalkulator.php') ?>
-                    <!-- PANEL KALKULATOR ENDS HERE  -->
+                            <?php echo gettext('<p>Simulasi ini bertujuan untuk memberikan gambaran kepada Anda mengenai <strong>Nilai investasi</strong> yang diperlukan untuk mencapai <strong>Target Investasi</strong>yang Anda inginkan dalam jangka waktu tertentu.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan <strong>Target Dana Investasi</strong> dan <strong>Jangka Waktu Investasi</strong> yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin membeli sebuah rumah seharga Rp 2 Milyar, dan Anda berencana untuk membeli rumah tersebut dalam jangka waktu 8 tahun mendatang. Berapakah uang yang Anda harus investasikan dalam waktu 8 tahun yang akan datang ?</p>'); ?>
+                            
+                            <form class="form-inline">
+                                    <div class="form-group">
+                                        <label class="sr-only" for="field_invest_ro"> <?php echo gettext('Jumlah Investasi'); ?> </label>
+                                        <div class="input-group">
+                                            <div class="input-group-addon">Rp</div>
+                                            <input class="form-control" id="field_invest_ro" value="2,000,000,000" disabled>
+                                            <div class="input-group-addon">.00</div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="field_jangka_ro"> <?php echo gettext('Jangka Waktu Investasi'); ?> </label>
+                                        <div class="input-group">
+                                            <input class="form-control" id="field_jangka_ro" value="8" disabled>
+                                            <div class="input-group-addon"><?php echo gettext('Tahun'); ?></div>
+                                        </div>
+                                    </div>
+                                    <button class="btn btn-primary" onclick="count_try();" type="button"><?php echo gettext('Coba Hitung'); ?> </button>
+                            </form>
+                            
+                            <p><?php echo gettext('Melihat dari Simas Kalkulator, untuk dapat membeli rumah seharga Rp 2 Milyar dalam waktu 8 tahun Anda perlu berinvestasi sebesar <code>Rp 465,136,078.72</code> pada Reksa Dana Saham.'); ?></p>
+                            <!-- PANEL KALKULATOR STARTS HERE  -->
+                            <?php include('panel_kalkulator.php') ?>
+                            <!-- PANEL KALKULATOR ENDS HERE  -->
 
+                        </div>
+                    </div>
                 </div>
-                <!-- SIDEBAR STARTS HERE -->
-                <?php 
-                    include("sidebar.php"); 
-                ?>
-                <!-- SIDEBAR ENDS HERE -->
+            
             </div>
+            <?php include "footer.php"; ?>
         </div>
-        
 
-        
-        <?php include "footer.php"; ?>
-        
-    
     
     <?php include "jsload.php"; ?>
     <script> 
