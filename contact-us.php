@@ -76,43 +76,43 @@
                                                 <div class="panel-body text-center">
                                                     <h4> Bali </h4>
                                                     <div>
-                                                    Graha Sinarmas, Jl Tantular No. 8, Denpasar - Bali 80234 <br>
-                                                    <?php echo gettext('Telepon'); ?>: (0361) 229 933 <br>
-                                                    Fax: (0361) 229 936 <br>
+                                                        Graha Sinarmas, Jl Tantular No. 8, Denpasar - Bali 80234 <br>
+                                                        <?php echo gettext('Telepon'); ?>: (0361) 229 933 <br>
+                                                        Fax: (0361) 229 936 <br>
                                                     </div>
                                                     <br>
                                                     
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7888.478953969985!2d115.22799599999999!3d-8.668761!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10fff0556e2f635a!2sSinarmas+Sekuritas.+PT+-+Bali!5e0!3m2!1sen!2sid!4v1500103070372" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7888.478953969985!2d115.22799599999999!3d-8.668761!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10fff0556e2f635a!2sSinarmas+Sekuritas.+PT+-+Bali!5e0!3m2!1sen!2sid!4v1500103070372" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Bogor </h4>
                                                     <div>
-                                                    Jl Pajajaran No. 38A Warung Jambu - Bogor 16150  <br>
-                                                    <?php echo gettext('Telepon'); ?>: (021) 831 8282 <br>
-                                                    Fax: (021) 831 8302 <br>
+                                                        Jl Pajajaran No. 38A Warung Jambu - Bogor 16150  <br>
+                                                        <?php echo gettext('Telepon'); ?>: (021) 831 8282 <br>
+                                                        Fax: (021) 831 8302 <br>
                                                     </div>
                                                     <br>
 
                                                     
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7927.26983230958!2d106.808715!3d-6.567679!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2a9a2e1d5f867a38!2sSinarmas+Sekuritas.+PT+-+Bogor!5e0!3m2!1sen!2sid!4v1500103318422" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7927.26983230958!2d106.808715!3d-6.567679!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2a9a2e1d5f867a38!2sSinarmas+Sekuritas.+PT+-+Bogor!5e0!3m2!1sen!2sid!4v1500103318422" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Fatmawati </h4>
                                                     <div>
-                                                    Golden Plaza Blok B/22 Jl. RS Fatmawati No. 15 - Jakarta 12420  <br>
-                                                    <?php echo gettext('Telepon'); ?>: (021) 766 8283 <br>
-                                                    Fax: (021) 766 8231 <br>
+                                                        Golden Plaza Blok B/22 Jl. RS Fatmawati No. 15 - Jakarta 12420  <br>
+                                                        <?php echo gettext('Telepon'); ?>: (021) 766 8283 <br>
+                                                        Fax: (021) 766 8231 <br>
                                                     </div>
                                                     <br>
                                                     
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.78792211541!2d106.79648600000002!3d-6.27767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc3a18d236cd390c!2sSinarmas+Multifinance.+PT+-+Fatmawati!5e0!3m2!1sen!2sid!4v1500103524530" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.78792211541!2d106.79648600000002!3d-6.27767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc3a18d236cd390c!2sSinarmas+Multifinance.+PT+-+Fatmawati!5e0!3m2!1sen!2sid!4v1500103524530" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
 
@@ -132,64 +132,64 @@
                                                 <div class="panel-body text-center">
                                                     <h4> Bekasi </h4>
                                                     <div>
-                                                    Graha Sinarmas, Jl Tantular No. 8, Denpasar - Bali 80234 <br>
-                                                    <?php echo gettext('Telepon'); ?>: (0361) 229 933 <br>
-                                                    Fax: (0361) 229 936 <br>
+                                                        Graha Sinarmas, Jl Tantular No. 8, Denpasar - Bali 80234 <br>
+                                                        <?php echo gettext('Telepon'); ?>: (0361) 229 933 <br>
+                                                        Fax: (0361) 229 936 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7888.478953969985!2d115.22799599999999!3d-8.668761!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10fff0556e2f635a!2sSinarmas+Sekuritas.+PT+-+Bali!5e0!3m2!1sen!2sid!4v1500103070372" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7888.478953969985!2d115.22799599999999!3d-8.668761!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10fff0556e2f635a!2sSinarmas+Sekuritas.+PT+-+Bali!5e0!3m2!1sen!2sid!4v1500103070372" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Kelapa Gading </h4>
                                                     <div>
-                                                    Jl Pajajaran No. 38A Warung Jambu - Bogor 16150  <br>
-                                                    <?php echo gettext('Telepon'); ?>: (021) 831 8282 <br>
-                                                    Fax: (021) 831 8302 <br>
+                                                        Jl Pajajaran No. 38A Warung Jambu - Bogor 16150  <br>
+                                                        <?php echo gettext('Telepon'); ?>: (021) 831 8282 <br>
+                                                        Fax: (021) 831 8302 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7927.26983230958!2d106.808715!3d-6.567679!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2a9a2e1d5f867a38!2sSinarmas+Sekuritas.+PT+-+Bogor!5e0!3m2!1sen!2sid!4v1500103318422" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7927.26983230958!2d106.808715!3d-6.567679!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2a9a2e1d5f867a38!2sSinarmas+Sekuritas.+PT+-+Bogor!5e0!3m2!1sen!2sid!4v1500103318422" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Mangga Dua </h4>
                                                     <div>
-                                                    Golden Plaza Blok B/22 Jl. RS Fatmawati No. 15 - Jakarta 12420  <br>
-                                                    <?php echo gettext('Telepon'); ?>: (021) 766 8283 <br>
-                                                    Fax: (021) 766 8231 <br>
+                                                        Golden Plaza Blok B/22 Jl. RS Fatmawati No. 15 - Jakarta 12420  <br>
+                                                        <?php echo gettext('Telepon'); ?>: (021) 766 8283 <br>
+                                                        Fax: (021) 766 8231 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.78792211541!2d106.79648600000002!3d-6.27767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc3a18d236cd390c!2sSinarmas+Multifinance.+PT+-+Fatmawati!5e0!3m2!1sen!2sid!4v1500103524530" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.78792211541!2d106.79648600000002!3d-6.27767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc3a18d236cd390c!2sSinarmas+Multifinance.+PT+-+Fatmawati!5e0!3m2!1sen!2sid!4v1500103524530" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Permata Hijau </h4>
                                                     <div>
-                                                    Golden Plaza Blok B/22 Jl. RS Fatmawati No. 15 - Jakarta 12420  <br>
-                                                    <?php echo gettext('Telepon'); ?>: (021) 766 8283 <br>
-                                                    Fax: (021) 766 8231 <br>
+                                                        Golden Plaza Blok B/22 Jl. RS Fatmawati No. 15 - Jakarta 12420  <br>
+                                                        <?php echo gettext('Telepon'); ?>: (021) 766 8283 <br>
+                                                        Fax: (021) 766 8231 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.78792211541!2d106.79648600000002!3d-6.27767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc3a18d236cd390c!2sSinarmas+Multifinance.+PT+-+Fatmawati!5e0!3m2!1sen!2sid!4v1500103524530" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.78792211541!2d106.79648600000002!3d-6.27767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc3a18d236cd390c!2sSinarmas+Multifinance.+PT+-+Fatmawati!5e0!3m2!1sen!2sid!4v1500103524530" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
                                                     <h4> Sukabumi </h4>
                                                     <div>
-                                                    Golden Plaza Blok B/22 Jl. RS Fatmawati No. 15 - Jakarta 12420  <br>
-                                                    <?php echo gettext('Telepon'); ?>: (021) 766 8283 <br>
-                                                    Fax: (021) 766 8231 <br>
+                                                        Golden Plaza Blok B/22 Jl. RS Fatmawati No. 15 - Jakarta 12420  <br>
+                                                        <?php echo gettext('Telepon'); ?>: (021) 766 8283 <br>
+                                                        Fax: (021) 766 8231 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.78792211541!2d106.79648600000002!3d-6.27767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc3a18d236cd390c!2sSinarmas+Multifinance.+PT+-+Fatmawati!5e0!3m2!1sen!2sid!4v1500103524530" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.78792211541!2d106.79648600000002!3d-6.27767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc3a18d236cd390c!2sSinarmas+Multifinance.+PT+-+Fatmawati!5e0!3m2!1sen!2sid!4v1500103524530" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
 
@@ -212,91 +212,91 @@
                                                 <div class="panel-body text-center">
                                                     <h4> Bandung </h4>
                                                     <div>
-                                                    Gedung Bank Sinarmas Lt. 2, Jl. Abdul Rivai no: 2, Bandung. 40171 <br>
-                                                    <?php echo gettext('Telepon'); ?>:  (022) 421 2536 / (022) 421 2537<br>
-                                                    Fax:  (022) 426 6691 <br>
+                                                        Gedung Bank Sinarmas Lt. 2, Jl. Abdul Rivai no: 2, Bandung. 40171 <br>
+                                                        <?php echo gettext('Telepon'); ?>:  (022) 421 2536 / (022) 421 2537<br>
+                                                        Fax:  (022) 426 6691 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7921.771361685594!2d107.603556!3d-6.904272!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe7d032aa727bedff!2sSinarmas+Sekuritas!5e0!3m2!1sen!2sid!4v1500114935560" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7921.771361685594!2d107.603556!3d-6.904272!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe7d032aa727bedff!2sSinarmas+Sekuritas!5e0!3m2!1sen!2sid!4v1500114935560" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Cilacap </h4>
                                                     <div>
-                                                    Komplek Hotel Tiga Intan, KL RE. Martadinata No. 192 - Cilacap 53212 <br>
-                                                    <?php echo gettext('Telepon'); ?>: (0282) 538 777 / (0282) 536 224<br>
-                                                    Fax:  (0282) 538 227 <br>
+                                                        Komplek Hotel Tiga Intan, KL RE. Martadinata No. 192 - Cilacap 53212 <br>
+                                                        <?php echo gettext('Telepon'); ?>: (0282) 538 777 / (0282) 536 224<br>
+                                                        Fax:  (0282) 538 227 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7907.076673357845!2d108.99906!3d-7.732577!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x70120164167a71c5!2sSinarmas+Sekuritas.+PT+-+Cilacap!5e0!3m2!1sen!2sid!4v1500115039280" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7907.076673357845!2d108.99906!3d-7.732577!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x70120164167a71c5!2sSinarmas+Sekuritas.+PT+-+Cilacap!5e0!3m2!1sen!2sid!4v1500115039280" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Cimahi </h4>
                                                     <div>
-                                                    Jalan Amir Machmud No.491 Cimahi Tengah  <br>
-                                                    <?php echo gettext('Telepon'); ?>:  022-6646860 <br>
-                                                    Fax:  022-6647233 <br>
+                                                        Jalan Amir Machmud No.491 Cimahi Tengah  <br>
+                                                        <?php echo gettext('Telepon'); ?>:  022-6646860 <br>
+                                                        Fax:  022-6647233 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d126755.72723141345!2d107.546865!3d-6.876646!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1ae7c98c816bf37c!2sSekuritas+Sinarmas!5e0!3m2!1sen!2sid!4v1500115129661" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d126755.72723141345!2d107.546865!3d-6.876646!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1ae7c98c816bf37c!2sSekuritas+Sinarmas!5e0!3m2!1sen!2sid!4v1500115129661" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Cirebon </h4>
                                                     <div>
-                                                    Gedung Bank Sinarmas Jl .Dr. Wahidin No.29, Cirebon. 45122  <br>
-                                                    <?php echo gettext('Telepon'); ?>: (0231) 238 805 <br>
-                                                    Fax:  (0231) 246 556 <br>
+                                                        Gedung Bank Sinarmas Jl .Dr. Wahidin No.29, Cirebon. 45122  <br>
+                                                        <?php echo gettext('Telepon'); ?>: (0231) 238 805 <br>
+                                                        Fax:  (0231) 246 556 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7925.0610132920465!2d108.551301!3d-6.704915!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x59b3ae9cb02a56f!2sSinarmas+Sekuritas!5e0!3m2!1sen!2sid!4v1500115194943" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7925.0610132920465!2d108.551301!3d-6.704915!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x59b3ae9cb02a56f!2sSinarmas+Sekuritas!5e0!3m2!1sen!2sid!4v1500115194943" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Kudus </h4>
                                                     <div>
-                                                    Jl. A Yani Ruko Kav. 16 - Kudus 59317 <br>
-                                                    <?php echo gettext('Telepon'); ?>:  (0291) 446 322 <br>
-                                                    Fax:  (0291) 446 322 <br>
+                                                        Jl. A Yani Ruko Kav. 16 - Kudus 59317 <br>
+                                                        <?php echo gettext('Telepon'); ?>:  (0291) 446 322 <br>
+                                                        Fax:  (0291) 446 322 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7923.2892422971545!2d110.840098!3d-6.813008!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdb3d03ffac49aa0c!2sSinarmas+Sekuritas.+PT+-+Kudus!5e0!3m2!1sen!2sid!4v1500115301029" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7923.2892422971545!2d110.840098!3d-6.813008!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdb3d03ffac49aa0c!2sSinarmas+Sekuritas.+PT+-+Kudus!5e0!3m2!1sen!2sid!4v1500115301029" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Purwokerto </h4>
                                                     <div>
-                                                    Gedung Bank Sinarmas Jl. S Parman No. 77 - Purwokerto 53141  <br>
-                                                    <?php echo gettext('Telepon'); ?>:  (0281) 642 244 <br>
-                                                    Fax:  (0281) 642 244 <br>
+                                                        Gedung Bank Sinarmas Jl. S Parman No. 77 - Purwokerto 53141  <br>
+                                                        <?php echo gettext('Telepon'); ?>:  (0281) 642 244 <br>
+                                                        Fax:  (0281) 642 244 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7912.663453700677!2d109.243291!3d-7.428494!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x434659ab6c6bb64!2sSinarmas+Sekuritas.+PT+-+Purwokerto!5e0!3m2!1sen!2sid!4v1500115393756" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7912.663453700677!2d109.243291!3d-7.428494!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x434659ab6c6bb64!2sSinarmas+Sekuritas.+PT+-+Purwokerto!5e0!3m2!1sen!2sid!4v1500115393756" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                                     </div>
                                                     <hr>
 
                                                     <h4> Tasikmalaya </h4>
                                                     <div>
-                                                    Gedung Bank Sinarmas Lantai 2 Jl. Sutisna Senjaya No. 65, Tasikmalaya. 46126  <br>
-                                                    <?php echo gettext('Telepon'); ?>:  (0265) 311 771 / (0265) 334 733<br>
-                                                    Fax:  (0265) 335 596 <br>
+                                                        Gedung Bank Sinarmas Lantai 2 Jl. Sutisna Senjaya No. 65, Tasikmalaya. 46126  <br>
+                                                        <?php echo gettext('Telepon'); ?>:  (0265) 311 771 / (0265) 334 733<br>
+                                                        Fax:  (0265) 335 596 <br>
                                                     </div>
                                                     <br>
                                                     <div class="map">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7914.466726308823!2d108.228119!3d-7.327666!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaa0eb219fe7efea5!2sPT+Sinarmas+Sekuritas!5e0!3m2!1sen!2sid!4v1500115457333" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7914.466726308823!2d108.228119!3d-7.327666!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaa0eb219fe7efea5!2sPT+Sinarmas+Sekuritas!5e0!3m2!1sen!2sid!4v1500115457333" width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
                                                     </div>
 
                                                 
