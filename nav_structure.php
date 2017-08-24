@@ -69,7 +69,7 @@
                     </li>
                 </ul>
             </li> <!-- PRODUK -->
-            <li><a href="riset"><?php echo gettext('Riset'); ?></a></li>
+            <li><a href="research"><?php echo gettext('Riset'); ?></a></li>
             <li><a href="#"><?php echo gettext('Simas Kalkulator'); ?></a>
                 <ul>
                     <li><a href="calculator-future-investment"><?php echo gettext('Investasi Masa Depan'); ?></a></li>
