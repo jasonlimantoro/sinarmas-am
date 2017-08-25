@@ -9,10 +9,6 @@
 
         <?php include "nav_structure.php" ;?>
         <?php 
-
-            // putenv("LANG=$lang");
-            // setlocale(LC_ALL, $lang);
-
             $domain = array (
                 'award'
             );
