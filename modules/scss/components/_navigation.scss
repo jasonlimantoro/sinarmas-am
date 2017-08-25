@@ -38,7 +38,10 @@
             display: initial;
         }
         li a {
-            color: $red-heading;
+            color: $grey-dark-default;
+            &:hover{
+                color: $red-heading !important;
+            }
         }
     }
 }
