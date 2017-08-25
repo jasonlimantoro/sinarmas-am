@@ -98,16 +98,16 @@
             <li><a href="contact-us"><?php echo gettext('Hubungi Kami'); ?></a></li>
             <li><a href="#"> Simas Fund Reksa Dana Online </a>
                 <ul>
-                    <li><a href=""><?php echo gettext('Masuk'); ?></a></li>
-                    <li><a href=""><?php echo gettext('Registrasi'); ?></a></li>
-                    <li><a href=""><?php echo gettext('Aktivasi'); ?></a></li>
-                    <li><a href=""><?php echo gettext('Lupa Kata Sandi'); ?></a></li>
+                    <li><a href="http://rol.sinarmas-am.co.id/" target="blank" ><?php echo gettext('Masuk'); ?></a></li>
+                    <li><a href="http://rol.sinarmas-am.co.id/registrasi.asp" target="blank"><?php echo gettext('Registrasi'); ?></a></li>
+                    <li><a href="http://rol.sinarmas-am.co.id/aktivasi.asp" target="blank"><?php echo gettext('Aktivasi'); ?></a></li>
+                    <li><a href="http://rol.sinarmas-am.co.id/forgot_password.asp" target="blank"><?php echo gettext('Lupa Kata Sandi'); ?></a></li>
                 </ul>
 
             </li>
             <li><a href="#"><?php echo gettext("Bahasa")?></a>
                 <ul>
-                    <li><a href="?lang=id_ID">Indonesia</a></li> 
+                    <li><a href="?lang=id_ID">Bahasa</a></li>
                     <li><a href="?lang=en_US">English</a></li> 
                 </ul>
             </li>
