@@ -1,15 +1,3 @@
-<?php 
-    $domain = array (
-        'about'
-    );
-
-    foreach ($domain as $d ) {
-        bindtextdomain($d, 'Locale');
-        bind_textdomain_codeset($d, 'UTF-8');
-    }
-
-    textdomain($domain[0]); // default domain
-?>
 <!DOCTYPE html>
 <html lang="id">
     <head>
@@ -17,7 +5,18 @@
     </head>
     <body>
         <?php include "nav_structure.php"; ?>
-        
+        <?php 
+            $domain = array (
+                'about'
+            );
+
+            foreach ($domain as $d ) {
+                bindtextdomain($d, 'Locale');
+                bind_textdomain_codeset($d, 'UTF-8');
+            }
+
+            textdomain($domain[0]); // default domain
+        ?>
         <div id="page-wrapper">
 
             <?php include "nav_display.php"; ?>

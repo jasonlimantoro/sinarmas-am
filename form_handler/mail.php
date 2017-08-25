@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
     <head>
         <!-- <link rel="stylesheet" href="../css/bootstrap/css/bootstrap.min.css"> -->
     </head>

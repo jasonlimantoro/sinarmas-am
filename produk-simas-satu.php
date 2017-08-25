@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
     <head>
         <?php include "header.php"; ?>
     </head>
@@ -10,9 +10,6 @@
         ?>
         
         <?php 
-            // putenv("LANG=$lang");
-            // setlocale(LC_ALL, $lang);
-
             $domain = array (
                 'product_general',
                 'navigation',

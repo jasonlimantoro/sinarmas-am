@@ -1,22 +1,3 @@
-<?php 
-    include ("Locale/setup.php");
-    putenv("LANG=$lang");
-    setlocale(LC_ALL, $lang);
-    
-    $domain = array (
-        'navigation',
-        'sidebar'
-    );
-
-    foreach ($domain as $d ) {
-        bindtextdomain($d, 'Locale');
-        bind_textdomain_codeset($d, 'UTF-8');
-    }
-
-    textdomain($domain[0]); // default domain
-
-?>
-<!-- code cleannn!!! -->
 <!DOCTYPE html>
 <html lang='id'>
     <head>
@@ -25,6 +6,18 @@
 
     <body>
         <?php include "nav_structure.php"; ?>
+        <?php 
+            $domain = array (
+                'index'
+            );
+
+            foreach ($domain as $d ) {
+                bindtextdomain($d, 'Locale');
+                bind_textdomain_codeset($d, 'UTF-8');
+            }
+
+            textdomain($domain[0]); // default domain
+        ?>
          <!-- The page -->
         <div id="page-wrapper">
             
@@ -91,7 +84,7 @@
 
 
                 <div class="section2" style='padding-top: 100px; padding-bottom: 100px;background-color: #ebebeb;'>
-                    <h1 align='center' style='color:black; font-size:48px; position:relative; bottom:50px;'>Fitur Fitur</h1>
+                    <h1 align='center' style='color:black; font-size:48px; position:relative; bottom:50px;'><?php echo gettext('Fitur-Fitur'); ?></h1>
                     <div id="secondary-carousel" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
@@ -206,8 +199,8 @@
                     <div class="container-fluid real-time" >
                         <div class="row">
                             <div class="col-md-9 col-md-offset-1">
-                                <h1><?php echo dgettext('sidebar', 'NAB Harian'); ?></h1>
-                                <span class='updated-date'><?php echo dgettext('sidebar', 'Update Terakhir: ') ?></span>
+                                <h1><?php echo gettext('NAB Harian'); ?></h1>
+                                <span class='updated-date'><?php echo gettext('Update Terakhir: ') ?></span>
                             </div>
                         </div>
 
@@ -227,7 +220,7 @@
 
                                     <tbody>
                                         <tr>
-                                            <td><?php echo dgettext('sidebar', 'NAB'); ?></td>
+                                            <td><?php echo gettext('NAB'); ?></td>
                                             <td>Return YTD</td>
                                         </tr>
 
@@ -251,7 +244,7 @@
 
                                     <tbody>
                                         <tr>
-                                            <td><?php echo dgettext('sidebar', 'NAB'); ?></td>
+                                            <td><?php echo gettext('NAB'); ?></td>
                                             <td>Return YTD</td>
                                         </tr>
 
@@ -270,7 +263,7 @@
 
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -288,7 +281,7 @@
                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -306,7 +299,7 @@
                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -324,7 +317,7 @@
                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -348,7 +341,7 @@
                                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -366,7 +359,7 @@
                                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -384,7 +377,7 @@
                                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -403,7 +396,7 @@
                                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -447,7 +440,7 @@
                                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -466,7 +459,7 @@
                                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -484,7 +477,7 @@
                                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -502,7 +495,7 @@
                                     
                                     <tbody> 
                                         <tr> 
-                                            <td> <?php echo dgettext('sidebar', 'NAB'); ?> </td>
+                                            <td> <?php echo gettext('NAB'); ?> </td>
                                             <td> Return YTD </td>
                                         </tr>
                                         <tr>
@@ -513,15 +506,15 @@
                                 </table>
 
                                 <div class="interest-title">
-                                    <h1> <?php echo dgettext('sidebar', 'Suku Bunga'); ?> </h1>
-                                    <span class="update-date-sb"><?php echo dgettext('sidebar', 'Update Terakhir: '); ?> </span>
+                                    <h1> <?php echo gettext('Suku Bunga'); ?> </h1>
+                                    <span class="update-date-sb"><?php echo gettext('Update Terakhir: '); ?> </span>
                                 </div>
 
                                 <table class="table table-striped interest-rate">
                                     <thead>
                                         <tr>
-                                            <th style="width:75%;"><?php echo dgettext('sidebar', 'Tipe'); ?></th>
-                                            <th><?php echo dgettext('sidebar', 'Suku Bunga'); ?> </th>
+                                            <th style="width:75%;"><?php echo gettext('Tipe'); ?></th>
+                                            <th><?php echo gettext('Suku Bunga'); ?> </th>
                                         </tr>
                                     </thead>
 
