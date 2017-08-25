@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-07-25 09:00+0700\n"
-"PO-Revision-Date: 2017-08-25 19:44+0800\n"
+"PO-Revision-Date: 2017-08-25 23:02+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -87,6 +87,9 @@ msgstr "Education"
 # Contact Us
 msgid "Hubungi Kami"
 msgstr "Contact Us"
+
+msgid "Pilih Bahasa"
+msgstr "Choose a Language"
 
 msgid "English"
 msgstr "Bahasa"

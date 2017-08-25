@@ -105,7 +105,7 @@
                 </ul>
 
             </li>
-            <li><a href="#"><?php echo gettext("Bahasa")?></a>
+            <li><a href="#"><?php echo gettext("Pilih Bahasa")?></a>
                 <ul>
                     <li><a href="?lang=id_ID">Bahasa</a></li>
                     <li><a href="?lang=en_US">English</a></li> 
