@@ -1,3 +1,12 @@
+<?php 
+    include ("Locale/setup.php");
+    putenv("LANG=$lang");
+    setlocale(LC_ALL, $lang);
+    bindtextdomain('navigation', 'Locale');
+    bind_textdomain_codeset('navigation', 'UTF-8');
+
+    textdomain('navigation');
+?>
 <!-- MENU -->
 <div class="container">
     <nav id="menu" style="color:#ce000c;">
