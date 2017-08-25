@@ -97,7 +97,7 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
                     }
 
                     &:nth-of-type(even){
-                        color:#639da1;
+                        color:$tosca-default;
                     }
 
                     td {
