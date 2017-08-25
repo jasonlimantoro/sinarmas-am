@@ -8,7 +8,11 @@
     .hamburger-container {
         padding-left: 0px;
         a {
-            border-right:2px solid lightgrey;
+            @include media-query(tablet-retina){
+                display: none !important;
+    
+            }
+            // border-right:2px solid lightgrey;
             span {
                 color:#ce000c;
             }
