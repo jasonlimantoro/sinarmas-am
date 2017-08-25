@@ -210,7 +210,7 @@
                                 <table class="table">
                                     <thead>   
                                         <tr>
-                                            <th colspan='2'><?php echo gettext('Reksa Dana Pasar Uang'); ?></th>
+                                            <th colspan='2'><?php echo dgettext('navigation', 'Reksa Dana Pasar Uang'); ?></th>
                                         </tr>
                                         <tr>
                                             <th> <a href="produk-danamas-rupiah-plus"> Danamas Rupiah Plus </a></th>
@@ -234,7 +234,7 @@
                                 <table class="table">
                                     <thead>   
                                         <tr>
-                                            <th colspan='2'><?php echo gettext('Reksa Dana Pendapatan Tetap') ?></th>
+                                            <th colspan='2'><?php echo dgettext('navigation', 'Reksa Dana Pendapatan Tetap') ?></th>
                                         </tr>
                                         <tr>
                                             <th> <a href="produk-danamas-stabil"> Danamas Stabil </a></th>
@@ -331,7 +331,7 @@
                                 <table class="table">
                                     <thead> 
                                         <tr>
-                                            <th colspan='2'><?php echo gettext('Reksa Dana Campuran') ?></th>
+                                            <th colspan='2'><?php echo dgettext('navigation', 'Reksa Dana Campuran') ?></th>
                                         </tr>
                                         <tr>
                                             <th><a href ="produk-simas-syariah-berkembang">Simas Syariah Berkembang</th>
@@ -411,7 +411,7 @@
                                 <table class="table">
                                     <thead>   
                                         <tr>
-                                            <th colspan='2'><?php echo gettext('Reksa Dana Saham'); ?></th>
+                                            <th colspan='2'><?php echo dgettext('navigation', 'Reksa Dana Saham'); ?></th>
                                         </tr>
                                         <tr>
                                             <th> <a href="produk-simas-syariah-unggulan">Simas Syariah Unggulan </a></th>
