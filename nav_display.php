@@ -28,6 +28,19 @@
                 </a>
 
             </div>
+
+            <div class="col-md-8">
+                <div class="topbar-nav">
+                    <ul class="nav navbar-nav">
+                        <li><a href="">Produk</a></li>
+                        <li><a href="">Riset</a></li>
+                        <li><a href="">Unduh</a></li>
+                        <li><a href="">Edukasi</a></li>
+                        <li><a href="">FAQ</a></li>
+                        <li><a href="?lang=<?php echo dgettext('navigation', 'en_US'); ?>"><?php echo dgettext('navigation', 'English'); ?></a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
 </div>

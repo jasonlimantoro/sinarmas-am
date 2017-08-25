@@ -4,7 +4,7 @@
             padding-left: 0px;
         }
     }
-    //first collumn
+    //first collumn (hidden for desktop)
     .hamburger-container {
         @include media-query(tablet-retina){
             display: none !important;
@@ -29,6 +29,12 @@
             @include media-query(iphone6, portrait) {
                 padding-top: 10px;
             }
+        }
+    }
+
+    .topbar-nav {
+        @include media-query(iphone6, both) {
+            display: none;
         }
     }
 }
