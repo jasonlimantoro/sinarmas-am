@@ -1,5 +1,8 @@
 <footer class="footer">
     <div class="container">
+        <div class="row" id="bottombar-nav">
+            
+        </div>
         <div class="row" id="footer_row">
             <div class="col-md-2 col-md-offset-2 col-xs-4">
                 <a class="inline" href="http://www.sinarmassekuritas.co.id/" target="_blank">
