@@ -8,9 +8,6 @@
         <?php include "nav_structure.php"; ?>
 
         <?php 
-            // putenv("LANG=$lang");
-            // setlocale(LC_ALL, $lang);
-
             $domain = array (
                 'product_general',
                 'navigation',
@@ -70,8 +67,7 @@
                                 <input name="product_name" type="hidden" value="Danamas Rupiah Plus">
 
                             </form>
-                            <br>
-                            <br>
+
                             <h5><?php echo gettext('KEBIJAKAN INVESTASI'); ?></h5>
                             <p><?php echo dgettext('DRP', 'Portofolio Danamas Rupiah Plus akan dikelola secara aktif guna mendapatkan pendapatan yang optimal dengan diversifikasi portofolio melalui investasi 100% (seratus persen) pada instrumen pasar uang dan/atau efek hutang yang mempunyai jatuh tempo kurang dari 1 (satu) tahun yang diterbitkan sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia, termasuk Obligasi Pemerintah Republik Indonesia, Obligasi Pemerintah Daerah ("Municipal Bonds"), serta Efek bersifat utang lainnya termasuk Sertifikat Bank Indonesia (SBI) dan instrumen pasar uang lainnya sesuai dengan peraturan perundang-undangan yang berlaku. Semua investasi portofolio efek tersebut di atas dapat dalam denominasi Rupiah maupun mata uang asing. Khusus untuk Obligasi Pemerintah Republik Indonesia, komposisi investasinya dapat mencapai 100% (seratus persen) dengan tetap memperhatikan peraturan perundang-undangan yang berlaku.'); ?></p>
                             <table width="100%" border="0" cellpadding="0" cellspacing="0">
