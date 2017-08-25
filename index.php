@@ -16,6 +16,7 @@
     textdomain($domain[0]); // default domain
 
 ?>
+<!-- code cleannn!!! -->
 <!DOCTYPE html>
 <html lang='id'>
     <head>
