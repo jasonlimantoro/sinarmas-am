@@ -6,12 +6,12 @@
     }
     //first collumn
     .hamburger-container {
+        @include media-query(tablet-retina){
+            display: none !important;
+
+        }
         padding-left: 0px;
         a {
-            @include media-query(tablet-retina){
-                display: none !important;
-    
-            }
             // border-right:2px solid lightgrey;
             span {
                 color:#ce000c;
@@ -20,7 +20,7 @@
     }
     // second collumn
     .logo-brand {
-        float: right;
+        // float: right;
 
         img {
             width: 170px;
