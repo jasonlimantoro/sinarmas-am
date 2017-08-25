@@ -6,15 +6,15 @@
     }
     //first collumn (hidden for desktop)
     .hamburger-container {
+        padding-left: 0px;
         @include media-query(tablet-retina){
             display: none !important;
 
         }
-        padding-left: 0px;
         a {
             // border-right:2px solid lightgrey;
             span {
-                color:#ce000c;
+                color:$red-heading;
             }
         }
     }
@@ -33,8 +33,12 @@
     }
 
     .topbar-nav {
-        @include media-query(iphone6, both) {
-            display: none;
+        display: none;
+        @include media-query(tablet-retina) {
+            display: initial;
+        }
+        li a {
+            color: $red-heading;
         }
     }
 }
