@@ -107,8 +107,12 @@
                                 <li><a href="download-prospectus"><?php echo dgettext('navigation', 'Prospektus') ?> </a></li>
                             </ul>
                         </li>
-                        <li><a href=""><?php echo dgettext('navigation', 'Edukasi'); ?></a></li>
-                        <li><a href="">FAQ</a></li>
+                        <li><a href="#">Glossary<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="education"><?php echo dgettext('navigation', 'Edukasi'); ?></a></li>
+                                <li><a href="faq">FAQ</a></li>
+                            </ul>
+                        </li>
                         <li><a href="?lang=<?php echo dgettext('navigation', 'en_US'); ?>"><?php echo dgettext('navigation', 'English'); ?></a></li>
                     </ul>
                 </div>
