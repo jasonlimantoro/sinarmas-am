@@ -1,7 +1,4 @@
 <?php 
-    
-    
-
     $domain = array (
         'product_general',
     );

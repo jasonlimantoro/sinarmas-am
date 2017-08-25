@@ -8,9 +8,6 @@
         <?php include "nav_structure.php"; ?>
 
         <?php 
-            
-            
-
             $domain = array (
                 'product_general',
                 'navigation',
