@@ -98,10 +98,10 @@
             <li><a href="contact-us"><?php echo gettext('Hubungi Kami'); ?></a></li>
             <li><a href="#"> Simas Fund Reksa Dana Online </a>
                 <ul>
-                    <li><a href="">Masuk</a></li>
-                    <li><a href="">Registrasi</a></li>
-                    <li><a href="">Aktivasi</a></li>
-                    <li><a href="">Lupa Kata Sandi</a></li>
+                    <li><a href=""><?php echo gettext('Masuk'); ?></a></li>
+                    <li><a href=""><?php echo gettext('Registrasi'); ?></a></li>
+                    <li><a href=""><?php echo gettext('Aktivasi'); ?></a></li>
+                    <li><a href=""><?php echo gettext('Lupa Kata Sandi'); ?></a></li>
                 </ul>
 
             </li>
