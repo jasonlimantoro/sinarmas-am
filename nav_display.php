@@ -92,7 +92,15 @@
                                 </li>
                             </ul>
                         </li>
-                        <li><a href="">Riset</a></li>
+                        <li><a href="research"><?php echo dgettext('navigation', 'Riset'); ?></a></li>
+                        <li><a href="#"><?php echo dgettext('navigation', 'Simas Kalkulator') ?><span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="calculator-future-investment"><?php echo dgettext('navigation', 'Investasi Masa Depan') ?></a></li>
+                                <li><a href="calculator-actual-investment"><?php echo dgettext('navigation', 'Investasi Aktual') ?></a></li>
+                                <li><a href="calculator-routine-investment"><?php echo dgettext('navigation', 'Investasi Rutin') ?></a></li>
+                                <li><a href="calculator-periodic-investment"><?php echo dgettext('navigation', 'Investasi Berkala (SIP)') ?></a></li>
+                            </ul>
+                        </li>
                         <li><a href="#"><?php echo dgettext('navigation', 'Unduh') ?><span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="download-form"><?php echo dgettext('navigation', 'Formulir') ?></a></li>
