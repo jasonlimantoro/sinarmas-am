@@ -46,14 +46,14 @@
 
                             <div class="item">
                                 <div class="carousel-caption">
-                                <h3 style="color:white;" class="news-title-1"></h3>
+                                <h3 class="news-title-1"></h3>
                                 <p class="news-date-1"></p>
                                 </div>
                             </div>
 
                             <div class="item">
                                 <div class="carousel-caption">
-                                    <h3 style="color:white;" class="news-title-2"></h3>
+                                    <h3 class="news-title-2"></h3>
                                     <p class="news-date-2"></p>
                                 </div>
                             </div>
