@@ -1,4 +1,7 @@
-.download-form {
+.download-form, .download-prospectus {
+    .list-group-item-heading {
+        font-weight: bold;
+    }
     .list-group a {
         color: $red-heading;
         &:hover{
