@@ -1,0 +1,16 @@
+.download-form {
+    .list-group a {
+        color: $red-heading;
+        &:hover{
+            color: black;
+        }
+    }
+    span.glyphicon.glyphicon-save-file {
+        color: $red-heading;
+        font-size: 24px;
+    }
+    i.fa {
+        font-size:24px;
+        color:$red-heading;
+    }
+}
