@@ -16,14 +16,14 @@
 
             <div class="col-md-2 col-xs-5">
                 <div class="logo-brand">
-                    <a href="/sinarmas-am.co.id/">
+                    <a href="./">
                         <img class="sinarmas_logo img-responsive" src="gallery/logo-am.png" alt="Brand"> 
                     </a>
                 </div>
             </div>
 
             <div class="col-md-2 col-xs-5">
-                <a href="/sinarmas-am.co.id/">
+                <a href="./">
                     <img class="reksadana_logo img-responsive" src="gallery/reksadana_logo.png" alt="Brand">
                 </a>
 
