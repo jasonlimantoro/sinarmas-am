@@ -34,7 +34,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/danamas_rupiah_plus.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_danamas_rupiah_plus.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-danamas-rupiah-plus" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -44,7 +44,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/danamas_stabil.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_danamas_stabil.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-danamas-stabil" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -54,7 +54,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/simas_danamas_mantap_plus.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_danamas_mantap_plus.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-danamas-mantap-plus" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -64,7 +64,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/danamas_dollar.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_danamas_dollar.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-danamas-dollar" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -74,7 +74,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/simas_danamas_instrumen_negara.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_danamas_instrumen_negara.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-danamas-instrumen-negara" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -84,7 +84,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/danamas_pasti.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_danamas_pasti.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-danamas-pasti" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -94,7 +94,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/simas_syariah_berkembang.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_syariah_berkembang.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-syariah-berkembang" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -104,7 +104,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/simas_satu.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_satu.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-satu" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -114,7 +114,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/danamas_fleksi.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_danamas_fleksi.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-danamas-fleksi" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -124,7 +124,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/simas_satu_prima.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_satu_prima.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-satu-prima" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -134,7 +134,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/simas_syariah_unggulan.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_syariah_unggulan.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-syariah-unggulan" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -144,7 +144,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/simas_danamas_saham.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_danamas_saham.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-danamas-saham" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -154,7 +154,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/simas_saham_unggulan.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_saham_unggulan.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-saham-unggulan" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -164,7 +164,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/simas_saham_bertumbuh.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_saham_bertumbuh.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-saham-bertumbuh" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
     
@@ -174,7 +174,7 @@
                                             <i class="fa fa-file-pdf-o"></i>
                                             <a href="http://www.sinarmas-am.co.id/download/kinerja_produk/prospektus/Simas_Saham_Maksima.pdf" target="blank"><?php echo gettext('Prospektus'); ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;
                                             <i class="fa fa-line-chart"></i>
-                                            <a href="produk_simas_saham_maksima.php"><?php echo gettext('Kinerja'); ?> </a>
+                                            <a href="produk-simas-saham-maksima" target="blank"><?php echo gettext('Kinerja'); ?> </a>
                                         </p>
                                     </div>
                                 
