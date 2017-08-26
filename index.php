@@ -36,13 +36,10 @@
                         </ol>
 
                         <!-- Wrapper for slides -->
-                        <div class="carousel-inner" style="
-                            padding-left: 15%;
-                            padding-right: 15%;
-                        ">
+                        <div class="carousel-inner">
                             <div class="item active">
                                 <div class="carousel-caption">
-                                    <h3 style="color:white;" class="news-title-0"></h3>
+                                    <h3 class="news-title-0"></h3>
                                     <p class="news-date-0"></p>
                                 </div>
                             </div>
@@ -83,8 +80,8 @@
                 </div>
 
 
-                <div class="section2" style='padding-top: 100px; padding-bottom: 100px;background-color: #ebebeb;'>
-                    <h1 align='center' style='color:black; font-size:48px; position:relative; bottom:50px;'><?php echo gettext('Fitur-Fitur'); ?></h1>
+                <div class="section2">
+                    <h1><?php echo gettext('Fitur-Fitur'); ?></h1>
                     <div id="secondary-carousel" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">

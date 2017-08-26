@@ -3,35 +3,41 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
      word-wrap: break-word; 
 }
 
+// section 1
 .section1 {
     padding-top: 200px;
     padding-bottom: 200px;
-    background-color: #ce000c; 
+    background-color: $red-heading;
     background-image: url('../../gallery/main-carousel.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-}
 
-// For laptops --> like parallax
-@include media-query (tablet-retina) {
-    .section1 {
-        background-attachment: fixed;
+    // For laptops --> like parallax
+    @include media-query (tablet-retina) {
+            background-attachment: fixed;
+    }
+    .carousel-inner {
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+    h3, p {
+        color: white;
     }
 }
 
-// for the all carousels 
-.carousel-indicators {
-    bottom: -50px !important;
-}
 
-.carousel-control {
-    &.left, &.right {
-        background-image: none !important;
-    }
-    
-}
 // section 2
 .section2 {
+    padding-top: 100px; 
+    padding-bottom: 100px;
+    background-color: $grey-default;
+    h1 {
+        color:black;
+        font-size:48px; 
+        position:relative; 
+        bottom:50px;
+        text-align: center;
+    }
     .carousel-indicators{
         li {
             border-color: #c1c0c0;
@@ -39,9 +45,9 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
             &.active {
                 background-color: black;
             }
-
+            
         }
-
+        
     }
 }
 
@@ -54,15 +60,15 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
         padding-bottom:30px; 
         background-color:#232323;
         height:auto;
-
+        
         .row {
             padding-top:20px; 
             padding-bottom:20px;
-
+            
             h1, span {
                 color: white;
             }
-
+            
             span {
                 font-style: italic;
             }
@@ -88,22 +94,22 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
                     }
                 }
             }
-
+            
             tbody {
                 tr {
                     &:first-child {
                         color:white; 
                         background-color:#555555;
                     }
-
+                    
                     &:nth-of-type(even){
                         color:$tosca-default;
                     }
-
+                    
                     td {
                         padding: 0px;
                     }
-
+                    
                 }
             }
             th {
@@ -115,11 +121,11 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
                     }
                 }
             }
-
+            
             td {
                 border: 0 !important;
             }
-
+            
         }
         .interest-title {
             padding-top:20px; 
@@ -132,7 +138,7 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
                     color:white
                 }
             }
-
+            
             tbody {
                 tr {
                     &:nth-of-type(even){
@@ -144,8 +150,20 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
                         background-color: transparent;
                     }
                 }
-
+                
             }
         }
     }
+}
+
+// for the all carousels 
+.carousel-indicators {
+    bottom: -50px !important;
+}
+
+.carousel-control {
+    &.left, &.right {
+        background-image: none !important;
+    }
+    
 }
