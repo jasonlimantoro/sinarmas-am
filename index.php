@@ -418,7 +418,7 @@
 
                                     <tbody>
                                         <tr>
-                                            <td>NAB</td>
+                                            <td><?php echo gettext('NAB'); ?></td>
                                             <td>Return YTD</td>
                                         </tr>
 
