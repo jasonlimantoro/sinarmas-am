@@ -36,12 +36,17 @@
         @include media-query(tablet-retina) {
             display: initial;
         }
-        ul:first-child>li>a {
+        ul:first-child>li>a, {
             color: #232323;
             font-weight: bold;
             &:hover{
                 color: $red-heading !important;
             }
+        }
+        .dropdown-header {
+            color: #232323;
+            font-weight: bold;
+            padding-top: 15px;
         }
     }
 
