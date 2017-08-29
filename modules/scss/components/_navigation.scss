@@ -40,7 +40,8 @@
             display: initial;
         }
         li a {
-            color: $grey-dark-default;
+            color: #232323;
+            font-weight: bold;
             &:hover{
                 color: $red-heading !important;
             }
