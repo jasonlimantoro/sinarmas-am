@@ -17,7 +17,7 @@
             <div class="col-md-2 col-xs-5">
                 <div class="logo-brand">
                     <a href="./">
-                        <img class="sinarmas_logo img-responsive" src="gallery/logo-am.png" alt="Brand"> 
+                        <img class="sinarmas_logo img-responsive" src="gallery/main_logo.svg" alt="Brand"> 
                     </a>
                 </div>
             </div>
