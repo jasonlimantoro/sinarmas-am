@@ -22,14 +22,7 @@
                 </div>
             </div>
 
-            <div class="col-md-2 col-xs-5">
-                <a href="./">
-                    <img class="reksadana_logo img-responsive" src="gallery/reksadana_logo.png" alt="Brand">
-                </a>
-
-            </div>
-
-            <div class="col-md-8">
+            <div class="col-md-offset-1 col-md-7">
                 <div class="topbar-nav">
                     <ul class="nav navbar-nav">
                         <li><a href="#"><?php echo dgettext('navigation', 'Produk') ?><span class="caret"></span></a>
@@ -117,6 +110,17 @@
                     </ul>
                 </div>
             </div>
+
+            <div class="col-md-2 col-xs-5">
+                <div class="reksadana_logo">
+                    <a href="./">
+                        <img class="reksadana_logo img-responsive" src="gallery/reksadana_logo.png" alt="Brand">
+                    </a>
+                </div>
+
+            </div>
+
+            
         </div>
     </div>
 </div>
