@@ -62,8 +62,8 @@
                                 <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Terproteksi') ?><span class="caret"></span></a>
                                     <ul class="dropdown-menu">
                                         
-                                        <li class="divider"></li>
                                         <li class="dropdown-header">Simas Terproteksi</li>
+                                        <li class="divider"></li>
                                         
                                         <li><a href="produk-simas-terproteksi-5">Simas Terproteksi 5</a></li>
                                         <li><a href="produk-simas-terproteksi-6">Simas Terproteksi 6</a></li>
@@ -72,8 +72,8 @@
                                         <li><a href="produk-simas-terproteksi-9">Simas Terproteksi 9</a></li>
                                         <li><a href="produk-simas-terproteksi-10">Simas Terproteksi 10</a></li>
                                         
-                                        <li class="divider"></li>
                                         <li class="dropdown-header">Simas Gemilang</li>
+                                        <li class="divider"></li>
 
                                         <li><a href="produk-simas-gemilang-2">Simas Gemilang 2</a></li>
                                         <li><a href="produk-simas-gemilang-3">Simas Gemilang 3</a></li>
