@@ -81,113 +81,121 @@
 
 
                 <div class="section2">
-                    <h1><?php echo gettext('Fitur-Fitur'); ?></h1>
-                    <div id="secondary-carousel" class="carousel slide" data-ride="carousel">
-                        <!-- Indicators -->
-                        <ol class="carousel-indicators">
-                            <li data-target="#secondary-carousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#secondary-carousel" data-slide-to="1"></li>
-                            <li data-target="#secondary-carousel" data-slide-to="2"></li>
-                            <li data-target="#secondary-carousel" data-slide-to="3"></li>
-                            <li data-target="#secondary-carousel" data-slide-to="4"></li>
-                            <li data-target="#secondary-carousel" data-slide-to="5"></li>
-                            <li data-target="#secondary-carousel" data-slide-to="6"></li>
-                            <li data-target="#secondary-carousel" data-slide-to="7"></li>
-                            <li data-target="#secondary-carousel" data-slide-to="8"></li>
-                            <li data-target="#secondary-carousel" data-slide-to="9"></li>
-                        </ol>
-                        
-                        <!-- Wrapper for slides -->
-                        <div class="carousel-inner">
-                            <div class="item active">
-                                <a href="award">
-                                    <img class="img-responsive center-block" src="gallery/banner1.jpg" >
-                                </a>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1><?php echo gettext('Fitur-Fitur'); ?></h1>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div id="secondary-carousel" class="carousel slide" data-ride="carousel">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+                                    <li data-target="#secondary-carousel" data-slide-to="0" class="active"></li>
+                                    <li data-target="#secondary-carousel" data-slide-to="1"></li>
+                                    <li data-target="#secondary-carousel" data-slide-to="2"></li>
+                                    <li data-target="#secondary-carousel" data-slide-to="3"></li>
+                                    <li data-target="#secondary-carousel" data-slide-to="4"></li>
+                                    <li data-target="#secondary-carousel" data-slide-to="5"></li>
+                                    <li data-target="#secondary-carousel" data-slide-to="6"></li>
+                                    <li data-target="#secondary-carousel" data-slide-to="7"></li>
+                                    <li data-target="#secondary-carousel" data-slide-to="8"></li>
+                                    <li data-target="#secondary-carousel" data-slide-to="9"></li>
+                                </ol>
                                 
-                            </div>
+                                <!-- Wrapper for slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <a href="award">
+                                            <img class="img-responsive center-block" src="gallery/banner1.jpg" >
+                                        </a>
+                                        
+                                    </div>
 
-                            <div class="item">
-                                <a href="award">
-                                
-                                    <img class="img-responsive center-block" src="gallery/banner2.jpg" >
-                                </a>
-                                
-                            </div>
+                                    <div class="item">
+                                        <a href="award">
+                                        
+                                            <img class="img-responsive center-block" src="gallery/banner2.jpg" >
+                                        </a>
+                                        
+                                    </div>
 
-                            <div class="item">
-                                <a href="award">
-                                    <img class="img-responsive center-block" src="gallery/banner3.jpg" >
-                                
-                                </a>
-                                
-                            </div>
+                                    <div class="item">
+                                        <a href="award">
+                                            <img class="img-responsive center-block" src="gallery/banner3.jpg" >
+                                        
+                                        </a>
+                                        
+                                    </div>
 
-                            <div class="item">
-                                <a href="http://www.sinarmas-am.co.id/download/Tanya Jawab FAQ Tax Amnesty.pdf">
-                                    <img class="img-responsive center-block" src="gallery/banner4.jpg" >
-                                
-                                </a>
-                                
-                            </div>
+                                    <div class="item">
+                                        <a href="http://www.sinarmas-am.co.id/download/Tanya Jawab FAQ Tax Amnesty.pdf">
+                                            <img class="img-responsive center-block" src="gallery/banner4.jpg" >
+                                        
+                                        </a>
+                                        
+                                    </div>
 
-                            <div class="item">
-                                <a href="#">
-                                    <img class="img-responsive center-block" src="gallery/banner5.jpg" >
-                                
-                                </a>
-                                
-                            </div>
+                                    <div class="item">
+                                        <a href="#">
+                                            <img class="img-responsive center-block" src="gallery/banner5.jpg" >
+                                        
+                                        </a>
+                                        
+                                    </div>
 
-                            <div class="item">
-                                <a href="award">
-                                
-                                    <img class="img-responsive center-block" src="gallery/banner6.jpg" >
-                                </a>
-                                
-                            </div>
+                                    <div class="item">
+                                        <a href="award">
+                                        
+                                            <img class="img-responsive center-block" src="gallery/banner6.jpg" >
+                                        </a>
+                                        
+                                    </div>
 
-                            <div class="item">
-                                <a href="http://www.sinarmas-am.co.id/download/FAQ Relaunced SIP.pdf">
-                                
-                                    <img class="img-responsive center-block" src="gallery/banner7.jpg">
-                                </a>
-                                
-                            </div>
+                                    <div class="item">
+                                        <a href="http://www.sinarmas-am.co.id/download/FAQ Relaunced SIP.pdf">
+                                        
+                                            <img class="img-responsive center-block" src="gallery/banner7.jpg">
+                                        </a>
+                                        
+                                    </div>
 
-                            <div class="item">
-                                <a href="#">
-                                
-                                    <img class="img-responsive center-block" src="gallery/banner8.jpg" >
-                                </a>
-                                
-                            </div>
+                                    <div class="item">
+                                        <a href="#">
+                                        
+                                            <img class="img-responsive center-block" src="gallery/banner8.jpg" >
+                                        </a>
+                                        
+                                    </div>
 
-                            <div class="item">
-                                <a href="#">
-                                
-                                    <img class="img-responsive center-block" src="gallery/banner9.jpg" width="720" height="315">
-                                </a>
-                                
-                            </div>
+                                    <div class="item">
+                                        <a href="#">
+                                        
+                                            <img class="img-responsive center-block" src="gallery/banner9.jpg" width="720" height="315">
+                                        </a>
+                                        
+                                    </div>
 
-                            <div class="item">
+                                    <div class="item">
 
-                                <a href="http://www.sinarmas-am.co.id/download/Pay_QR.pdf">
-                                
-                                    <img class="img-responsive center-block" src="gallery/banner10.jpg">
+                                        <a href="http://www.sinarmas-am.co.id/download/Pay_QR.pdf">
+                                        
+                                            <img class="img-responsive center-block" src="gallery/banner10.jpg">
+                                        </a>
+                                        
+                                    </div>
+                                </div>
+                                <!-- Left and right controls -->
+                                <a class="left carousel-control" href="#secondary-carousel" data-slide="prev">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                    <span class="sr-only">Previous</span>
                                 </a>
-                                
+                                <a class="right carousel-control" href="#secondary-carousel" data-slide="next">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                    <span class="sr-only">Next</span>
+                                </a>
                             </div>
                         </div>
-                        <!-- Left and right controls -->
-                        <a class="left carousel-control" href="#secondary-carousel" data-slide="prev">
-                            <span class="glyphicon glyphicon-chevron-left"></span>
-                            <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="right carousel-control" href="#secondary-carousel" data-slide="next">
-                            <span class="glyphicon glyphicon-chevron-right"></span>
-                            <span class="sr-only">Next</span>
-                        </a>
                     </div>
 
                 </div>
