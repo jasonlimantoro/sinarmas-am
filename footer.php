@@ -5,20 +5,20 @@
         </div>
         <div class="row" id="footer_row">
             <div class="col-md-2 col-md-offset-2 col-xs-4">
-                <a class="inline" href="http://www.sinarmassekuritas.co.id/" target="_blank">
-                    <img class="img-responsive" src="gallery/smlogo.png" width="157" height="39" style="border:none">
+                <a href="http://www.sinarmassekuritas.co.id/" target="_blank">
+                    <img class="img-responsive" src="gallery/sekuritas_logo.svg">
                 </a>
             </div>
 
             <div class="col-md-2 col-md-offset-1 col-xs-4">
-                <a class="inline" href="http://www.sinarmassekuritas.co.id/simas.net" target="_blank">
-                    <img class="img-responsive" src="gallery/snlogo.png" width="136" height="39" style="border:none">
+                <a href="http://www.sinarmassekuritas.co.id/simas.net" target="_blank">
+                    <img class="img-responsive" src="gallery/simas_net.svg">
                 </a>
             </div>
 
             <div class="col-md-2 col-md-offset-1 col-xs-4">
-                <a class="inline" href="http://www.sinarmasfutures.co.id" target="_blank">
-                    <img class="img-responsive" src="gallery/Logo_sinarmas_futures.png" width="157" height="39" style="border:none">
+                <a href="http://www.sinarmasfutures.co.id" target="_blank">
+                    <img class="img-responsive" src="gallery/sinarmas_futures.svg">
                 </a>
             </div>
 
