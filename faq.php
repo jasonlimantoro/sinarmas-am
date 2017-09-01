@@ -27,7 +27,9 @@
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10 col-xs-12">
                             <h1> FAQ Aset Management </h1>
-                            <a class="toggle-panel" href="#">Open all</a>
+                            <a href="#" class="btn btn-default open-all">Open all</a>
+                            <a href="#" class="btn btn-default close-all">Close all</a>
+                            <hr>
                             
                             <div class="panel-group" id="accordion_faq">
                             
@@ -448,15 +450,12 @@
 
     <?php include "jsload.php"; ?>
     <script>
-        $(".toggle-panel").on('click', function () {
-            if ($(this).html() == 'Open all') {
-                $('#accordion_faq .collapse').collapse('show');
-                $(this).html('Close all');
-            }
-            else {
-                $('#accordion_faq .collapse').collapse('hide');
-                $(this).html('Open all');
-            }
+        $('.close-all').click(function(){
+            $('.panel-collapse.in').collapse('hide');
+        });
+
+        $('.open-all').click(function(){
+            $('.panel-collapse:not(".in")').collapse('show');
         });
     </script>
     </body>
