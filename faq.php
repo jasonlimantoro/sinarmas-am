@@ -39,7 +39,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq1" class="panel-collapse collapse out">
+                                    <div id="faq1" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Reksa Dana adalah wadah untuk menghimpun dana dari masyarakat pemodal yang selanjutnya diinvestasikan kembali ke dalam portofolio efek oleh Manajer Investasi.'); ?></p>
                                         </div>
@@ -55,7 +55,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq2" class="panel-collapse collapse out">
+                                    <div id="faq2" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ul>
                                                 <li><?php echo gettext('Mengisi formulir pembukaan rekening (untuk nasabah baru)'); ?></li>
@@ -79,7 +79,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq3" class="panel-collapse collapse out">
+                                    <div id="faq3" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ul>
                                                 <li><?php echo gettext('Mengisi dan menandatangani formulir penjualan unit penyertaan Reksa Dana'); ?></li>
@@ -98,7 +98,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq4" class="panel-collapse collapse out">
+                                    <div id="faq4" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ul>
                                                 <li><?php echo dgettext('navigation', 'Reksa Dana Pasar Uang'); ?> 
@@ -142,7 +142,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq5" class="panel-collapse collapse out">
+                                    <div id="faq5" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ul>
                                                 <li><?php echo gettext('Untuk dana < Rp. 100.000.000,- T+2, jika formulir penjualan diterima sebelum jam 12.00 WIB.'); ?></li>
@@ -159,7 +159,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq6" class="panel-collapse collapse out">
+                                    <div id="faq6" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Nasabah harus melakukan perubahan rekening terlebih dahulu dengan mengisi formulir perubahan rekening kemudian menyerahkan formulir asli yang telah di isi dan di tanda tangani diatas materai, copy buku tabungan terbaru, beserta fotocopy identitas nasabah terbaru.<br><strong><em>*Penjualan unit Reksa Dana baru akan diproses setelah proses perubahan rekening selesai.</em></strong>'); ?></p>
                                         </div>
@@ -173,7 +173,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq7" class="panel-collapse collapse out">
+                                    <div id="faq7" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Pembukaan rekening Reksa Dana sudah tidak bisa menggunakan nama gabungan "AND" dan "OR" tetapi masih bisa menggunakan SA (<em>Sub Account</em>). Sebagai persyaratannya nasabah harus melampirkan fotocopy akte kelahiran anak (dengan catatan anak tersebut masih berusia &lt; 17 tahun).'); ?></p>
                                         </div>
@@ -187,7 +187,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq8" class="panel-collapse collapse out">
+                                    <div id="faq8" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Tidak dapat, setiap penjualan unit Reksa Dana hanya bisa ditransfer pada rekening yang telah terdaftar pada saat pembukaan rekening dan dengan atas nama pemilik Reksa Dana tersebut.'); ?></p>
                                         </div>
@@ -203,7 +203,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq9" class="panel-collapse collapse out">
+                                    <div id="faq9" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Rekening Reksa Dana tidak dapat dipindah namakan secara langsung. Sebagai solusi dana dapat dicairkan terlebih dahulu ke rekening nasabah yang bersangkutan, lalu ditransfer ke rekening Reksa Dana PT Sinarmas Asset Management kembali dengan berita nama penerima.'); ?></p>
                                         </div>
@@ -219,7 +219,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq10" class="panel-collapse collapse out">
+                                    <div id="faq10" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Hal ini dapat dilakukan dengan cara mengisi formulir penjualan Reksa Dana pada produk yang lama dengan mencantumkan nomor rekening pencairan ke nomor rekening produk baru, kemudian satu hari kerja setelah tanggal transaksi penjualan nasabah wajib menyerahkan formulir pembelian produk yang baru dengan menuliskan keterangan bahwa dana tersebut diperoleh dari hasil penjualan produk yang lama pada hari sebelumnya.'); ?></p>
                                         </div>
@@ -234,7 +234,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq11" class="panel-collapse collapse out">
+                                    <div id="faq11" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Tidak, karena pajak untuk Reksa Dana telah dipotong pada portofolio asset / perhitungan NAB. Hal ini sesuai dengan peraturan perpajakan No.16 tahun 2009, sehingga Nasabah Reksa Dana tidak dibebankan pajak lagi.'); ?></p>
                                         </div>
@@ -250,7 +250,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq12" class="panel-collapse collapse out">
+                                    <div id="faq12" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ul>
                                                 <li><?php echo gettext('Konfirmasi Pembelian Reksa Dana'); ?> </li>
@@ -269,7 +269,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq13" class="panel-collapse collapse out">
+                                    <div id="faq13" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Masih bisa di pergunakan, nasabah dapat menghubungi Customer Service : <strong>021-392 5550</strong> atau email : <a href="mailto:cs@sinarmas-am.co.id">cs@sinarmas-am.co.id</a> untuk mendapatkan keterangan lebih lanjut.'); ?></p>
                                         </div>
@@ -285,7 +285,7 @@
                                             
                                         </h3>
                                     </div>
-                                    <div id="faq14" class="panel-collapse collapse out">
+                                    <div id="faq14" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Pihak yang di tunjuk sebagai Bank Kustodian adalah Bank CIMB Niaga (untuk semua produk Reksa Dana Sinarmas Asset Management yang berdenominasi Rupiah) dan Bank International Indonesia (untuk produk Reksa Dana yang berdenominasi USD/Dollar).'); ?></p>
                                         </div>
@@ -301,7 +301,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq15" class="panel-collapse collapse out">
+                                    <div id="faq15" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Sebaiknya investor menentukan terlebih dahulu jenis Reksa Dana yang sesuai dengan karakteristik investor dan menyesuaikan jangka waktu Reksa Dana yang sesuai dengan profil keuangan investor serta menentukan tingkat risiko yang akan di terima dengan target tingkat yield yang akan di hasilkan dari Reksa Dana tersebut, apakah sesuai antara risiko dengan tingkat yield yang akan diperoleh. Setelah itu investor dapat memilih jenis Reksa Dana apa yang sesuai dengan karakteristik dan profil keuangan investor tersebut.'); ?></p>
                                             <p><?php echo gettext('Kelebihan berinvestasi pada <strong>Reksa Dana Pasar Uang</strong> dikarenakan kemudahan yang diberikan oleh reksa dana ini, dimana nasabah dapat melakukan pembelian dan penjualan Unit Penyertaan setiap saat. Sebagai contoh nasabah melakukan pembelian Unit Penyertaan pada hari ini, pada keesokan harinya nasabah sudah diperkenankan untuk melakukan penjualan atas Unit Penyertaan mereka.'); ?></p>
@@ -322,7 +322,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq16" class="panel-collapse collapse out">
+                                    <div id="faq16" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ol type="1">
                                                 <li><strong> <?php echo gettext('Biaya Pembelian'); ?></strong>
@@ -351,7 +351,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq17" class="panel-collapse collapse out">
+                                    <div id="faq17" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('adalah Laporan Bulanan yang menunjukkan jumlah Unit Penyertaan yang dimiliki oleh Pemegang Unit Penyertaan beserta NAB/unit dan berlaku sebagai bukti kepemilikan Reksa Dana. Laporan Bulanan Kepemilikan Unit Penyertaan akan dikirimkan oleh Bank Kustodian, nasabah juga akan menerima Fund Factsheet yang dilampirkan pada Laporan Bulanan Reksa Dana tersebut.'); ?></p>
                                         </div>
@@ -367,7 +367,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq18" class="panel-collapse collapse out">
+                                    <div id="faq18" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('adalah formulir asli yang dipakai oleh calon pembeli untuk membeli Unit Penyertaan yang diisi, di tanda tangani dan diajukan oleh calon pembeli kepada Manajer Investasi.'); ?></p>
                                         </div>
@@ -383,7 +383,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq19" class="panel-collapse collapse out">
+                                    <div id="faq19" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('adalah formulir yang berisi data mengenai penjualan Unit Penyertaan Reksa Dana oleh Pemegang Unit Penyertaan, sebagai persyaratan untuk menjual Unit Penyertaan Reksa Dana kepada Manajer Investasi.'); ?></p>
                                         </div>
@@ -398,7 +398,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq20" class="panel-collapse collapse out">
+                                    <div id="faq20" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Pembelian melalui bank yang telah menjadi agen penjual akan memperoleh perlakuan yang sama dengan membeli langsung pada kantor pusat maupun kantor cabang, baik biaya pembelian (subscription fee) dan biaya penjualan (redemption fee) maupun dalam hal akses informasi atas produk dan kinerja produk.'); ?></p>
                                         </div>
@@ -414,7 +414,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq21" class="panel-collapse collapse out">
+                                    <div id="faq21" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Penilaian didasarkan pada'); ?>:</p>
                                             <ol type="1">

@@ -38,7 +38,7 @@
                                         </h3>
                                         
                                     </div>
-                                    <div id="edu1" class="panel-collapse collapse out">
+                                    <div id="edu1" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Strategi alokasi aset adalah salah satu strategi dalam investasi untuk memperoleh imbal hasil (return) yang optimal dengan mempertimbangkan tingkat resiko yang akan di dapat. Metode alokasi asset berpedoman pada pembentukan "base policy mix" atau komposisi dasar portofolio. Base policy mix ini merupakan kombinasi berbagai asset secara proposional berdasarkan tingkat imbal hasil yang diharapkan (expected return). Contohnya, jika saham secara historis memberikan imbal hasil sebesar 20% per tahun sedangkan obligasi memberikan imbal hasil 10% per tahun, maka portofolio dengan komposisi 50% saham dan 50% obligasi dapat diharapkan memberikan imbal hasil (expected return) per tahun sebesar 50% x 20% + 50% x 10% = 15%.'); ?></p>
                                         </div>
@@ -53,7 +53,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="edu2" class="panel-collapse collapse out">
+                                    <div id="edu2" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('NAB (Nilai Aktiva Bersih) adalah nilai pasar yang wajar dari suatu Efek dan kekayaan lain dari Reksa Dana dikurangi seluruh kewajibannya. Metode penghitungan Nilai Aktiva Bersih Reksa Dana dihitung dan diumumkan pada setiap Hari Bursa.'); ?></p>
                                         </div>
@@ -68,7 +68,7 @@
                                         </h3>
                                     </div>
 
-                                    <div id="edu3" class="panel-collapse collapse out">
+                                    <div id="edu3" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Manajer Investasi adalah pihak yang kegiatan usahanya mengelola Portofolio Efek untuk para nasabah atau mengelola portofolio investasi kolektif untuk sekelompok nasabah, kecuali perusahaan asuransi, dana pensiun, dan bank yang melakukan sendiri kegiatan usahanya berdasarkan peraturan perundang-undangan yang berlaku.'); ?></p>
                                         </div>
@@ -84,7 +84,7 @@
                                         </h3>
                                     </div>
 
-                                    <div id="edu4" class="panel-collapse collapse out">
+                                    <div id="edu4" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Bank Kustodian adalah Pihak yang memberikan jasa penitipan kolektif dan harta lainnya yang berkaitan dengan Efek, seperti saham dan obligasi. Bank Kustodian juga melakukan peran administrasi seperti menagih hasil penjualan, menerima deviden, penyelesaian transaksi penjualan dan pembelian, serta menyajikan laporan atas seluruh aktifitas transaksi nasabahnya. Pihak yang dapat melaksanakan kegiatan usaha sebagai Kustodian adalah Perusahaan Efek, atau Bank Umum yang telah mendapat persetujuan dari Bapepam.'); ?></p>
                                         </div>
@@ -101,7 +101,7 @@
                                         </h3>
                                     </div>
 
-                                    <div id="edu5" class="panel-collapse collapse out">
+                                    <div id="edu5" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Pihak yang berkompeten (mempunyai izin WAPERD) yang ditunjuk oleh Manajer Investasi untuk memasarkan reksa dana kepada investor.'); ?></p>
                                         </div>
@@ -119,7 +119,7 @@
                                         </h3>
                                     </div>
 
-                                    <div id="edu6" class="panel-collapse collapse out">
+                                    <div id="edu6" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Adalah setiap pernyataan yang dicetak, yang digunakan untuk Penawaran Umum Reksa Dana dengan tujuan memberikan informasi kepada calon pemodal / pembeli Unit Penyertaan Reksa Dana, informasi berdasarkan peraturan BAPEPAM dan LK.'); ?></p>
                                         </div>
@@ -136,7 +136,7 @@
                                         </h3>
                                     </div>
 
-                                    <div id="edu7" class="panel-collapse collapse out">
+                                    <div id="edu7" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Unit Penyertaan adalah satuan ukuran yang menunjukkan bagian kepemilikan unit dalam portofolio investasi kolektif.'); ?></p>
                                         </div>
@@ -150,7 +150,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="edu8" class="panel-collapse collapse out">
+                                    <div id="edu8" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Reksa dana merupakan salah satu alternatif investasi bagi masyarakat pemodal, khususnya pemodal kecil dan pemodal yang tidak memiliki banyak waktu untuk memantau investasinya. Reksa Dana dirancang sebagai sarana untuk menghimpun dana dari masyarakat yang memiliki modal, mempunyai keinginan untuk melakukan investasi, namun hanya memiliki waktu dan pengetahuan yang terbatas seputar pasar modal. Selain itu Reksa dana diharapkan dapat meningkatkan peran pemodal lokal untuk berinvestasi di pasar modal Indonesia. Menurut Undang-undang Pasar Modal nomor 8 Tahun 1995 pasal 1, ayat (27) :<br>“<strong>Reksa dana</strong> adalah wadah yang dipergunakan untuk menghimpun dana dari masyarakat pemodal untuk selanjutnya diinvestasikan dalam portofolio Efek oleh Manajer Investasi”. Dengan demikian, dana yang ada dalam Reksa Dana merupakan dana bersama para pemodal, sedangkan Manajer Investasi adalah pihak yang dipercaya untuk mengelola dana tersebut. Pada reksa dana, Manajer Investasi mengelola dana-dana yang ditempatkannya pada surat berharga dan merealisasikan keuntungan ataupun kerugian dan menerima dividen atau bunga yang dibukukannya ke dalam "Nilai Aktiva Bersih" (NAB) reksa dana tersebut. Kekayaan reksa dana yang dikelola oleh manajer investasi tersebut wajib untuk disimpan pada Bank Kustodian yang tidak terafiliasi dengan Manajer Investasi, dimana Bank Kustodian inilah yang akan bertindak sebagai tempat penitipan kolektif dan administrasi.'); ?></p>
                                         </div>
@@ -166,7 +166,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="edu9" class="panel-collapse collapse out">
+                                    <div id="edu9" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p><?php echo gettext('Berdasarkan Undang-undang Pasar Modal Nomor 8 Tahun 1995 pasal 18, ayat (1), bentuk hukum Reksa dana di Indonesia ada dua, yakni Reksa dana berbentuk Perseroan Terbatas dan Reksa dana berbentuk Kontrak Investasi Kolektif (KIK).'); ?></p>
                                             <ol type="1">
@@ -194,7 +194,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="edu10" class="panel-collapse collapse out">
+                                    <div id="edu10" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <?php echo gettext('Berdasarkan karakteristiknya maka reksa dana dapat digolongkan sebagai berikut:'); ?>
                                             <ol type="1">
@@ -219,7 +219,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="edu11" class="panel-collapse collapse out">
+                                    <div id="edu11" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ol type="1">
                                                 <li> <?php echo dgettext('navigation', 'Reksa Dana Pendapatan Tetap'); ?>
@@ -255,7 +255,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="edu12" class="panel-collapse collapse out">
+                                    <div id="edu12" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ol type="1">
                                                 <li> <?php echo gettext('Dikelola oleh Manajer Investasi yang Profesional'); ?>
@@ -307,7 +307,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="edu13" class="panel-collapse collapse out">
+                                    <div id="edu13" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ol type="1">
                                                 <li> <?php echo gettext('Resiko Menurunnya NAB (Nilai Aktiva Bersih) Unit Penyertaan'); ?>
