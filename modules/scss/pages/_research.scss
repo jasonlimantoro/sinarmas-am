@@ -1,8 +1,8 @@
 div.embed-responsive {
-    @include media-query (iphone6, both) {
-        display: none;
+    display: none;
+
+    @include media-query(tablet-retina) {
+        display: block;
     }
-    @include media-query (ipad, both) {
-        display: none;
-    }
+    
 }
