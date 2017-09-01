@@ -4,7 +4,6 @@
         <?php include "header.php"; ?>
     </head>
     <body>
-        <script src="modules/js/assets/research.js"></script>
         <?php include "nav_structure.php"; ?>
 
         <?php 
