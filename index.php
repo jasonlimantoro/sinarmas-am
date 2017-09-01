@@ -24,6 +24,8 @@
             <?php include "nav_display.php"; ?>
 
             <div class="content">
+
+
                 <div class='section1'>
                     <div id="main-carousel" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
@@ -31,8 +33,6 @@
                             <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
                             <li data-target="#main-carousel" data-slide-to="1"></li>
                             <li data-target="#main-carousel" data-slide-to="2"></li>
-
-
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -199,6 +199,7 @@
                     </div>
 
                 </div>
+
 
                 <div class="section3">
                     <div class="container-fluid real-time" >
