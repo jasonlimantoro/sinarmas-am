@@ -27,7 +27,7 @@
             
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-xs-12" style="text-align:justify;">
+                        <div class="col-md-offset-1 col-md-10 col-xs-12" style="text-align:justify;">
                             <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Rutin'); ?></h2>
                             <?php echo gettext('<p>Simulasi ini dapat memberikan gambaran kepada Anda mengenai <strong>Hasil investasi</strong> yang akan diperoleh dari investasi secara rutin yang Anda lakukan.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi Bulanan dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 500,000.00 setiap bulannya pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 15 tahun yang akan datang ?</p>'); ?>
                             <form class="form-inline">

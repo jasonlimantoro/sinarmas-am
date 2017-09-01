@@ -23,7 +23,7 @@
             <div class="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-xs-12">
+                        <div class="col-md-offset-1 col-md-10 col-xs-12">
                             <h3><?php echo gettext('Dewan Komisaris'); ?></h3>
                             <p><strong style="color:#900">Doddy Susanto – <?php echo gettext('Komisaris Utama'); ?></strong><br>
                             <?php echo gettext('Doddy Susanto Lulusan Fakultas Ilmu Sosial Politik, Universitas Katolik Parahyangan, Bandung, tahun 1984. Memiliki pengalaman  bekerja pada BANKAP (1984 - 1986), Bank Internasional Indonesia (1986 - 1999) terakhir menjabat sebagai Consumer Banking Director. Kemudian sebagai Chief Operating Officer pada PT  Asuransi Jiwa Eka Life (1999 - 2000). Saat ini menduduki posisi sebagai Direktur Utama pada PT Sinar Mas Multifinance sejak tahun 2000 dan  saat ini beliau menjabat sebagai Komisaris Utama pada PT Sinarmas Asset Management sejak April 2012.'); ?></p>

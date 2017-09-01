@@ -27,7 +27,7 @@
             <div class="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-xs-12">
+                        <div class="col-md-offset-1 col-md-10 col-xs-12">
                             <h2><?php echo dgettext('navigation', 'Danamas Rupiah Plus'); ?></h2>
                     
                             <table width="100%">

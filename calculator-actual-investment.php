@@ -26,7 +26,7 @@
             <div class="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-xs-12" style="text-align:justify;">
+                        <div class="col-md-offset-1 col-md-10 col-xs-12" style="text-align:justify;">
                             <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Aktual'); ?></h2>
                             <h4 style="color:#900;"><strong><?php echo gettext('Dapat Menghitung Nilai Investasi yang diperlukan untuk pencapaian suatu Target Investasi'); ?></strong></h4>
 

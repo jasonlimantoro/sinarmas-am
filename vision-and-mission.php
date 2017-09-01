@@ -22,7 +22,7 @@
             <div class="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-xs-12">
+                        <div class="col-md-offset-1 col-md-10 col-xs-12">
                             <h1><?php echo gettext('Visi dan Misi'); ?></h1>
                             <h3><?php echo gettext('Visi'); ?></h3>
                             <p><?php echo gettext('PT Sinarmas Asset Management selalu berinovasi dan mengembangkan produk – produk investasi yang ada guna memberikan hasil yang optimal kepada nasabah, serta dapat disesuaikan dengan kebutuhan nasabah dan calon nasabah baik nasabah individu maupun nasabah korporasi, lembaga keuangan, asuransi dan dana pensiun.'); ?></p>

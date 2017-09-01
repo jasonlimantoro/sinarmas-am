@@ -22,7 +22,7 @@
         ?>
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-xs-12">
+                <div class="col-md-offset-1 col-md-10 col-xs-12">
                     <h1> Kelola </h1>
                     <h3> <?php echo gettext('Apa itu Kelola?'); ?> </h3>
                     <p><?php echo gettext('Kelola adalah Aplikasi digital untuk berinvestasi reksa dana tanpa perantara, dimana saja dan kapan saja. Melalui aplikasi ini, kami bercita - cita untuk memajukan literasi keuangan Indonesia sehingga setiap orang memiliki kesempatan untuk meningkatkan standar hidup melalui investasi yang mudah.'); ?></p>

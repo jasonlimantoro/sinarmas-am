@@ -26,7 +26,7 @@
             <div class="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-xs-12">
+                        <div class="col-md-offset-1 col-md-10 col-xs-12">
 
                             <h1> <?php echo gettext('Penghargaan'); ?> </h1>
                             <h3> <?php echo gettext('Tahun'); ?> </h3>

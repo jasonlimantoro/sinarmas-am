@@ -24,7 +24,7 @@
             <div class="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-xs-12">
+                        <div class="col-md-offset-1 col-md-10 col-xs-12">
                             <h2><?php echo gettext('Tentang Kami'); ?></h2>
                             <p><?php echo gettext('PT Sinarmas Asset Management merupakan anak perusahaan dari PT Sinarmas Sekuritas, sebagai salah satu perusahaan sekuritas terkemuka dan berpengalaman di bidang pasar modal Indonesia lebih dari 23 tahun. PT Sinarmas Asset Management berdiri sejak tanggal 9 April 2012 dengan izin Bapepam-LK No. KEP-03/BL/MI/2012 dimana PT Sinarmas Asset Management fokus pada pengelolaan aset yang profesional dan pruden serta memberikan pelayanan yang terbaik kepada nasabahnya.'); ?></p>
                             <p><?php echo gettext('PT Sinarmas Asset Management menyediakan berbagai layanan produk investasi  seperti Reksa Dana Saham, Campuran, Pendapatan Tetap dan Pasar Uang  dan juga produk Discretionary Fund Eksklusif.'); ?></p>

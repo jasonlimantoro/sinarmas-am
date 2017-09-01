@@ -10,7 +10,7 @@
         ?>
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-xs-12">
+                <div class="col-md-offset-1 col-md-10 col-xs-12">
                     <h1> Simas Investment Plan </h1>
                     <h3> Apa itu Perencanaan Keuangan? </h3>
                     <p>Perencanaan Keuangan adalah suatu proses mencapai tujuan hidup melalui mengelola keuangan secara terintegrasi dan terencana. Perencanaan Keuangan harus memiliki tujuan dan jangka waktu yang spesifik.</p>

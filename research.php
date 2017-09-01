@@ -25,7 +25,7 @@
                 <?php include "nav_display.php"; ?> 
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-xs-12">
+                        <div class="col-md-offset-1 col-md-10 col-xs-12">
                             <h1> <?php echo gettext('Riset'); ?> </h1>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
