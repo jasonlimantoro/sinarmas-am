@@ -303,7 +303,7 @@
                                     <div class="panel-heading">
                                         <h3 class="panel-title">
                                             <a data-toggle="collapse" data-parent="#accordion_edu" href="#edu13">
-                                                <?php echo gettext('Resiko Reksa Dana'); ?>
+                                                <?php echo gettext('Resiko Investasi Reksa Dana'); ?>
                                             </a>
                                         </h3>
                                     </div>

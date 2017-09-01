@@ -266,6 +266,7 @@
                                         <h3 class="panel-title">
                                             <a data-toggle="collapse" data-parent="#accordion_faq" href="#faq13">
                                                 <?php echo gettext('Jika sebelumnya sudah pernah membeli Reksa Dana di tahun 2004, tapi sudah lama tidak aktif, apakah rekening Reksa Dana masih bisa digunakan?'); ?>
+                                            </a>
                                         </h3>
                                     </div>
                                     <div id="faq13" class="panel-collapse collapse out">
@@ -366,7 +367,7 @@
                                             </a>
                                         </h3>
                                     </div>
-                                    <div id="faq19" class="panel-collapse collapse out">
+                                    <div id="faq18" class="panel-collapse collapse out">
                                         <div class="panel-body">
                                             <p><?php echo gettext('adalah formulir asli yang dipakai oleh calon pembeli untuk membeli Unit Penyertaan yang diisi, di tanda tangani dan diajukan oleh calon pembeli kepada Manajer Investasi.'); ?></p>
                                         </div>
