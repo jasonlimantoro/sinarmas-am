@@ -358,16 +358,14 @@
     <?php include "jsload.php"; ?>
     <script>
         $(".toggle-panel").on('click', function () {
-            $(this).toggleClass(function () {
-                if ($(this).html() == 'Open all') {
-                    $('#accordion_edu .collapse').collapse('show');
-                    $(this).html('Close all');
-                }
-                else {
-                    $('#accordion_edu .collapse').collapse('hide');
-                    $(this).html('Open all');
-                }
-            })
+            if ($(this).html() == 'Open all') {
+                $('#accordion_edu .collapse').collapse('show');
+                $(this).html('Close all');
+            }
+            else {
+                $('#accordion_edu .collapse').collapse('hide');
+                $(this).html('Open all');
+            }
         });
     </script>
     </body>
