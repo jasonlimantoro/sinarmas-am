@@ -4,7 +4,7 @@
         <?php include "header.php"; ?>
     </head>
     <body>
-        
+        <script src="modules/js/assets/research.js"></script>
         <?php include "nav_structure.php"; ?>
 
         <?php 
@@ -34,7 +34,7 @@
                                 </div>
                                 <div class="panel-body">
                                     <div class="embed-responsive embed-responsive-4by3">
-                                        <iframe class="embed-responsive-item" src="http://www.sinarmassekuritas.co.id/info/research/Tahun%202017/JUL/20170712/20170712%20Daily%20Research.pdf" frameborder="0">
+                                        <iframe class="embed-responsive-item" src="http://www.sinarmassekuritas.co.id/info/research/Tahun <?php echo date('Y/M/Ymd/Ymd'); ?> Daily Research.pdf" frameborder="0">
                                         </iframe>
                                     </div>
                                 </div>
@@ -48,7 +48,7 @@
                                 <div class="panel-body">
                                     <div class="embed-responsive embed-responsive-4by3">
                                         
-                                        <iframe class="embed-responsive-item" type='application/pdf' src="http://www.sinarmassekuritas.co.id/info/research/Tahun%202017/JUL/20170712/20170712%20Daily%20Research.pdf">
+                                        <iframe class="embed-responsive-item" type='application/pdf' src="http://www.sinarmassekuritas.co.id/info/research/Tahun <?php echo date('Y/M/Ymd/Ymd'); ?> Daily Research.pdf">
                                         </iframe>
                                     </div>
                                     <hr>
@@ -63,7 +63,7 @@
                                 </div>
                                 <div class="panel-body">
                                     <div class="embed-responsive embed-responsive-4by3">
-                                        <iframe class="embed-responsive-item" type='application/pdf' src="http://www.sinarmassekuritas.co.id/info/research/Tahun%202017/JUL/20170712/20170712%20Daily%20Research.pdf">
+                                        <iframe class="embed-responsive-item" type='application/pdf' src="http://www.sinarmassekuritas.co.id/info/research/Tahun <?php echo date('Y/M/Ymd/Ymd'); ?> picks of the day.pdf">
                                         </iframe>
                                     </div>
                                     <hr>
