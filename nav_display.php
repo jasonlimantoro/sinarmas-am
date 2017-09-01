@@ -106,7 +106,7 @@
                                 <li><a href="faq">FAQ</a></li>
                             </ul>
                         </li>
-                        <li><a href="?lang=<?php echo dgettext('navigation', 'en_US'); ?>" style="text-decoration:underline;"><?php echo dgettext('navigation', 'English'); ?></a></li>
+                        <li><a href="?lang=<?php echo dgettext('navigation', 'en_US'); ?>"><span class="flag flag-<?php echo dgettext('navigation', 'us'); ?>"></span><?php echo dgettext('navigation', 'English'); ?></a></li>
                     </ul>
                 </div>
             </div>
