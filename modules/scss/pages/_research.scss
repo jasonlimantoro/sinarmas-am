@@ -1,7 +1,7 @@
 div.embed-responsive {
     display: none;
 
-    @include media-query(tablet-retina) {
+    @include media-query(laptop-retina) {
         display: block;
     }
     

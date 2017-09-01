@@ -105,7 +105,7 @@
             }
         }   
     }
-    @else if $device == tablet-retina {
+    @else if $device == laptop-retina {
         @media screen and 
         (min-device-width: 1200px) and 
         (max-device-width: 1600px) and 
