@@ -27,7 +27,7 @@
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10 col-xs-12">
                             <h1> <?php echo gettext('Edukasi'); ?> </h1>
-
+                            <a class="toggle-panel" href="#">Open all</a>
                             <div class="panel-group" id="accordion_edu">
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
@@ -356,5 +356,19 @@
         </div>
 
     <?php include "jsload.php"; ?>
+    <script>
+        $(".toggle-panel").on('click', function () {
+            $(this).toggleClass(function () {
+                if ($(this).html() == 'Open all') {
+                    $('#accordion_edu .collapse').collapse('show');
+                    $(this).html('Close all');
+                }
+                else {
+                    $('#accordion_edu .collapse').collapse('hide');
+                    $(this).html('Open all');
+                }
+            })
+        });
+    </script>
     </body>
 </html>
