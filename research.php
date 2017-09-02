@@ -18,6 +18,11 @@
 
             textdomain($domain[0]); // default domain
         ?>
+        <?php
+            $url_daily_research="http://www.sinarmassekuritas.co.id/info/research/Tahun " . date('Y/M/Ymd/Ymd') . " Daily Research.pdf";
+            $url_trading=$url_daily_research;
+            $url_picks_of_the_day="http://www.sinarmassekuritas.co.id/info/research/Tahun " . date('Y/M/Ymd/Ymd') ." picks of the day.pdf"
+        ?>
 
         <div id="page-wrapper">
             <div class="content">
@@ -28,12 +33,24 @@
                             <h1> <?php echo gettext('Riset'); ?> </h1>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h5 class="panel-title" style="color:#900"><?php echo gettext('Riset Harian'); ?></h5>
-                                    <span> <?php echo date('d/m/Y'); ?> </span>
+                                    <div class="row">
+                                        <div class="col-md-3 col-xs-7">
+                                            <h5 class="panel-title"><?php echo gettext('Riset Harian'); ?></h5>
+                                        </div>
+                                        <div class="col-md-offset-7 col-md-2 col-xs-5">
+                                            <h5 class="panel-title"><a href="<?php echo $url_daily_research; ?>" target="blank">Download</a></h5>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2">
+                                            <span> <?php echo date('d/m/Y'); ?> </span>
+                                        
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="panel-body">
                                     <div class="embed-responsive embed-responsive-4by3">
-                                        <iframe class="embed-responsive-item" src="http://www.sinarmassekuritas.co.id/info/research/Tahun <?php echo date('Y/M/Ymd/Ymd'); ?> Daily Research.pdf" frameborder="0">
+                                        <iframe class="embed-responsive-item" src="<?php echo $url_daily_research; ?>" frameborder="0">
                                         </iframe>
                                     </div>
                                 </div>
@@ -41,28 +58,53 @@
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h5 class="panel-title" style="color:#900"><?php echo gettext('Perdagangan'); ?></h5>
-                                    <span> <?php echo date('d/m/Y'); ?> </span>
+                                <div class="row">
+                                    <div class="col-md-3 col-xs-7">
+                                        <h5 class="panel-title"><?php echo gettext('Perdagangan'); ?></h5>
+                                    </div>
+
+                                    <div class="col-md-offset-7 col-md-2 col-xs-5">
+                                        <h5 class="panel-title"><a href="<?php echo $url_trading; ?>" target="blank">Download</a></h5>
+                                    </div>
+
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <span> <?php echo date('d/m/Y'); ?> </span>
+                                    </div>
+                                
+                                </div>
                                 </div>
                                 <div class="panel-body">
                                     <div class="embed-responsive embed-responsive-4by3">
                                         
-                                        <iframe class="embed-responsive-item" type='application/pdf' src="http://www.sinarmassekuritas.co.id/info/research/Tahun <?php echo date('Y/M/Ymd/Ymd'); ?> Daily Research.pdf">
+                                        <iframe class="embed-responsive-item" type='application/pdf' src="<?php echo $url_trading; ?>">
                                         </iframe>
                                     </div>
-                                    <hr>
                                 </div>
                             
                             </div>
 
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h5 class="panel-title" style="color:#900"><?php echo gettext('Pilihan Hari Ini'); ?></h5>
-                                    <span> <?php echo date('d/m/Y'); ?> </span>
+
+                                    <div class="row">
+                                        <div class="col-md-3 col-xs-7">
+                                            <h5 class="panel-title"><?php echo gettext('Pilihan Hari Ini'); ?></h5>
+                                        </div>
+                                        <div class="col-md-offset-7 col-md-2 col-xs-5">
+                                            <h5 class="panel-title"><a href="<?php echo $url_picks_of_the_day; ?>" target="blank">Download</a></h5>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2">
+                                            <span> <?php echo date('d/m/Y'); ?> </span>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="panel-body">
                                     <div class="embed-responsive embed-responsive-4by3">
-                                        <iframe class="embed-responsive-item" type='application/pdf' src="http://www.sinarmassekuritas.co.id/info/research/Tahun <?php echo date('Y/M/Ymd/Ymd'); ?> picks of the day.pdf">
+                                        <iframe class="embed-responsive-item" type='application/pdf' src="<?php echo $url_picks_of_the_day; ?>">
                                         </iframe>
                                     </div>
                                     <hr>
