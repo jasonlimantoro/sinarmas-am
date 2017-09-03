@@ -61,3 +61,21 @@
     }
 
 }
+
+// mmenu fix
+nav#menu {
+    color: $red-heading;
+    background-color: white;
+    a.mm-next {
+        &:before {
+            display: none !important;
+        }
+    }
+    .fa-twitter:before {
+        color: #1da1f2;
+    }
+    .fa-facebook:before {
+        color: #3b5998;
+    }
+
+}
