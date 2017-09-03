@@ -12,6 +12,11 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
     background-repeat: no-repeat;
     background-size: cover;
 
+    @include media-query (iphone6, both) {
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+
     // For laptops --> like parallax
     @include media-query (tablet-retina) {
             background-attachment: fixed;
