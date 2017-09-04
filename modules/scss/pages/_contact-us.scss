@@ -6,7 +6,7 @@
 }
 
 // EMBED MAPS FOR LAPTOPS
-@include media-query (tablet-retina) {
+@include media-query (laptop-retina) {
     .map iframe {
           width: 600px;
           height: 450px;

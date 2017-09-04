@@ -11,7 +11,7 @@
     //first collumn (hidden for desktop)
     .hamburger-container {
         padding-left: 0px;
-        @include media-query(tablet-retina){
+        @include media-query(laptop-retina){
             display: none !important;
 
         }
@@ -33,7 +33,7 @@
     // Third column (hidden except desktop)
     .topbar-nav {
         display: none;
-        @include media-query(tablet-retina) {
+        @include media-query(laptop-retina) {
             display: initial;
         }
         ul:first-child>li>a, {
@@ -54,7 +54,7 @@
     // Fourth column
     .reksadana_logo {
         img {
-            @include media-query(tablet-retina){
+            @include media-query(laptop-retina){
                 padding-left: 50px;
             }
         }

@@ -1,4 +1,5 @@
 <?php 
+    date_default_timezone_set('Asia/Jakarta');
     include ("Locale/setup.php");
     putenv("LANG=$lang");
     setlocale(LC_ALL, $lang);

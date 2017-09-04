@@ -18,7 +18,7 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
     }
 
     // For laptops --> like parallax
-    @include media-query (tablet-retina) {
+    @include media-query (laptop-retina) {
             background-attachment: fixed;
     }
     .carousel-inner {
