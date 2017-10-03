@@ -755,7 +755,7 @@
                                         <div class="col-md-3 col-md-offset-2">
                                             <h5> Sinarmas Sekuritas </h5>
                                             <a href="http://www.sinarmassekuritas.co.id/" target="_blank">
-                                                <img class="img-responsive" src="gallery/smlogo.png" alt="Sinarmas Sekuritas">
+                                                <img class="img-responsive" src="gallery/sekuritas_logo.svg" alt="Sinarmas Sekuritas">
                                             </a>
 
                                         </div>
