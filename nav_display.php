@@ -33,66 +33,6 @@
                                 <li><a href="contact-us"><?php echo dgettext('navigation', 'Hubungi Kami') ?></a></li>
                             </ul>
                         </li>
-                        <li><a href="#"><?php echo dgettext('navigation', 'Produk') ?><span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Pasar Uang') ?><span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="produk-danamas-rupiah-plus">Danamas Rupiah Plus</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Pendapatan Tetap') ?><span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="produk-danamas-stabil">Danamas Stabil</a></li>
-                                        <li><a href="produk-simas-danamas-mantap-plus">Simas Danamas Mantap Plus</a></li>
-                                        <li><a href="produk-danamas-dolar">Danamas Dollar</a></li>
-                                        <li><a href="produk-simas-danamas-instrumen-negara">Simas Danamas Instrumen Negara</a></li>
-                                        <li><a href="produk-danamas-pasti">Danamas Pasti</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Campuran') ?><span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="produk-simas-syariah-berkembang">Simas Syariah Berkembang</a></li>
-                                        <li><a href="produk-simas-satu">Simas Satu</a></li>
-                                        <li><a href="produk-danamas-fleksi">Danamas Fleksi</a></li>
-                                        <li><a href="produk-simas-satu-prima">Simas Satu Prima</a></li>
-                                    </ul>
-                                <li>
-                                <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Saham') ?><span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="produk-simas-syariah-unggulan">Simas Syariah Unggulan</a></li>
-                                        <li><a href="produk-simas-danamas-saham">Simas Danamas Saham</a></li>
-                                        <li><a href="produk-simas-saham-unggulan">Simas Saham Unggulan</a></li>
-                                        <li><a href="produk-simas-saham-bertumbuh">Simas Saham Bertumbuh</a></li>
-                                        <li><a href="produk-simas-saham-maksima">Simas Saham Maksima</a></li>
-                                    </ul>
-                                <li>
-                                
-                                <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Terproteksi') ?><span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                        
-                                        <li class="dropdown-header">Simas Terproteksi</li>
-                                        <li class="divider"></li>
-                                        
-                                        <li><a href="produk-simas-terproteksi-5">Simas Terproteksi 5</a></li>
-                                        <li><a href="produk-simas-terproteksi-6">Simas Terproteksi 6</a></li>
-                                        <li><a href="produk-simas-terproteksi-7">Simas Terproteksi 7</a></li>
-                                        <li><a href="produk-simas-terproteksi-8">Simas Terproteksi 8</a></li>
-                                        <li><a href="produk-simas-terproteksi-9">Simas Terproteksi 9</a></li>
-                                        <li><a href="produk-simas-terproteksi-10">Simas Terproteksi 10</a></li>
-                                        
-                                        <li class="dropdown-header">Simas Gemilang</li>
-                                        <li class="divider"></li>
-
-                                        <li><a href="produk-simas-gemilang-2">Simas Gemilang 2</a></li>
-                                        <li><a href="produk-simas-gemilang-3">Simas Gemilang 3</a></li>
-                                        <li><a href="produk-simas-gemilang-4">Simas Gemilang 4</a></li>
-                                        <li><a href="produk-simas-gemilang-5">Simas Gemilang 5</a></li>
-                                        <li><a href="produk-simas-gemilang-6">Simas Gemilang 6</a></li>
-                                        <li><a href="produk-simas-gemilang-7">Simas Gemilang 7</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
                         <li><a href="#"><?php echo dgettext('navigation', 'Wawasan') ?><span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="research"><?php echo dgettext('navigation', 'Riset'); ?></a></li>
@@ -102,6 +42,66 @@
                         </li>
                         <li><a href="#"><?php echo dgettext('navigation', 'Solusi') ?><span class="caret"></span></a>
                             <ul class="dropdown-menu">
+                                <li><a href="#"><?php echo dgettext('navigation', 'Produk') ?><span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Pasar Uang') ?><span class="caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="produk-danamas-rupiah-plus">Danamas Rupiah Plus</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Pendapatan Tetap') ?><span class="caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="produk-danamas-stabil">Danamas Stabil</a></li>
+                                                    <li><a href="produk-simas-danamas-mantap-plus">Simas Danamas Mantap Plus</a></li>
+                                                    <li><a href="produk-danamas-dolar">Danamas Dollar</a></li>
+                                                    <li><a href="produk-simas-danamas-instrumen-negara">Simas Danamas Instrumen Negara</a></li>
+                                                    <li><a href="produk-danamas-pasti">Danamas Pasti</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Campuran') ?><span class="caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="produk-simas-syariah-berkembang">Simas Syariah Berkembang</a></li>
+                                                    <li><a href="produk-simas-satu">Simas Satu</a></li>
+                                                    <li><a href="produk-danamas-fleksi">Danamas Fleksi</a></li>
+                                                    <li><a href="produk-simas-satu-prima">Simas Satu Prima</a></li>
+                                                </ul>
+                                            <li>
+                                            <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Saham') ?><span class="caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="produk-simas-syariah-unggulan">Simas Syariah Unggulan</a></li>
+                                                    <li><a href="produk-simas-danamas-saham">Simas Danamas Saham</a></li>
+                                                    <li><a href="produk-simas-saham-unggulan">Simas Saham Unggulan</a></li>
+                                                    <li><a href="produk-simas-saham-bertumbuh">Simas Saham Bertumbuh</a></li>
+                                                    <li><a href="produk-simas-saham-maksima">Simas Saham Maksima</a></li>
+                                                </ul>
+                                            <li>
+                                            
+                                            <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Terproteksi') ?><span class="caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    
+                                                    <li class="dropdown-header">Simas Terproteksi</li>
+                                                    <li class="divider"></li>
+                                                    
+                                                    <li><a href="produk-simas-terproteksi-5">Simas Terproteksi 5</a></li>
+                                                    <li><a href="produk-simas-terproteksi-6">Simas Terproteksi 6</a></li>
+                                                    <li><a href="produk-simas-terproteksi-7">Simas Terproteksi 7</a></li>
+                                                    <li><a href="produk-simas-terproteksi-8">Simas Terproteksi 8</a></li>
+                                                    <li><a href="produk-simas-terproteksi-9">Simas Terproteksi 9</a></li>
+                                                    <li><a href="produk-simas-terproteksi-10">Simas Terproteksi 10</a></li>
+                                                    
+                                                    <li class="dropdown-header">Simas Gemilang</li>
+                                                    <li class="divider"></li>
+
+                                                    <li><a href="produk-simas-gemilang-2">Simas Gemilang 2</a></li>
+                                                    <li><a href="produk-simas-gemilang-3">Simas Gemilang 3</a></li>
+                                                    <li><a href="produk-simas-gemilang-4">Simas Gemilang 4</a></li>
+                                                    <li><a href="produk-simas-gemilang-5">Simas Gemilang 5</a></li>
+                                                    <li><a href="produk-simas-gemilang-6">Simas Gemilang 6</a></li>
+                                                    <li><a href="produk-simas-gemilang-7">Simas Gemilang 7</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
                                 <li><a href="#"><?php echo dgettext('navigation', 'Simas Kalkulator') ?><span class="caret"></span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="calculator-future-investment"><?php echo dgettext('navigation', 'Investasi Masa Depan') ?></a></li>
