@@ -52,11 +52,11 @@
                             <h5><?php echo gettext('KINERJA'); ?></h5>
                             <table class="performance-table" width="100%" cellspacing="0" cellpadding="0" border="1" bordercolorlight="#999999" bordercolordark="white" bgcolor="#ededed">
                             <tbody><tr>
-                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - YTD.pdf" target="_blank"><u><?php echo gettext('Kinerja Year to Date'); ?></u></a></td>
-                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - 1 Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 1 Bulan'); ?></u></a></td>
-                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - 3 Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 3 Bulan'); ?></u></a></td>
-                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - 6 Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 6 Bulan'); ?></u></a></td>
-                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - 1 Tahun.pdf" target="_blank"><u><?php echo gettext('Kinerja 1 Tahun'); ?></u></a></td>
+                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - YTD.pdf" target="_blank"><?php echo gettext('Kinerja Year to Date'); ?></a></td>
+                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - 1 Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 1 Bulan'); ?></a></td>
+                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - 3 Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 3 Bulan'); ?></a></td>
+                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - 6 Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 6 Bulan'); ?></a></td>
+                                <td width="15%" align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Danamas Saham/Grafik Buat Web (Danamas Saham) - 1 Tahun.pdf" target="_blank"><?php echo gettext('Kinerja 1 Tahun'); ?></a></td>
                             </tr>
                             </tbody></table>
                             <h5><?php echo gettext('NAB'); ?></h5>

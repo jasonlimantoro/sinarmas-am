@@ -53,13 +53,13 @@
                         <h5><?php echo gettext('KINERJA'); ?></h5>
                             <table class="performance-table" width="100%" cellspacing="0" cellpadding="0" border="1" bordercolorlight="#999999" bordercolordark="white" bgcolor="#ededed">
                             <tbody><tr>
-                        <!--        <td align="center"><a href="../download/kinerja_produk/Simas Syariah Unggulan/Grafik Buat Web (Simas Syariah Unggulan) - YTD.pdf" target="_blank"><u>Kinerja Year to Date</u></a></td>
+                        <!--        <td align="center"><a href="../download/kinerja_produk/Simas Syariah Unggulan/Grafik Buat Web (Simas Syariah Unggulan) - YTD.pdf" target="_blank">Kinerja Year to Date</a></td>
                         -->        
-                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - Sejak Peluncuran.pdf" target="_blank"><u><?php echo gettext('Kinerja Sejak Peluncuran'); ?></u></a></td>
-                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - 1 Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 1 Bulan'); ?></u></a></td>
-                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - 3 Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 3 Bulan'); ?></u></a></td>
-                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - 6 Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 6 Bulan'); ?></u></a></td>
-                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - YTD.pdf" target="_blank"><u><?php echo gettext('Kinerja Year to Date'); ?></u></a></td>
+                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - Sejak Peluncuran.pdf" target="_blank"><?php echo gettext('Kinerja Sejak Peluncuran'); ?></a></td>
+                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - 1 Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 1 Bulan'); ?></a></td>
+                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - 3 Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 3 Bulan'); ?></a></td>
+                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - 6 Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 6 Bulan'); ?></a></td>
+                                <td align="center"><a href="//www.sinarmas-am.co.id/download/kinerja_produk/Simas Saham Bertumbuh/Grafik Buat Web (Simas Saham Bertumbuh) - YTD.pdf" target="_blank"><?php echo gettext('Kinerja Year to Date'); ?></a></td>
                                 
                             </tr>
                             </tbody></table>

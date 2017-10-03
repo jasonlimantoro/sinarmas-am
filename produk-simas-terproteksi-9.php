@@ -53,13 +53,13 @@
                         <!--<h5>KINERJA</h5>
                             <table class="performance-table" width="100%" cellspacing="0" cellpadding="0" border="1" bordercolorlight="#999999" bordercolordark="white" bgcolor="#ededed">
                             <tr>-->
-                        <!--        <td align="center"><a href="../download/kinerja_produk/Simas Syariah Unggulan/Grafik Buat Web (Simas Syariah Unggulan) - YTD.pdf" target="_blank"><u>Kinerja Year to Date</u></a></td>
+                        <!--        <td align="center"><a href="../download/kinerja_produk/Simas Syariah Unggulan/Grafik Buat Web (Simas Syariah Unggulan) - YTD.pdf" target="_blank">Kinerja Year to Date</a></td>
                         -->        
-                                <!--<td align="center"><a href="../download/kinerja_produk/Simas Terproteksi 1/Grafik Buat Web (Simas Terproteksi 1) - Sejak Peluncuran.pdf" target="_blank"><u>Kinerja Sejak Peluncuran</u></a></td>
-                                <td align="center"><a href="../download/kinerja_produk/Simas Terproteksi 1/Grafik Buat Web (Simas Terproteksi 1) - 1 Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 1 Bulan'); ?></u></a></td>
-                                <td align="center"><a href="../download/kinerja_produk/Simas Terproteksi 1/Grafik Buat Web (Simas Terproteksi 1) - 3 Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 3 Bulan'); ?></u></a></td>-->
-                                <!--<td align="center"><a href="../download/kinerja_produk/Simas Syariah Unggulan/Grafik Buat Web (Simas Syariah Unggulan) - YTD.pdf" target="_blank"><u>Kinerja Year to Date</u></a></td>-->
-                                <!--<td align="center"><a href="../download/kinerja_produk/Simas Syariah Unggulan/Grafik Buat Web (Simas Syariah Unggulan) - 6 Bulan.pdf" target="_blank"><u>Kinerja 6 Bulan</u></a></td>-->
+                                <!--<td align="center"><a href="../download/kinerja_produk/Simas Terproteksi 1/Grafik Buat Web (Simas Terproteksi 1) - Sejak Peluncuran.pdf" target="_blank">Kinerja Sejak Peluncuran</a></td>
+                                <td align="center"><a href="../download/kinerja_produk/Simas Terproteksi 1/Grafik Buat Web (Simas Terproteksi 1) - 1 Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 1 Bulan'); ?></a></td>
+                                <td align="center"><a href="../download/kinerja_produk/Simas Terproteksi 1/Grafik Buat Web (Simas Terproteksi 1) - 3 Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 3 Bulan'); ?></a></td>-->
+                                <!--<td align="center"><a href="../download/kinerja_produk/Simas Syariah Unggulan/Grafik Buat Web (Simas Syariah Unggulan) - YTD.pdf" target="_blank">Kinerja Year to Date</a></td>-->
+                                <!--<td align="center"><a href="../download/kinerja_produk/Simas Syariah Unggulan/Grafik Buat Web (Simas Syariah Unggulan) - 6 Bulan.pdf" target="_blank">Kinerja 6 Bulan</a></td>-->
                             <!--</tr>
                             </table>-->
                         <!--END KINERJA SCRIPT-->

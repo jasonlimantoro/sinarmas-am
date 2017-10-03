@@ -52,11 +52,11 @@
                         <h5><?php echo gettext('KINERJA'); ?></h5>
                         <table class="performance-table" width="100%" cellspacing="0" cellpadding="0" border="1" bordercolorlight="#999999" bordercolordark="white" bgcolor="#ededed">
                         <tbody><tr>
-                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%20YTD.pdf" target="_blank"><u><?php echo gettext('Kinerja Year to Date'); ?></u></a></td>
-                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%201%20Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 1 Bulan'); ?></u></a></td>
-                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%203%20Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 3 Bulan'); ?></u></a></td>
-                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%206%20Bulan.pdf" target="_blank"><u><?php echo gettext('Kinerja 6 Bulan'); ?></u></a></td>
-                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%201%20Tahun.pdf" target="_blank"><u><?php echo gettext('Kinerja 1 Tahun'); ?></u></a></td>
+                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%20YTD.pdf" target="_blank"><?php echo gettext('Kinerja Year to Date'); ?></a></td>
+                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%201%20Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 1 Bulan'); ?></a></td>
+                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%203%20Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 3 Bulan'); ?></a></td>
+                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%206%20Bulan.pdf" target="_blank"><?php echo gettext('Kinerja 6 Bulan'); ?></a></td>
+                            <td width="15%" align="center"><a href="http://www.sinarmas-am.co.id/download/kinerja_produk/Simas%20Danamas%20Instrumen%20Negara/Grafik%20Buat%20Web%20(Instrumen%20Negara)%20-%201%20Tahun.pdf" target="_blank"><?php echo gettext('Kinerja 1 Tahun'); ?></a></td>
                         </tr>
                         </tbody></table>
                         <h5><?php echo gettext('NAB'); ?></h5>
