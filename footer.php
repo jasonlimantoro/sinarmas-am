@@ -1,7 +1,25 @@
 <footer class="footer">
     <div class="container">
-        <div class="row" id="bottombar-nav">
-            
+        <div class="row bottombar-nav">
+            <div class="col-md-offset-3 col-md-2 col-xs-4">
+                <h3><?php echo dgettext('navigation', 'Tentang Kami') ?></h3>
+                <a href="vision-and-mission"><?php echo dgettext('navigation', 'Visi dan Misi') ?></a> <br>
+                <a href="award"><?php echo dgettext('navigation', 'Penghargaan') ?></a> <br>
+                <a href="management"><?php echo dgettext('navigation', 'Manajemen') ?></a> <br>
+                <a href="contact-us"><?php echo dgettext('navigation', 'Hubungi Kami') ?></a> <br>
+            </div>
+            <div class="col-md-2 col-xs-4">
+                </a><h3><?php echo dgettext('navigation', 'Wawasan') ?></h3>
+                <a href="research"><?php echo dgettext('navigation', 'Riset'); ?></a> <br>
+                <a href="glossary"><?php echo dgettext('navigation', 'Glossary'); ?></a> <br>
+                <a href="faq">FAQ </a> <br>
+            </div>
+            <div class="col-md-2 col-xs-4">
+                <h3><?php echo dgettext('navigation', 'Solusi') ?></h3>
+                <a href="#"><?php echo dgettext('navigation', 'Produk') ?></a> <br>
+                <a href="#"><?php echo dgettext('navigation', 'Simas Kalkulator') ?></a> <br>
+                <a href="#"><?php echo dgettext('navigation', 'Unduh') ?></a> <br>
+            </div>
         </div>
         <div class="row" id="footer_row">
             <div class="col-md-2 col-md-offset-2 col-xs-4">
