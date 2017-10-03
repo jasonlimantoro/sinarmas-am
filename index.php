@@ -60,7 +60,9 @@
 
                         </div>
                         <div align="center">
-                            <button class="btn btn-default btn-lg learn-more"><?php echo gettext("Pelajari"); ?></button>
+                            <a href="index_news" target="_blank">
+                                <button class="btn btn-default btn-lg learn-more"><?php echo gettext("Pelajari"); ?></button>
+                            </a>    
                         </div>
                         <!-- Left and right controls -->
                         <div>
