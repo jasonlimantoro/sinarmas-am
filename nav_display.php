@@ -25,6 +25,14 @@
             <div class="col-md-offset-1 col-md-7">
                 <div class="topbar-nav">
                     <ul class="nav navbar-nav">
+                        <li><a href="#"><?php echo dgettext('navigation', 'Tentang Kami') ?><span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="vision-and-mission"><?php echo dgettext('navigation', 'Visi dan Misi') ?></a></li>
+                                <li><a href="award"><?php echo dgettext('navigation', 'Penghargaan') ?></a></li>
+                                <li><a href="management"><?php echo dgettext('navigation', 'Manajemen') ?></a></li>
+                                <li><a href="contact-us"><?php echo dgettext('navigation', 'Hubungi Kami') ?></a></li>
+                            </ul>
+                        </li>
                         <li><a href="#"><?php echo dgettext('navigation', 'Produk') ?><span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="#"><?php echo dgettext('navigation', 'Reksa Dana Pasar Uang') ?><span class="caret"></span></a>
@@ -85,25 +93,29 @@
                                 </li>
                             </ul>
                         </li>
-                        <li><a href="research"><?php echo dgettext('navigation', 'Riset'); ?></a></li>
-                        <li><a href="#"><?php echo dgettext('navigation', 'Simas Kalkulator') ?><span class="caret"></span></a>
+                        <li><a href="#"><?php echo dgettext('navigation', 'Wawasan') ?><span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="calculator-future-investment"><?php echo dgettext('navigation', 'Investasi Masa Depan') ?></a></li>
-                                <li><a href="calculator-actual-investment"><?php echo dgettext('navigation', 'Investasi Aktual') ?></a></li>
-                                <li><a href="calculator-routine-investment"><?php echo dgettext('navigation', 'Investasi Rutin') ?></a></li>
-                                <li><a href="calculator-periodic-investment"><?php echo dgettext('navigation', 'Investasi Berkala (SIP)') ?></a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#"><?php echo dgettext('navigation', 'Unduh') ?><span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="download-form"><?php echo dgettext('navigation', 'Formulir') ?></a></li>
-                                <li><a href="download-prospectus"><?php echo dgettext('navigation', 'Prospektus') ?> </a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Glossary<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
+                                <li><a href="research"><?php echo dgettext('navigation', 'Riset'); ?></a></li>
                                 <li><a href="education"><?php echo dgettext('navigation', 'Edukasi'); ?></a></li>
                                 <li><a href="faq">FAQ</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#"><?php echo dgettext('navigation', 'Solusi') ?><span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#"><?php echo dgettext('navigation', 'Simas Kalkulator') ?><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="calculator-future-investment"><?php echo dgettext('navigation', 'Investasi Masa Depan') ?></a></li>
+                                        <li><a href="calculator-actual-investment"><?php echo dgettext('navigation', 'Investasi Aktual') ?></a></li>
+                                        <li><a href="calculator-routine-investment"><?php echo dgettext('navigation', 'Investasi Rutin') ?></a></li>
+                                        <li><a href="calculator-periodic-investment"><?php echo dgettext('navigation', 'Investasi Berkala (SIP)') ?></a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#"><?php echo dgettext('navigation', 'Unduh') ?><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="download-form"><?php echo dgettext('navigation', 'Formulir') ?></a></li>
+                                        <li><a href="download-prospectus"><?php echo dgettext('navigation', 'Prospektus') ?> </a></li>
+                                    </ul>
+                                </li>
                             </ul>
                         </li>
                         <li>
