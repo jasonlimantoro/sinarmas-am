@@ -58,8 +58,21 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
     }
 }
 
-// section 3
+//section 3
 .section3 {
+    padding-top: 400px;
+    padding-bottom: 400px;
+    background-image: url('../../gallery/black-photograph.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    // For laptops --> like parallax
+    @include media-query (laptop-retina) {
+        background-attachment: fixed;
+    }
+}
+
+// section 4
+.section4 {
     // the container
     .container-fluid {
         padding: 50px 0px;
