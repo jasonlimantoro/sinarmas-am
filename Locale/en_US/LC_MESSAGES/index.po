@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-07-25 13:14+0700\n"
-"PO-Revision-Date: 2017-08-25 17:46+0800\n"
+"PO-Revision-Date: 2017-10-03 18:20+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -36,3 +36,21 @@ msgstr "Interest Rate"
 
 msgid "Tipe"
 msgstr "Type"
+
+msgid "Registrasi"
+msgstr "Registration"
+
+msgid "Aktivasi"
+msgstr "Activation"
+
+msgid "Lupa Kata Sandi"
+msgstr "Forgot Password"
+
+msgid "Masuk"
+msgstr "Login"
+
+msgid "Pelajari"
+msgstr "Learn More"
+
+msgid "Reksa Dana Online"
+msgstr "Online Mutual Fund"

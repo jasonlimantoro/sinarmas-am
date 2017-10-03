@@ -60,15 +60,35 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
 
 //section 3
 .section3 {
-    padding-top: 400px;
-    padding-bottom: 400px;
+    padding-top: 300px;
+    padding-bottom: 300px;
     background-image: url('../../gallery/black-photograph.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    h1 {
+        color: white;
+        font-size: 48px;
+    }
+    h2 {
+        color: white;
+    }
+    .fund-title {
+        position: relative;
+        bottom: 200px;
+        text-align: center;
+    }
+    .container-fluid {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
     // For laptops --> like parallax
     @include media-query (laptop-retina) {
         background-attachment: fixed;
     }
+    @include media-query (iphone6, portrait){
+        padding-bottom: 200px;
+    }
+
 }
 
 // section 4

@@ -60,7 +60,7 @@
 
                         </div>
                         <div align="center">
-                            <button class="btn btn-default btn-lg learn-more">Learn More</button>
+                            <button class="btn btn-default btn-lg learn-more"><?php echo gettext("Pelajari"); ?></button>
                         </div>
                         <!-- Left and right controls -->
                         <div>
@@ -204,12 +204,27 @@
                 </div>
                 <div class="section3">
                     <div class="container-fluid">
-                        <div class="row">
+                        <div class="row fund-title">
                             <div class="col-md-12">
-
+                                <h1>Simas Fund</h1>
+                                <h2><?php echo gettext("Reksa Dana Online"); ?></h2>
                             </div>
-
                         </div>
+
+                        <div class="row fund-toolbar">
+                            <div class="col-md-3 col-xs-12">
+                                <button class="btn btn-default btn-block learn-more"><?php echo gettext("Aktivasi"); ?></button>
+                            </div>
+                            <div class="col-md-3 col-xs-12">
+                                <button class="btn btn-default btn-block learn-more"><?php echo gettext("Masuk"); ?></button>
+                            </div>
+                            <div class="col-md-3 col-xs-12">
+                                <button class="btn btn-default btn-block learn-more"><?php echo gettext("Registrasi"); ?></button>
+                            </div>
+                            <div class="col-md-3 col-xs-12">
+                                <button class="btn btn-default btn-block learn-more"><?php echo gettext("Lupa Kata Sandi"); ?></button>
+                            </div>
+                        </div>  
 
                     </div>
 
