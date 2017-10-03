@@ -28,7 +28,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="well"> <h1 style="text-align:center;color:#900;"><?php echo gettext('Hubungi Kami'); ?> </h1></div>
+                            <div class="well"> <h1 style="text-align:center;"><?php echo gettext('Hubungi Kami'); ?> </h1></div>
                         </div>
                     </div>
                     <div class="row">
