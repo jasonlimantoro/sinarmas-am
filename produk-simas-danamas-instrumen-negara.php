@@ -28,7 +28,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10 col-xs-12">
-                            <h2>Simas Danamas Instrumen Negara</h2>
+                            <h1>Simas Danamas Instrumen Negara</h1>
                         <table width="100%" border="0" style="line-height:3px; margin-top:5px;">
                         <tbody><tr>
                             <td width="12%" ><strong>TIPE</strong></td>

@@ -30,7 +30,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10 col-xs-12">
-                            <h2>Simas Syariah Unggulan</h2>
+                            <h1>Simas Syariah Unggulan</h1>
                             <table width="100%" border="0" style="line-height:3px; margin-top:5px;">
                             <tbody><tr>
                                 <td width="12%" ><strong><?php echo gettext('TIPE'); ?></strong></td>
@@ -53,7 +53,7 @@
                             </tbody></table>
                             
                         <!--START KINERJA SCRIPT-->    
-                        <h5>KINERJA</h5>
+                        <h5><?php echo gettext("KINERJA"); ?></h5>
                             <table class="performance-table" width="100%" cellspacing="0" cellpadding="0" border="1" bordercolorlight="#999999" bordercolordark="white" bgcolor="#ededed">
                             <tbody><tr>
                         <!--        <td align="center"><a href="../download/kinerja_produk/Simas Syariah Unggulan/Grafik Buat Web (Simas Syariah Unggulan) - YTD.pdf" target="_blank">Kinerja Year to Date</a></td>

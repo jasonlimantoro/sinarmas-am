@@ -28,7 +28,7 @@
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10 col-xs-12">
 
-                            <h2>Danamas Pasti</h2>
+                            <h1>Danamas Pasti</h1>
                     <table width="100%" border="0" style="line-height:3px; margin-top:5px;">
                     <tbody><tr>
                         <td width="13%" ><strong><?php echo gettext('TIPE'); ?></strong></td>
@@ -63,7 +63,7 @@
                         </tr>
                         </tbody></table>
 
-                    <h5>NAB</h5>
+                    <h5><?php echo gettext('NAB'); ?></h5>
                         <?php include("form/nab.php"); ?>
                         <input name="kode_saham" type="hidden" value="005"><br><br>
                         <input name="product_name" type="hidden" value="Danamas Pasti">     
