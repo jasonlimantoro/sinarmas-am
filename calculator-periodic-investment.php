@@ -27,8 +27,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10 col-xs-12" style="text-align:justify;">
-                            <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Berkala'); ?></h2>
-                            <h4><?php echo gettext('Dapat menghitung hasil investasi berkala Reksa Dana PT Sinarmas Asset Management'); ?></h4>
+                            <h1>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Berkala'); ?></h1>
+                            <h3><?php echo gettext('Dapat menghitung hasil investasi berkala Reksa Dana PT Sinarmas Asset Management'); ?></h3>
                             <?php echo gettext('<p>Simas Kalkulator  “Investasi Berkala” dibuat untuk mensimulasikan hasil investasi Anda pada reksa dana PT Sinarmas Asset Management. Simulasi ini dapat memberikan gambaran kepada Anda mengenai hasil investasi dari sejumlah dana yang Anda investasikan pada reksa dana PT Sinarmas Asset Management, dimana Simas Kalkulator “Investasi Berkala” langsung memperhitungkan Nilai Aktiva Bersih (NAB) pada reksa dana tersebut.</p><p>Pada Simas Kalkulator, Anda diminta untuk memilih produk yang Anda inginkan, nilai investasi setiap bulannya, periode investasi serta tanggal awal dan akhir investasi yang akan Anda simulasikan.</p><p><strong>Simulasi Investasi :</strong><br>Anda ingin melakukan investasi secara berkala pada reksa dana Simas Satu selama jangka waktu 2 tahun dengan jumlah investasi per bulan sebesar Rp 500.000,00. Berapakah hasil investasi Anda ?</p>'); ?>
                             <div>
                                 <form class="form-horizontal">

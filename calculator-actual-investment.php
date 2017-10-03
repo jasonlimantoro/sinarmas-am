@@ -27,8 +27,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10 col-xs-12" style="text-align:justify;">
-                            <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Aktual'); ?></h2>
-                            <h4 style="color:#900;"><strong><?php echo gettext('Dapat Menghitung Nilai Investasi yang diperlukan untuk pencapaian suatu Target Investasi'); ?></strong></h4>
+                            <h1>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo gettext('Investasi Aktual'); ?></h1>
+                            <h3><?php echo gettext('Dapat Menghitung Nilai Investasi yang diperlukan untuk pencapaian suatu Target Investasi'); ?></h3>
 
                             <?php echo gettext('<p>Simulasi ini bertujuan untuk memberikan gambaran kepada Anda mengenai <strong>Nilai investasi</strong> yang diperlukan untuk mencapai <strong>Target Investasi</strong>yang Anda inginkan dalam jangka waktu tertentu.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan <strong>Target Dana Investasi</strong> dan <strong>Jangka Waktu Investasi</strong> yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin membeli sebuah rumah seharga Rp 2 Milyar, dan Anda berencana untuk membeli rumah tersebut dalam jangka waktu 8 tahun mendatang. Berapakah uang yang Anda harus investasikan dalam waktu 8 tahun yang akan datang ?</p>'); ?>
                             

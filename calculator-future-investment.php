@@ -27,8 +27,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10 col-xs-12" style="text-align:justify;">
-                            <h2>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo dgettext('navigation', 'Investasi Masa Depan'); ?></h2>
-                            <h4 style="color:#900;"><strong><?php echo gettext('Dapat menghitung hasil investasi masa depan'); ?></strong></h4>
+                            <h1>Simas <?php echo gettext('Kalkulator'); ?> - <?php echo dgettext('navigation', 'Investasi Masa Depan'); ?></h1>
+                            <h3><?php echo gettext('Dapat menghitung hasil investasi masa depan'); ?></h3>
                             <?php echo gettext('<p>Simas Kalkulator dibuat untuk mensimulasikan Hasil Investasi Anda pada beberapa jenis Reksa Dana. Simulasi ini dapat memberikan gambaran kepada Anda mengenai hasil investasi dari sejumlah dana yang Anda investasikan.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 10 juta pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 5 tahun yang akan datang ?</p>'); ?>
 
                             <form class="form-inline">

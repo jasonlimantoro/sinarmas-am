@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-07-31 12:36+0800\n"
-"PO-Revision-Date: 2017-08-02 12:59+0800\n"
+"PO-Revision-Date: 2017-10-03 22:50+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -72,8 +72,11 @@ msgstr "From Simas Calculator, to buy a two-billion-rupiah house in the next 8 y
 msgid "Investasi Rutin"
 msgstr "Routine Investment"
 
-msgid "<p>Simulasi ini dapat memberikan gambaran kepada Anda mengenai <strong>Hasil investasi</strong> yang akan diperoleh dari investasi secara rutin yang Anda lakukan.</p><p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi Bulanan dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 500,000.00 setiap bulannya pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 15 tahun yang akan datang ?</p>"
-msgstr "<p>This simulation give you description about your <strong>Result Investment</strong> from your Routine Investment.</p><p>In Simas Calculator you fill with your content of investment per month and period your investment that you want in available column.</p><p><strong>Investment Simulation :</strong> <br> You start invested Rp 500,000.00 every mount in Stock Mutual Funds for next 15 years</p>"
+msgid "Simulasi ini dapat memberikan gambaran kepada Anda mengenai Hasil investasi yang akan diperoleh dari investasi secara rutin yang Anda lakukan."
+msgstr "This simulation gives you description about your Result Investment from your Routine Investment."
+
+msgid "<p>Pada Simas Kalkulator, Anda cukup mengisikan Jumlah Investasi Bulanan dan Jangka Waktu Investasi yang Anda inginkan pada kolom yang tersedia.</p><p><strong>Simulasi Investasi :</strong> <br> Anda ingin mulai melakukan investasi dengan jumlah investasi sebesar Rp 500,000.00 setiap bulannya pada Reksa Dana Saham. Berapakah hasil investasi Anda dalam waktu 15 tahun yang akan datang ?</p>"
+msgstr "<p>In Simas Calculator you fill with your content of investment per month and period your investment that you want in available column.</p><p><strong>Investment Simulation :</strong> <br> You start invested Rp 500,000.00 every mount in Stock Mutual Funds for next 15 years</p>"
 
 msgid "Setelah 15 Tahun dengan Anda berinvestasi sebesar Rp 500,000.00 setiap bulan Anda akan mendapatkan hasil investasi sebesar <code>Rp557,849,952.72</code>."
 msgstr "After 15 years with your invested Rp 500,000.00 every month you got <code>Rp 557,849,952.72</code>."
