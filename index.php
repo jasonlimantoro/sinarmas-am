@@ -213,16 +213,24 @@
 
                         <div class="row fund-toolbar">
                             <div class="col-md-3 col-xs-12">
-                                <button class="btn btn-default btn-block learn-more"><?php echo gettext("Aktivasi"); ?></button>
+                                <a href="http://rol.sinarmas-am.co.id/" target="blank">
+                                    <button class="btn btn-default btn-block learn-more"><?php echo gettext("Masuk"); ?></button>
+                                </a>
                             </div>
                             <div class="col-md-3 col-xs-12">
-                                <button class="btn btn-default btn-block learn-more"><?php echo gettext("Masuk"); ?></button>
+                                <a href="http://rol.sinarmas-am.co.id/registrasi.asp" target="blank">
+                                    <button class="btn btn-default btn-block learn-more"><?php echo gettext("Registrasi"); ?></button>
+                                </a>
                             </div>
                             <div class="col-md-3 col-xs-12">
-                                <button class="btn btn-default btn-block learn-more"><?php echo gettext("Registrasi"); ?></button>
+                                <a href="http://rol.sinarmas-am.co.id/aktivasi.asp" target="blank">
+                                    <button class="btn btn-default btn-block learn-more"><?php echo gettext("Aktivasi"); ?></button>
+                                </a>
                             </div>
                             <div class="col-md-3 col-xs-12">
-                                <button class="btn btn-default btn-block learn-more"><?php echo gettext("Lupa Kata Sandi"); ?></button>
+                                <a href="http://rol.sinarmas-am.co.id/forgot_password.asp" target="blank">
+                                    <button class="btn btn-default btn-block learn-more"><?php echo gettext("Lupa Kata Sandi"); ?></button>
+                                </a>
                             </div>
                         </div>  
 
