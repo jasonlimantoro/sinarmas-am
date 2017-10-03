@@ -39,7 +39,7 @@
                                                 <h5 class="panel-title"><?php echo gettext('Riset Harian'); ?></h5>
                                             </div>
                                             <div class="col-md-offset-7 col-md-2 col-xs-5">
-                                                <h5 class="panel-title"><a href="<?php echo $url_daily_research; ?>" target="blank">Download</a></h5>
+                                                <h5 class="panel-title"><a href="<?php echo $url_daily_research; ?>" target=_blank">Download</a></h5>
                                             </div>
                                         </div>
                                         <div class="row">
@@ -65,7 +65,7 @@
                                         </div>
     
                                         <div class="col-md-offset-7 col-md-2 col-xs-5">
-                                            <h5 class="panel-title"><a href="<?php echo $url_trading; ?>" target="blank">Download</a></h5>
+                                            <h5 class="panel-title"><a href="<?php echo $url_trading; ?>" target=_blank">Download</a></h5>
                                         </div>
     
                                     </div>
@@ -93,7 +93,7 @@
                                                 <h5 class="panel-title"><?php echo gettext('Pilihan Hari Ini'); ?></h5>
                                             </div>
                                             <div class="col-md-offset-7 col-md-2 col-xs-5">
-                                                <h5 class="panel-title"><a href="<?php echo $url_picks_of_the_day; ?>" target="blank">Download</a></h5>
+                                                <h5 class="panel-title"><a href="<?php echo $url_picks_of_the_day; ?>" target=_blank">Download</a></h5>
                                             </div>
                                         </div>
                                         <div class="row">

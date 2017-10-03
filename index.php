@@ -213,22 +213,22 @@
 
                         <div class="row fund-toolbar">
                             <div class="col-md-3 col-xs-12">
-                                <a href="http://rol.sinarmas-am.co.id/" target="blank">
+                                <a href="http://rol.sinarmas-am.co.id/" target=_blank">
                                     <button class="btn btn-default btn-block learn-more"><?php echo gettext("Masuk"); ?></button>
                                 </a>
                             </div>
                             <div class="col-md-3 col-xs-12">
-                                <a href="http://rol.sinarmas-am.co.id/registrasi.asp" target="blank">
+                                <a href="http://rol.sinarmas-am.co.id/registrasi.asp" target=_blank">
                                     <button class="btn btn-default btn-block learn-more"><?php echo gettext("Registrasi"); ?></button>
                                 </a>
                             </div>
                             <div class="col-md-3 col-xs-12">
-                                <a href="http://rol.sinarmas-am.co.id/aktivasi.asp" target="blank">
+                                <a href="http://rol.sinarmas-am.co.id/aktivasi.asp" target=_blank">
                                     <button class="btn btn-default btn-block learn-more"><?php echo gettext("Aktivasi"); ?></button>
                                 </a>
                             </div>
                             <div class="col-md-3 col-xs-12">
-                                <a href="http://rol.sinarmas-am.co.id/forgot_password.asp" target="blank">
+                                <a href="http://rol.sinarmas-am.co.id/forgot_password.asp" target=_blank">
                                     <button class="btn btn-default btn-block learn-more"><?php echo gettext("Lupa Kata Sandi"); ?></button>
                                 </a>
                             </div>
