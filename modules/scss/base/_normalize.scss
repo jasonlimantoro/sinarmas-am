@@ -8,6 +8,13 @@ input[type=number]::-webkit-outer-spin-button {
 // body {
 //     padding-top: 70px;
 // }
-a:hover {
-    text-decoration: none !important;
+a {
+    color: black;
+    &:hover{
+        text-decoration: none !important;
+        color: $red-heading;
+    }
+    &:focus {
+        text-decoration: none !important;
+    }
 }

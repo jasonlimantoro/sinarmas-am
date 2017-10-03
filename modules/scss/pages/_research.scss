@@ -10,4 +10,10 @@ div.embed-responsive {
     .panel-title {
         color: $red-heading;
     }
+    a {
+        color: black;
+        &:hover {
+            color: $red-heading;
+        }
+    }
 }
