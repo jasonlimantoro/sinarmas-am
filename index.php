@@ -59,6 +59,9 @@
                             </div>
 
                         </div>
+                        <div align="center">
+                            <button class="btn btn-default btn-lg learn-more">Learn More</button>
+                        </div>
                         <!-- Left and right controls -->
                         <div>
                             <a class="left carousel-control" href="#main-carousel" data-slide="prev">
