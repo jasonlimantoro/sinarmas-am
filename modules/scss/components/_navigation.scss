@@ -31,31 +31,39 @@
         }
     }
     // Third column (hidden except desktop)
-    .topbar-nav {
-        display: none;
-        @include media-query(laptop-retina) {
-            display: initial;
-        }
-        ul:first-child>li>a, {
-            color: #232323;
-            font-weight: bold;
-            &:hover{
-                color: $red-heading !important;
+    .topbar-nav-container{
+        margin-left: 180px;
+        .topbar-nav {
+            display: none;
+            @include media-query(laptop-retina) {
+                display: initial;
             }
-        }
-        .dropdown-header {
-            color: #232323;
-            font-size: 14px;
-            font-weight: bold;
-            padding-top: 15px;
+            ul:first-child>li>a, {
+                color: #232323;
+                font-weight: bold;
+                &:hover{
+                    color: $red-heading !important;
+                }
+            }
+            .dropdown-header {
+                color: #232323;
+                font-size: 14px;
+                font-weight: bold;
+                padding-top: 15px;
+            }
         }
     }
 
     // Fourth column
-    .reksadana_logo {
-        img {
-            @include media-query(laptop-retina){
-                padding-left: 50px;
+    .reksadana-logo-container {
+        @include media-query (laptop-retina) {
+            margin-left: 100px;
+        }
+        .reksadana_logo {
+            img {
+                @include media-query(laptop-retina){
+                    padding-left: 50px;
+                }
             }
         }
     }

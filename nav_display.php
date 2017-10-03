@@ -14,7 +14,7 @@
 
             </div>
 
-            <div class="col-md-2 col-xs-5">
+            <div class="col-md-2 col-xs-4">
                 <div class="logo-brand">
                     <a href="./">
                         <img class="sinarmas_logo img-responsive" src="gallery/main_logo.svg" alt="Brand"> 
@@ -22,7 +22,7 @@
                 </div>
             </div>
 
-            <div class="col-md-offset-1 col-md-7">
+            <div class="col-md-5 topbar-nav-container">
                 <div class="topbar-nav">
                     <ul class="nav navbar-nav">
                         <li><a href="#"><?php echo dgettext('navigation', 'Tentang Kami') ?><span class="caret"></span></a>
@@ -128,7 +128,7 @@
                 </div>
             </div>
 
-            <div class="col-md-2 col-xs-5">
+            <div class="col-md-2 col-xs-4 reksadana-logo-container">
                 <div class="reksadana_logo">
                     <a href="./">
                         <img class="reksadana_logo img-responsive" src="gallery/reksadana_logo.png" alt="Brand">
