@@ -1,8 +1,8 @@
 jQuery(document).ready(function( $ ) {
     $("#menu").mmenu({
-    "extensions": [
-        "fx-menu-zoom"
-    ],
+    // "extensions": [
+    //     "fx-menu-zoom"
+    // ],
     // configuration
         offCanvas: {
             pageSelector: "#page-wrapper"
