@@ -94,7 +94,7 @@
                     <li><a href="download-prospectus"><?php echo gettext('Prospektus'); ?></a></li>
                 </ul>
             </li>
-            <li><a href="education"><?php echo gettext('Edukasi'); ?></a></li>
+            <li><a href="glossary"><?php echo gettext('Glossary'); ?></a></li>
             <li><a href="faq">FAQ</a></li>
             <li><a href="contact-us"><?php echo gettext('Hubungi Kami'); ?></a></li>
             <li><a href="#"><?php echo gettext("Pilih Bahasa")?></a>

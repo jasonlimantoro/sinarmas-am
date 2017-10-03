@@ -36,7 +36,7 @@
                         <li><a href="#"><?php echo dgettext('navigation', 'Wawasan') ?><span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="research"><?php echo dgettext('navigation', 'Riset'); ?></a></li>
-                                <li><a href="education"><?php echo dgettext('navigation', 'Edukasi'); ?></a></li>
+                                <li><a href="glossary"><?php echo dgettext('navigation', 'Glossary'); ?></a></li>
                                 <li><a href="faq">FAQ</a></li>
                             </ul>
                         </li>
