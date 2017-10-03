@@ -1,13 +1,6 @@
-# Ignore compiled CSS and its map file
-*.css
-*.map
-
 # Sass Cache remove
 **/.sass-cache
 **/**/.sass-cache
-
-# Ignore compiled js
-*.js
 
 # Dependencies
 node_modules/
