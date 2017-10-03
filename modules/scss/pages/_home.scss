@@ -72,6 +72,9 @@ p.MsoNormalCxSpMiddle, p.MsoNormal {
     h2 {
         color: white;
     }
+    a:hover {
+        text-decoration: none !important;
+    }
     .fund-title {
         position: relative;
         bottom: 200px;
