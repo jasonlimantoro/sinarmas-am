@@ -5,3 +5,7 @@
 # Dependencies
 node_modules/
 package.json
+
+# IDE settings
+.vscode/
+.idea/
