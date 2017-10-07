@@ -11,10 +11,6 @@
     //first collumn (hidden for desktop)
     .hamburger-container {
         padding-left: 0px;
-        @include media-query(laptop-retina){
-            display: none !important;
-
-        }
         a {
             // border-right:2px solid lightgrey;
             span {
@@ -34,10 +30,6 @@
     .topbar-nav-container{
         margin-left: 180px;
         .topbar-nav {
-            display: none;
-            @include media-query(laptop-retina) {
-                display: initial;
-            }
             ul:first-child>li>a, {
                 color: #232323;
                 font-weight: bold;

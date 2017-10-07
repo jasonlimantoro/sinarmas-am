@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
 
-            <div class="hamburger-container col-md-1 col-xs-2">
+            <div class="hamburger-container col-md-1 col-xs-2 hidden-lg">
 
                 <div class="navbar-header">
 
@@ -22,7 +22,7 @@
                 </div>
             </div>
 
-            <div class="col-md-5 topbar-nav-container">
+            <div class="col-md-5 topbar-nav-container visible-lg">
                 <div class="topbar-nav">
                     <ul class="nav navbar-nav">
                         <li><a href="#"><?php echo dgettext('navigation', 'Tentang Kami') ?><span class="caret"></span></a>
@@ -36,7 +36,7 @@
                         <li><a href="#"><?php echo dgettext('navigation', 'Wawasan') ?><span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="research"><?php echo dgettext('navigation', 'Riset'); ?></a></li>
-                                <li><a href="glossary"><?php echo dgettext('navigation', 'Glossary'); ?></a></li>
+                            <li><a href="glossary"><?php echo dgettext('navigation', 'Glossary'); ?></a></li>
                                 <li><a href="faq">FAQ</a></li>
                             </ul>
                         </li>
