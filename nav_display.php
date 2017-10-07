@@ -14,7 +14,7 @@
 
             </div>
 
-            <div class="col-md-2 col-xs-4">
+            <div class="col-md-2 col-xs-5">
                 <div class="logo-brand">
                     <a href="./">
                         <img class="sinarmas_logo img-responsive" src="gallery/main_logo.svg" alt="Brand"> 
@@ -128,7 +128,7 @@
                 </div>
             </div>
 
-            <div class="col-md-2 col-xs-4 reksadana-logo-container">
+            <div class="col-md-2 col-xs-5 reksadana-logo-container">
                 <div class="reksadana_logo">
                     <a href="./">
                         <img class="reksadana_logo img-responsive" src="gallery/reksadana_logo.png" alt="Brand">
