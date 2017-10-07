@@ -1,0 +1,32 @@
+.sidebar-archived {
+    height: 500px;
+    ul {
+        list-style-type: none;
+        padding-left: 20px;
+        height: 500px;
+        // position: fixed;
+        overflow: auto;
+        &.affix {
+            top: 20px;
+
+        }
+        &.affix-bottom {
+            position: absolute;
+        }
+        li {
+            a {
+                border-left: 2px solid transparent;
+                padding: 4px 20px;
+                font-size: 13px;
+                font-weight: 400;
+            }
+            &.active {
+                a {
+                    border-left-color: $red-heading;
+                    font-weight: bold;
+                }
+            }
+                
+        }
+    }
+}
