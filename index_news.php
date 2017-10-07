@@ -63,16 +63,18 @@
                         </div>
                         <div class="col-md-4 col-xs-12">
                             <h1>Archived</h1>
-                            <a href="" class="news-date-0"></a>
-                            <a href="" class="news-date-1"></a>
-                            <a href="" class="news-date-2"></a>
-                            <a href="" class="news-date-3"></a>
-                            <a href="" class="news-date-4"></a>
-                            <a href="" class="news-date-5"></a>
-                            <a href="" class="news-date-6"></a>
-                            <a href="" class="news-date-7"></a>
-                            <a href="" class="news-date-8"></a>
-                            <a href="" class="news-date-9"></a>
+                            <ul>
+                                <li><a href="" class="news-date-0"></a></li>
+                                <li><a href="" class="news-date-1"></a></li>
+                                <li><a href="" class="news-date-2"></a></li>
+                                <li><a href="" class="news-date-3"></a></li>
+                                <li><a href="" class="news-date-4"></a></li>
+                                <li><a href="" class="news-date-5"></a></li>
+                                <li><a href="" class="news-date-6"></a></li>
+                                <li><a href="" class="news-date-7"></a></li>
+                                <li><a href="" class="news-date-8"></a></li>
+                                <li><a href="" class="news-date-9"></a></li>
+                            </ul>
                         
                         </div>
                     </div>
