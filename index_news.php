@@ -144,7 +144,7 @@
             $('#sidebar-affix').affix({
                 offset: {
                     top: 40,
-                    bottom: 400
+                    bottom: 435
                 }
             });
         </script>
