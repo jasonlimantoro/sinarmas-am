@@ -1,5 +1,5 @@
 <footer class="footer">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row bottombar-nav">
             <div class="col-md-offset-3 col-md-2 col-xs-4">
                 <h3><?php echo dgettext('navigation', 'Tentang Kami') ?></h3>
