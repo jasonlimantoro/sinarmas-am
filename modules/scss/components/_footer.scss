@@ -38,4 +38,10 @@
             text-decoration: none;
         }
     }
+    @include media-query(laptop-retina) {
+        // Insights
+        .col-md-2:nth-child(2) {
+            padding-left: 30px;
+        }
+    }
 }
