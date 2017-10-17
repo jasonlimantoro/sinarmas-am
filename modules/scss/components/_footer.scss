@@ -1,7 +1,9 @@
 .footer {
     background-color: #ffffff;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    .container-fluid {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
 }
 
 .row.credential {
@@ -29,6 +31,7 @@
 }
 
 .bottombar-nav {
+    background-color: $grey-default;
     padding-top: 100px;
     padding-bottom: 100px;
     a {
