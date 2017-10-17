@@ -9,3 +9,6 @@ package.json
 # IDE settings
 .vscode/
 .idea/
+
+# php_info
+php_info.php
