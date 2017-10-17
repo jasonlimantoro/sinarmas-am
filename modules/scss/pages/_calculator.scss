@@ -1,0 +1,14 @@
+.panel-primary  {
+    border-color: black;
+    .panel-heading {
+        background-color: $red-heading;
+    }
+
+}
+.btn.btn-primary {
+    background-color: $red-heading;
+}
+.table>thead>tr.success>th {
+    background-color: $red-heading;
+    color: white;
+}
