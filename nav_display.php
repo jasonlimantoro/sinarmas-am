@@ -25,7 +25,7 @@
             <div class="col-md-5 topbar-nav-container visible-lg">
                 <div class="topbar-nav">
                     <ul class="nav navbar-nav">
-                        <li><a href="#"><?php echo dgettext('navigation', 'Tentang Kami') ?><span class="caret"></span></a>
+                        <li><a href="about-us"><?php echo dgettext('navigation', 'Tentang Kami') ?><span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="vision-and-mission"><?php echo dgettext('navigation', 'Visi dan Misi') ?></a></li>
                                 <li><a href="award"><?php echo dgettext('navigation', 'Penghargaan') ?></a></li>
