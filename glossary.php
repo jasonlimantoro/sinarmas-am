@@ -26,7 +26,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10 col-xs-12">
-                            <h1> <?php echo gettext('Edukasi'); ?> </h1>
+                            <h1> <?php echo gettext('Glossary'); ?> </h1>
                             <a href="#" class="btn btn-default open-all">Open all</a>
                             <a href="#" class="btn btn-default close-all">Close all</a>
                             <hr>
