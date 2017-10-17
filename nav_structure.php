@@ -8,6 +8,12 @@
 
     textdomain('navigation');
 ?>
+<style>
+    /* Hide the menu until document is done loading */
+    #menu:not( .mm-menu ) {
+        display: none;
+    }
+</style>
 <!-- MENU -->
 <div class="container">
     <nav id="menu">
