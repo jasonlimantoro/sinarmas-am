@@ -30,6 +30,13 @@
     .topbar-nav-container{
         margin-left: 180px;
         .topbar-nav {
+            a {
+                color: black;
+                background-color: transparent !important;
+                &:hover {
+                    color: $red-heading !important;
+                }
+            }
             ul:first-child>li>a, {
                 color: #232323;
                 font-weight: bold;
